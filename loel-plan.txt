@@ -1,0 +1,122 @@
+
+
+
+
+
+****** League Of Extraordinary Learners Strategic Development Plan ******
+  Status
+      DRAFT
+***** LOEL Development Plan *****
+This Plan or Roadmap is organized by the construction and maintenance of Tools
+to be used by Learners and Peers to support Learners’ Educational Objectives.
+Development and improvement of LOEL Tools are ongoing once started.
+Essential LOEL_Software_Tools will initially be designed and developed by LOEL
+staff. The continued design and development of LOEL Software Tools will be
+transferred to Students and Peers managed by Staff as soon as possible.
+Eventually most management will also be transferred to Senior Facilitators and
+staff will step back into a primarily supportive role.
+Please refer to the LOEL_Tools in conjunction with this document.
+***** Planning for Exponential Growth *****
+This Roadmap is designed to encourage and manage exponential growth. The
+problems with exponential growth are
+    * in it’s early phases things grow slower than expected
+    * in it’s later phases things grow faster than expected
+    * it’s unpredictable when the transition from slow to fast will occur
+The important things about managing an exponential process is to make sure that
+    * the possibility of early large growth is planned for
+    * processes tending to damp the exponential growth are identified and
+      eliminated
+Because of the first problem with exponential growth, this plan may initially
+be over-optimistic. We must be prepared for a range of growth rates. Getting
+the strategy right will maximize the growth rate and minimize disruption.
+The markers Q1 - Q6 are intended as stages of a few months each, perhaps as
+short as a quarter, perhaps somewhat longer.
+
+===============================================================================
+**** Q1 - Initiation Phase ****
+    * Enrollment of initial (mostly volunteer) development team
+    * Training of development team
+    * Initial Design of LRM
+    * Gathering of initial LRM Content
+    * Initial Design of Learning Planner
+    * Initial Design of Learner Profile System
+    * Initial Design of Self-Assessment Testing System
+    * Initial Design of Collaborative Learning Management System
+    * Estimate of resources needed for following two quarters
+    * –> Initial deployment of Learners’ Resource Map (LRM)
+    * Design of LRM Version 2
+**** Q2 - First Bootstrapping Phase ****
+    * –> Deployment of LRM Version 2
+    * Signifcant expansion of LRM Content
+    * –> Deployment of Learner Profile System
+    * –> Enrollment of more (up to 10) Students
+    * –> Enrollment of inital (up to 6) Peers
+    * –> Enrollment of more (up to 6) Volunteer Staff
+    * –> Prototype of Learning Planner
+    * –> Liaise with Science Fair Project
+    * Further Design of Learners’ Resource Map
+    * Further Design of Self-Assessment Testing System
+    * Further Design of Collaborative Learning Management System
+    * Estimate of resources needed for following two quarters
+    * Design of Learner Profile System Version 2
+**** Q3 - Second Bootstrapping Phase ****
+    * Significant expansion of LRM Content
+    * Deployment of Learner Profile System Version 2
+    * –> Initial Deployment of Self-Assessment Testing System
+    * –> Initial Deployment of Collaborative Learning Management System
+    * –> Enrollment of more (up to 40) Students
+    * –> Enrollment of more (up to 12) Peers
+    * –> Liaise with Science Fair Project
+    * Further Design of Learning Planner
+    * Further Design of Learner Profile System
+    * Further Design of Learners’ Resource Map
+    * Further Design of Self-Assessment Testing System
+    * Further Design of Collaborative Learning Management System
+    * Estimate of resources needed for following two quarters
+**** Q4 - First Expansion Phase ****
+    * Significant expansion of LRM Content
+    * Deployment of Learner Profile System Version 3
+    * –> Initial Deployment of Self-Assessment Testing System
+    * –> Initial Deployment of Collaborative Learning Management System
+    * –> Enrollment of more (up to 100) Students
+    * –> Enrollment of more (up to 24) Peers
+    * –> Enrollment of more (up to 12) Volunteer Staff
+    * –> Liaise with Science Fair Project
+    * –> Second Prototype of Learning Planner
+    * –> Prototype of Self-Assessment Testing System
+    * Further Design of Collaborative Learning Management System
+    * –> Initial Design of Collaborative Multi-Media Environments
+    * Estimate of resources needed for following two quarters
+
+===============================================================================
+**** Q5 - First Transitioning Phase ****
+    * –> Move to cloud service provider for bandwidth
+    * Significant expansion of LRM Content
+    * –> Initial Deployment of Learning Planner
+    * –> Initial Deployment of Self-Assessment Testing System
+    * –> Enrollment of more (up to 400) Students including Science Fair
+      Students
+    * –> Enrollment of more (up to 50) Peers, mostly from Students
+    * Replacement of Staff as needed, especially from Peers
+    * Further Design of Self-Assessment Testing System
+    * Further Design of Collaborative Learning Management System
+    * –> Prototype of Collaborative Multi-Media Environments
+    * –> Students and Peers take on some development tasks
+    * Estimate of resources needed for following two quarters
+**** Q6 - Second Expansion Phase ****
+    * –> Development increasingly done by Students and Peers
+    * Significant expansion of LRM Content
+    * Deployment of Learning Planner Version 2
+    * Deployment of Self-Assessment Testing System Version 2
+    * CLMS Merger with Collaborative Multi-Media Environments
+    * Deployment of Collaborative Muti-Media Learning Environment
+    * –> Targetted Enrollment of more (thousands of) Students
+    * –> Enrollment of more (hundreds of) Peers, mostly from Students
+    * –> Enrollment of more (up to 100) Staff, mostly from Peers
+    * –> We should be prepared for at least 100,000 unofficial Learners!
+    * Further Design of Self-Assessment Testing System
+    * Further Design of Collaborative Multi-Media Learning Environment
+    * Estimate of resources needed for following two quarters
+
+===============================================================================
+****** Return_to_LOEL ******

@@ -1,0 +1,184 @@
+
+
+
+
+
+****** Extraordinary Learners: Books, Texts, Presentations, etc. ******
+Need to add for each item where applicable:
+    * Tags: Reading-level, Interests classification, Pre-requisites
+    * Links to other related websites
+    * Comments
+These works are all part of the LOEL_Educational_Resource_Map. While the
+Resource Map aims at being comprehensive, this page is intended to present a
+selection of resources of especially high quality and strategic impact which is
+small enough to invite complete exploration.
+***** Powerful Short Videos for Partners and Learners *****
+    * RSA_Animates
+          o What_Motivates_Us
+          o Education_Paradigms
+    * TED_Talks
+          o A_New_Way_to_Explain_Explanation
+    * Powers_of_Ten
+    * The_Scale_of_the_Universe
+***** General Non-Fiction Books, Texts, Presentations for Partners and
+Learners, By Author *****
+**** Richard_Dawkins ****
+Richard_Dawkin’s_Website
+    * book:_The_Magic_of_Reality
+    * book:_River_out_of_Eden
+    * book:_The_Greatest_Show_on_Earth
+**** David_Deutsch ****
+    * book:_The_Beginning_of_Infinity
+**** Jared_Diamond ****
+    * book:_The_Third_Chimpanzee
+    * book:_Guns,_Germs_and_Steel
+    * book:_Collapse
+**** Richard_Feynman ****
+    * There’s_Plenty_of_Room_at_the_Bottom
+    * book:_Surely_You’re_Joking,_Mr._Feynman!
+    * book:_What_Do_You_Care_What_Other_People_Think?
+***** Jonathan_Haidt *****
+    * book:_The_Righteous_Mind
+**** Roger_Penrose ****
+Sir Roger Penrose is one of the greatest living physicists. He also has written
+a number of books which are extraordinary resources for anyone who would like
+to learn modern science and mathematics.
+    * book:_The_Emperor’s_New_Mind
+In order to present his controversial idea that human consciousness is
+partially based on quantum phenomena he first needs to bring the reader up to
+speed in mathematics, physics and the theory of computation. The journey and
+the learning are extraordinary.
+    * book:_The_Road_to_Reality:_A_Complete_Guide_to_the_Laws_of_the_Universe
+This is a more challenging book which, however, will richly reward any reader
+with a strong interest in physics.
+**** Steven_Pinker ****
+    * book:_The_Language_Instinct
+    * book:_How_the_Mind_Works
+**** Leonard_Susskind ****
+    * book:_The_Theoretical_Minimum
+This is the first of two fairly short books designed to teach a scientifically
+literate layperson “What you need to know to start doing physics”. It is based
+on Susskind’s lecture series of the same name.
+**** Robert_Wright ****
+    * book:_Nonzero:_The_Logic_of_Human_Destiny
+
+===============================================================================
+***** Advanced Materials for Partners and Learners, By Topic *****
+These books have significant pre-requisites or require greater commitment of
+the reader. In many cases they should be used in conjunction with a course of
+study with support from Partners.
+**** Accelerating Technological Change ****
+Science and Technology are driving change at an accelerating rate. The
+consequence of this is that the future we are heading towards will not resemble
+the past. Some of the coming changes are likely to resemble extrapolations from
+existing trends, the evolution of recent developments and known theoretical
+possibilities. Others will doubtless take us by surprise.
+*** The_Technological_Singularity ***
+    * The_Coming_Technological_Singularity
+*** Molecular_Nanotechnology ***
+    * Nanotechnology
+    * About_Nanotechnology
+    * Engines_of_Creation
+**** Mathematics,_Computing,_Logic_and_Rationality ****
+*** Geometry and Computing ***
+One of the best ways to learn Geometry is by interacting with computerized
+geometry systems. One of the best ways to learn computing is by writing
+programs which construct and manipulate geometrical objects!
+    * Turtle_Graphics
+    * book:_Turtle_Geometry
+    * online_book:_Fractal_Curves
+Some computer systems are designed to support learning Euclidean geometry:
+    * app:_Dr._Geo
+*** Geometric_Algebra ***
+Geometric Algebra is a more powerful, expressive, concise and arguably
+“natural” mathematical language for much of Physics, Computer Science and other
+disciplines than traditional vector, matrix and tensor approaches.
+    * Geometric_Algebra_Introduction
+  book:_Geometric_Algebra_for_Computer_Science
+      by Chris Doran, Anthony Lasenby
+  book:_Geometric_Algebra_for_Physicists
+      by Leo Dorst, Daniel Fontune, Stephen Mann
+    * wikibook:_Physics_in_the_Language_of_Geometric_Algebra
+*** Logic and Rationality ***
+Any SSS who likes the Harry Potter series should at once read
+    * online_book:_Harry_Potter_and_the_Methods_of_Rationality
+There is excellent practical material on Logic and Rationality at
+LessWrong
+*** Advanced Computing ***
+  book:_Concepts,_Techniques_and_Models_of_Computer_Programming
+      authors: Peter Van Roy and Seif Haridi
+      This is the first book to cover most of the major computer programming
+      models. It uses an elegant multi-paradigm programming environment and
+      language (Mozart/Oz) for its examples. If you’re seriously interested in
+      computer programming, this one is a must read.
+
+===============================================================================
+***** Fiction with Educational Value for Partners and Learners *****
+Good fiction allows the reader to use their natural ability to learn through
+immersion in a well-crafted world. Learning in this way is a powerful
+complement to the (usually more distanced “studying”) relationship of reading
+non-fiction.
+**** Greg_Bear ****
+    * book:_Moving_Mars
+**** Corey_Doctorow ****
+Extraordinary Learners will find nearly all of Corey Doctorow’s work highly
+rewarding.
+    * book:_Little_Brother
+    * book:_Makers
+**** Jostein_Gaarder ****
+  * book:_Sophie’s_World
+      Sophie’s World is a tour of western philosophy through the imagined
+      viewpoint of a curious Norwegian girl.
+**** Neil_Stephenson ****
+    * book:_Diamond_Age
+Just read everything Neil Stephenson writes, OK?
+**** Vernor_Vinge ****
+    * book:_Rainbows_End
+    * book:_A_Fire_Upon_the_Deep
+    * book:_A_Deepness_in_the_Sky
+    * book:_The_Peace_War
+    * book:_Marooned_in_Realtime
+
+===============================================================================
+***** Non-Fiction Books & Presentations primarily for Learners *****
+**** George_Gamow ****
+    * book:_One,_Two,_Three,_Infinity
+**** George_Polya ****
+    * book:_How_To_Solve_It
+
+===============================================================================
+***** Fiction Books & Presentations primarily for Learners *****
+**** Robert_Heinlein ****
+Heinlein wrote a series of books for young readers that are still the model for
+making hard science and important values accessible to young readers in the
+form of exciting and engaging stories.
+    * book:_Have_Spacesuit_Will_Travel
+    * book:_Citizen_of_the_Galaxy
+    * book:_Podkayne_of_Mars
+    * book:_Space_Cadet
+**** Charles_Sheffield ****
+Sheffield’s books for young readers were inspired by Heinlein’s examples yet
+they are in a class of their own!
+    * book:_Higher_Education
+    * book:_The_Billion-Dollar_Boy
+    * book:_Putting_Up_Roots
+    * book:_The_Cyborg_from_Earth
+
+===============================================================================
+***** Materials primarily for Partners *****
+**** The_Arbinger_Institute ****
+These books and videos present an excellent and practical model for being more
+effective in our relationship to relating to young people and partners.
+The videos provide a quick introduction to material which the books go into
+much more deeply and thoroughly yet the books are short easy reads.
+    * video:_Resolving_the_Heart_of_Conflict
+    * video:_The_Anatomy_of_Peace
+    * book:_The_Anatomy_of_Peace
+    * video:_Leadership_and_Self-Deception
+    * book:_Leadership_and_Self-Deception
+**** Additional materials ****
+    * TED_Video:_For_Argument’s_Sake
+
+===============================================================================
+****** LOEL_Resources ******
+****** Return_to_LOEL ******

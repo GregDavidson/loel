@@ -1,0 +1,114 @@
+
+
+
+
+
+****** League Of Extraordinary Learners Strategic Tools ******
+  Status
+      DRAFT
+This document is a Work-In-Progress!
+***** Summary *****
+The operations of the League Of Extraordinary Learners are centered around several
+strategic web-accessible software tools. These strategic tools support and
+coordinate all of our key operations, enabling us to operate with a very lean
+staff, and most importantly, enabling the exponential growth of our programs.
+All of our educational software tools developed using an Open-Source model to
+enable Learners, Peers, Staff and supportive others to study and contribute to
+the development of these tools. Adoption of these tools by allied organizations
+only serves to further our objectives.
+Our tools will avoid “reinventing the wheel” by leveraging key existing Open-
+Source software systems.
+Although LOEL Tools will initially be designed and developed by LOEL staff, the
+bulk of the continued design and development work is to be transferred to
+Students and Peers managed by Staff as soon as possible. Eventually most
+management will be transferred to Senior Facilitators and staff will assume a
+primarily supportive role.
+The design of our strategic tools is open-ended. There is a roadmap for
+improving each tool without limit. Once the LOEL is fully bootstrapped it is
+anticipated that our tools will serve double duty as tools and also as key
+practical projects for our Students to engage with. The design and
+implementation of all of our tools will reflect this dual purpose.
+***** List of LOEL Strategic Tools *****
+    * LRM - Learners’ Resource Map
+    * LP - Learning Planner
+    * LPS - Learner Profile System
+    * SATS - Self-Assessment Testing System
+    * CLMS - Collaborative Learning Management System
+    * CMMEs - Collaborative Multi-Media Environment(s)
+    * CMMLE - Collaborative Multi-Media Learning Environment
+
+===============================================================================
+***** LOEL Software Tool Reference *****
+**** LRM: The LOEL Learners’ Resource Map ****
+The LRM is an on-line directory of learning resources. Most of the learning
+resources are on-line and (most importantly) open, i.e. inspectable, shareable
+and improvable by learners and others.
+The LRM is a strategic resource which is continually expanded and kept up to
+date to support the LOEL’s programs. It is kept in an Advanced Relational
+Database System and supports searches for individual resources and also
+Learning Paths (sequences of resources required along a Learning Plan).
+Components of the LRM Phase
+    * Selecting staff (eventually peers) for the LRM Project
+    * Ongoing Discovery of Educational Resources
+    * Designing the initial LRM Database
+    * Designing the initial LRM Web Interface
+    * Ongoing LRM growth and improvement
+Regular Deliverables
+    * Continuous additions and updates of LRM content
+    * Resource estimates for next six months
+    * Design of next LRM Database or Interface
+    * Updates of LRM Database Schemas and Interfaces
+**** LP: The LOEL Learning Planner ****
+The LP is a tool to allow learners and peers to create Learning Plans which are
+feasible courses of study leading to the achievement of learner’s educational
+objectives.
+Example:
+A learner might be interested in Quantum Mechanics. When they go to Wikipedia
+they discover that they can’t understand the articles because they’re missing
+pre-requisites. They would go to the Learning Planner to explore possible
+courses of study which would allow them to achieve their objective.
+The Learning Planner is an interactive tool which accesses the LRM and the
+learner’s profile to allow the learner to create a Learning Plan which they
+find
+**** LPS - Learner Profile System ****
+The LPS securely stores each student’s learning profile, including
+    * Interest Profile
+    * Accomplishments
+    * Results of Latest Self-Assessment Tests
+    * Current Projects
+    * Any project roles
+    * Contacts
+The LPS content is “owned” by the student. It can at any time be
+    * downloaded by the student in an open format
+    * deleted from the public system at the student’s request
+Backups are secured with an encryption key known only to the student.
+**** SATS - Self-Assessment Testing System ****
+The SATS is designed to deliver Self-Assessment Tests to students on demand.
+Tests are automatically constructed from test components (including questions
+and challenges) which cover specific elements of knowledge. Tests are
+constructed by selecting appropriate components to ensure coverage and (as the
+database of components increases to allow this) to make each test unique.
+SATS is designed to provide input to the Learning Planner as well as directly
+assisting Students in determining their accomplishments and any elements
+missing from their objectives.
+**** CLMS - Collaborative Learning Management System ****
+The CLMS is a system for supporting small groups of Learners together with Peer
+Facilitators and Mentors (Expert Volunteers) in pursuing a Learning Path
+together.
+**** CMMEs - Collaborative Multi-Media Environment(s) ****
+CMMEs are immersive Multi-Person Multi-Media Environments. While such
+environments are currently best known as the environments for Massive
+Multiplayer On-Line Games (MMOGs) they have an equally long history as
+environments for supporting collaborative learning, from Plato to Croquet to
+the WWW itself.
+A number of powerful open-source CMMEs currently exist which would be suitable
+as a basis for an LOEL strategic tool.
+    * Massive_Multi-Player_Game_Environments
+    * Open_Croquet,_Open_Cobalt
+**** CMMLE - Collaborative Multi-Media Learning Environment ****
+The CMMLE provides the services of our Collaborative Learning Management System
+integrated with a a CMME customized (by Learners and Peers with assistance from
+Mentors) into an ideal system for Collaborative Learning.
+
+===============================================================================
+****** Return_to_LOEL ******

@@ -1,0 +1,132 @@
+
+
+
+
+
+****** League Of Extraordinary Learners Resources ******
+Intellectually gifted young people are the primary active agents in organizing
+and pursuing their education and all other aspects of their growth and
+development. They are less in need of a traditional top-down educational system
+with “one-size-fits-all” programs and external motivation. Things they can
+really use include:
+    * Educational Materials
+          o Advanced-Beginning Text and Multimedia
+          o Self-Tests
+          o Syllabi which Organize Courses of Study
+    * Interactive Media and Hands-On Projects
+          o Immersive Modifiable Simulations
+          o Relevant and Challenging Real-World Projects
+    * Communication and coordination for
+          o Partners and Study Groups
+          o Challenging Group Projects
+          o Immersive Collaborative Learning Environments
+    * Peer Facilitators and Expert Mentors
+          o Organizing Courses of Study
+          o Dealing with Challenges of
+                # Realizing High Aspirations
+                # Working with “Default” Culture
+When bright young Learners are motivated they can learn a lot faster than
+conventional instruction can spoon-feed them. Our best approach for empowering
+Learners is to leverage their passion for learning and their natural
+orientation towards self-direction by getting them involved in collaborative
+projects which give them room to learn at their maximum rate. It is essential
+that the best materials they use, especially reference materials and software,
+can be adapted and improved by the Learners themselves so that they can
+continue to utilize those materials as they advance and so that the
+improvements in those materials are available to the next generation of
+Learners. Materials with suitable Creative_Commons licenses should be strongly
+preferred.
+Our best role is in the training of peer facilitators and expert mentors, who
+will increasingly consist of the graduates of our programs. We should make
+maximum use of the amazing range of existing materials which are increasingly
+available through the Internet and we should engage the Learners in projects
+which adapt and improve those materials based on their experience in using
+them. This strategic approach will maximize the success of our Learners and the
+growth of our enterprise.
+***** Online Educational Resources *****
+    * University_Courses_&_CourseWare
+          o MIT_Open_CourseWare
+          o More_from_UC_Berkeley,_Stanford,_etc.
+    * Coursera
+    * More Presentations
+          o Khan_Academy
+          o YouTube
+          o TED_Talks
+          o RSA_Animates
+    * Freely modifiable texts
+          o Wikiversity
+          o Wikipedia
+          o Wikibooks
+    * More On-Line Resources
+          o Open_Culture
+          o Google_Scholar
+***** Software Tools & Environments *****
+**** Currently Available ****
+There are an enormous number of useful individual software applications
+designed to be used in education. There are also some powerful software systems
+which create an environment in which open-ended learning can take place. Here
+are a few of the latter. LOEL Resource Map will eventually contain an
+exhaustive list of both kinds of software, properly indexed and classified.
+    * Open Software Environments for Learning
+          o Dr_Geo
+          o Scratch_–>_Snap
+          o SqueakLand_EToys
+          o Croquet_–>_Open_Cobalt)
+          o OpenQwaq
+          o Open_Wonderland
+          o Squeak
+    * SAGE
+          o Maxima
+          o Sage_Components
+Perhaps the most promising environments which can be used for education is
+software developed originally for Computer Games. Computer games are high-
+quality Simulations of Imagined Worlds. When those worlds are created by Domain
+Experts for educational purposes they can be highly effective at supporting
+educational objectives with the enthusiastic cooperation of a generation of
+students raised on cognitively challenging computer games.
+    * Open_Source_Game_Engines
+**** Emerging Technology and Low Hanging Fruit ****
+A number of software research and development projects for improving effective
+collaboration are promising for education. Some of these are new and some are
+past projects which were never fully exploited. Developing and adapting these
+systems for educational purposes can be excellent projects for our Learners.
+    * Immersive_Virtual_Worlds
+          o WorldForge
+    * Computer Enhanced Communication, Collaboration and Cognition
+          o Intelligence_Amplification
+          o The_Mother_of_All_Demos
+          o Tent_Networking_Protocol
+    * Especially Powerful Current Software Frameworks
+          o PostgreSQL
+          o PostGIS
+          o Clojure
+          o Flora_Deductive_Object-Oriented_Database
+    * Powerful Emerging Software Frameworks
+          o Pharo
+          o StrongTalk
+          o Project_Halo
+          o Wicci System
+A great model for Learners developing Software is the Google_Summer_of_Code
+Program. The model could be improved by putting students in teams and using
+peer facilitators with recently acquired skills as well as expert mentors.
+***** Future Directions *****
+**** Augmented and Virtual Reality ****
+    * Augmented_Reality
+    * Virtual_Retinal_Display
+    * Optical_Head-Mounted_Display
+**** Maker Spaces and Fabbers ****
+    * Maker_Space
+    * MIT_Fab_Labs
+    * Object_Printers
+**** PSIpedia ****
+    * a wikipedia or wiccipedia
+    * of Personalized System of Instruction materials
+    * with Jupiter/Lambda/MOO social integration
+    * FAQ & chat pods on all frames
+    * multiple-version testing as in the UCSD P-System classes
+    * integration with SAGE, etc. for leverage & visualization
+    * integration with simulations
+    * etc.!
+
+===============================================================================
+****** Return_to_LOEL ******

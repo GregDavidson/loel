@@ -1,0 +1,248 @@
+
+
+
+
+
+****** Levels of Learning ******
+***** Learning Takes Place at Many Levels *****
+There are a number of ways of characterizing different kinds of learning. For
+simplicity we’ll introduce four different “Levels”:
+    * Level 0: Learning Without Existing Explanations
+    * Level 1: Learning From Primary Explanations
+    * Level 2: Educational Materials & Facilitated Learning
+    * Level 3: Procedural Training for Specific Tasks
+We also want to introduce two different “Modes”:
+    * Top-Down: Something other than the Learner’s interest is directing the
+      process
+    * Interest-Directed: The learner’s interest is directing the process
+We claim that the most powerful Learning is in the “Interest-Directed” modes of
+Levels 0, 1 and 2. In the United States and many other countries, primary,
+secondary and undergraduate college education systems mostly use the Top-Down
+modes of Level 2. Trade Schools and other vocational programs mostly use the
+Top-Down modes of Level 3.
+Each of these Levels can be used successfully in some circumstances. Our claims
+are that (1) some of these Levels are over-used, (2) the Top-Down mode is over-
+used and (3) there are alternatives to the traditional and most common
+approaches that can be much more effective!
+**** Level 0: Learning Without Existing Explanations ****
+Human curiosity often brings us face-to-face with questions, known to
+researchers as problems, where there are not yet any organized and accepted
+answers or explanations.
+The processes of Science, Mathematics and Creative Engineering all require
+Level 0 Learning. The Learner is in a direct relationship with Physics, Logic
+and Pragmatic Possibility.
+Level 0 Learning generally benefits from, but can also be hindered by
+    * Interaction with Colleagues
+    * Speculative and Fragmentary Explanations
+    * Analogies with Similar Problems with More Mature Explanations
+    * Facility with the Discovery Processes of their Discipline
+Nearly everything we learned as children is also Level 0 learning, including
+our fluency in our native language(s). More will be said about this below!
+===============================================================================
+**** Level 1: Learning From Primary Explanations ****
+When there is an existing Scholarly or Research Literature with Good
+Explanations addressing the Subject Domain, Learning becomes a matter of
+    * Ability to Read and Understand Primary Materials
+    * Familiarity with Assumed Background Knowledge
+    * Critical Reading and Thinking Skills
+    * Access to Experts and Peer Learners
+Primary materials are generally targeted at the authors’ colleagues who have
+extensive expertise in the subject domain. Academic convention may result in
+research papers which are unnecessarily abstract and divorced from the more
+concrete models and examples which drive the researcher’s intuitions in their
+discovery process. With some exceptions, primary materials are often difficult
+to comprehend without the background possessed by the small group of
+researchers addressing the same problems.
+Accessible primary (and good seconary materials discussed below) are distinct
+from popularizations where approximations and analogies are used as substitutes
+(rather than bridges) to a complete understanding of the subject. It’s very
+common for popularizations to eliminate key mathematical parts of the best
+explanations. Academic tradition disdains popularization and the reputation of
+scholars who make their work more broadly accessible can suffer if their
+materials appear to be popularizations.
+Level 1 Learning requires a willingness to stop as often as necessary to learn
+prerequisite materials which may include, for example, unfamiliar areas of
+mathematics. Level 1 Learning is most accessible to Learners whose Love of
+Learning is complemented by strong Learning Skills.
+===============================================================================
+**** Level 2: Educational Materials & Facilitated Learning ****
+Secondary materials and procedures are designed specifically at educating
+students about a specific subject.
+The Traditional Education Approach may use:
+    * Textbooks
+    * Lectures
+    * Curricula
+    * Teachers
+The Traditional Top-Down Approach covers the material to be learned in a Linear
+Progression so that all pre-requisites are mastered sufficiently before each
+new topic is presented. Planned exercises support the progression. The students
+are “trained” in specific problem-solving methods to apply to each problem to
+produce the (generally unique) “correct” solution.
+Alternatively, a Bottom-Up Educational Approach may use:
+    * Interactive Workbooks & Notebooks
+    * Interactive Software Simulations
+    * Project Groups & Peer Facilitators
+The Traditional Top-Down Educational Approach can be very efficient when it
+matches the background, learning-style and pace of the Learner. Even when the
+traditional approach seems to work well, it may suppress rather than develop
+the intuitions essential to mastery and creative (generative) expertise.
+Bottom-Up Educational Approaches are designed to facilitate the simultaneous
+growth of Learners’ formal and intuitive understanding of the material with the
+intuitive “Hands-On” processes going first. These alternative approaches often
+allow Learners more flexibility to set their own pace and detailed trajectory.
+Bottom-Up Education tries to avoid implying that there is only one solution to
+any given problem and instead presents contrasting solutions and encourages the
+Learner to explore additional solutions.
+===============================================================================
+**** Level 3: Procedural Training for Specific Tasks ****
+Industrial Training has traditionally been designed to train Blue-Collar
+workers
+    * to efficiently and reliably produce
+    * predictable results
+    * under the direction of managers
+    * using methods planned by experts
+Expertise and creativity and especially experimentation have traditionally been
+seen as undesirable characteristics in Blue-Collar Workers.
+Recently, increasing computerized automation has been reducing the demand for
+uncreative workers at ALL levels of organization. It is increasingly possible
+to automate the uncreative work of Workers, Managers, Planners and even
+Executives.
+The modern viewpoint, championed by Deming and others views first-tier
+(manufacturing and customer-facing) workers as key experts in providing quality
+of goods and services. These first-tier workers have the greatest opportunity
+to see what works and doesn’t work and how processes can be improved.
+Innovative approaches such as quality circles were designed to utilize this
+expertise, both for immediate application (continuous_improvement) and also to
+communicate it up the chain-of-command, leading to what is sometimes called a
+“inverted” hierarchy, i.e. where managers work FOR the first-tier workers,
+helping them do their job best, and providing two-way communication with the
+rest of the enterprise.
+Modern education systems arose, grew and took their current form during the
+pre-modern industrialization era, which was also a time when most if not all
+large societies had a very rigid class structure. We can easily see that much
+of the structure of our educational institutions and the way we think about
+education (our Educational_Paradigms) are not well adapted to current needs.
+While nearly everyone admits that our educational system is in crisis, our
+institutions and unconscious assumptions (those pesky paradigms again) resist
+even well-proven advancements.
+===============================================================================
+***** Learning can be Conscious or Unconscious *****
+First, an extended example, please read this first:
+**** Learning New (Foreign) Human Languages ****
+Linguists now know a great deal about the structure of human language.
+Linguists have built mathematical and computational models which can,
+respectively represent and perform much of the processes involved in human
+language understanding and generation. Despite great progress, the best
+linguistic models fail to account for the fluency of native speakers of any
+human language.
+Traditional language teaching in schools is done in a top-down mode where the
+teacher has students consciously memorize words and rules and apply that
+knowledge to understanding and speaking the new language. Most students find
+the process difficult and distasteful, dropping out if they can. The students
+who complete the program are “proficient” but almost never fluent. As an
+example, schools in Japan and France require seven years of this kind of study
+of English, yet the results are far from impressive.
+There are two problems with the traditional approach:
+(1) Since even professional linguists do not know the rules which native
+speakers follow, it is impossible for teachers to train anyone to follow them!
+(2) Conscious processes are severely constrained by limited cognitive
+resources. Unconscious processes have access to the brain’s massive resources
+of pattern-associative memory and parallel distributed processing. Native
+speakers acquire and exhibit nearly perfect intuitions and performance in a
+short period of time through exploiting natural, largely unconscious learning
+processes.
+It is often said that learning human languages well requires special resources
+present only in the young. However, educational programs based on immersion
+have shown that adults can become fluent in new languages just as quickly as or
+even more quickly than children do; when the immersion is managed properly
+fluency can be achieved in one school year with no more time than is usually
+allocated to a single subject.
+Learning a human language is an Interest-Directed process which can be
+“facilitated” and “coached” but not well “taught”, i.e. it can be optimized by
+a well-designed immersion, exposure and engagement process.
+Linear, conscious attention during the early phases of Language Learning can be
+harmful as it inhibits the acquisition of the language intuitions which
+underlie fluency.
+===============================================================================
+**** OK, How does this apply to other Subjects? ****
+Many key intellectual skills work best when mostly performed by unconscious and
+automatic processes, e.g.
+    * Reading
+    * (first-draft) Writing
+    * Mathematical Intuition
+    * Physical Intuition
+    * Social Intuition
+Again, despite massive research investments, our best scientific models and
+computer simulations of all of these skills fall far short of human ability.
+The highest levels of expertise and mastery in most areas involve a small
+amount of Conscious Awareness organizing a larger amount of intuitive and
+automatic skill.
+If these highest levels of expertise and mastery are to be available to more
+Learners, the learning process must facilitate rather than suppress the
+development of foundational intuition. Formal, conscious understanding will aid
+the learning process when it follows rather than leads intuitive understanding.
+The Learner can tell the difference: Rules which align and organize intuitive
+understanding give an “A-HA” response and “click in”.
+Seymour_Papert made an explicit analogy between learning languages and
+mathematics when he said “What would happen if children who canât do math
+grew up in Mathland, a place that is to math what France is to French?” "
+===============================================================================
+***** Learning can be Open or Closed *****
+Most of what we know we learned without conscious direction, through immersion
+in the world and in our social surround. Although the skills we acquired in
+this natural process of engagement are our highest, our most fluent skills, if
+they remain unconscious they will never go anywhere, they are Closed.
+Most of what is taught, consciously and successfully in school fails to engage
+long-term interest in the students. It is either soon forgotten or is applied
+in rote fashion when needed, rather than vigorously expanded upon. When the
+student’s interest is not engaged the learning is, once again, Closed.
+Closed Learning reaches some level and then stops. It ossifies, becoming less
+and less likely to be built-upon as time goes on.
+Open Learning is driven by curiosity, often in periods of almost obsessive
+concentration. Open Learning is driven by a desire for depth and breadth as
+well as connection and integration with everything else in the learner’s world
+and existing knowledge. If it stops, then it becomes Closed and ossifies.
+Ideally, Open Learning is never completed; obsessive interest dies down to a
+more moderate level after a few months and becomes integrated into the
+Learner’s more general interests.
+The biggest criticism which can be leveled at the current way education
+operates in our modern societies is that it discourages Open Learning and the
+Love of Learning in most young people.
+The ability of a few Learners to come out of their formative years with their
+Curiosity and Love of Learning in good shape is a wonderful fact about human
+diversity. Like IQ, it speaks to some important characteristics of individuals.
+That some Learners will do well even when everything is against them (not
+because everything is against them) says little about what we should be doing
+to support Learners in general.
+Here and there we are able to observe groups of Learners almost all of whom do
+extremely well, because of a special teacher or an alternative educational
+process. It is a sad fact that our existing educational systems actively avoid
+being informed by these successes. We can do better than that.
+We know that there are processes which result in nearly all young people
+emerging from childhood with
+    * an excellent general education
+    * a love of learning along with good learning skills
+    * adult-level expertise in their area(s) of passion
+    * a guarantee of future success
+This should be the birthright of all human beings. It is our job to make it so.
+Any program of “education” which does not have this as its ultimate aim is
+misdirected.
+===============================================================================
+***** Would You Like To Join Us? *****
+Please use this_handy_form to contact us if you’d like to assist with any of
+our projects.
+***** Further Exploration and References *****
+As an important contextual background for our projects, we recommend that you
+watch these two 10-minute videos prepared by the (British) Royal Society for
+the Arts:
+    * What_Motivates_Us
+    * Education_Paradigms
+Here are links to some of our working materials and projects taken from the
+draft LOEL website:
+    * Books,_Texts,_Presentations,_etc.
+    * Resources
+    * Concepts
+    * Paradigms
+    * References_and_Further_Resources
+===============================================================================
+****** Return_to_LOEL ******

@@ -1,0 +1,135 @@
+
+
+
+
+
+****** LOEL: The League of Extraordinary Learners ******
+Status: DRAFT
+This page is part materials for the League Of Extraordinary Learners Website. When
+our official Website goes live, these materials will be accompanied by some
+videos produced by the Foundation introducing the Vision and Mission of the
+Foundation along with extensive On-Line Educational Resources.
+***** What is LOEL? *****
+The League of Extraordinary Learners, LOEL, is a Learning Community of people who love to learn and who support one another in their learning
+activities.
+The League consists of
+    * Learners persuing their love of learning
+    * Peer Facilitators assisting their peers with material they themselves
+      have recently learned
+    * Subject Experts & Learning Mentors
+    * Supporters of LOEL and LOEL’s Learners
+**** Are you a Learner? ****
+A Learner is someone who loves learning. Learners typically
+    * Are fascinated by one or more subject areas
+    * Love reading and exploring their areas of interest
+    * Are eager to expand their Learning and Thinking skills
+While the terms Learner and Student are partially synonymous, Student tends to
+imply someone following a specific progarm controlled by an Educational
+Institution. We use the term Learner to mean someone who is pursuing their
+interests without or beyond the scope of any official program.
+**** Are you an Extraordinary Learner? ****
+An Extraordinary Learner Possesses
+    * abundant curiosity & exuberance,
+    * flexibility & resilience,
+    * a drive to learn and grow.
+While these characteristics are typical of young people, youthful older people
+share the same characteristics.
+The League is especially welcoming to young people and extends that welcome to
+youthful older people - as long as they are well behaved ☺.
+Who do you know who might be an Extraordinary Learner?
+
+===============================================================================
+***** How does the League support You and Other Extraordinary Learners? *****
+Extraordinary Learners do not wait for teachers, they actively seek information
+and knowledge about their areas of interest. Modern Learners spend a lot of
+time browsing the Web, e.g. reading Wikipedia Articles, viewing TED talks, etc.
+Learners seek the best learning materials. Challenging material is sometimes
+learned best with the support of other Learners, Peer Facilitators, Experts and
+Mentors. Collaborative Projects can be helpful for some kinds of Learning.
+Members of the League support one another in finding
+    * The best Learning Materials for any Subject
+    * Fellow Learners for Study Groups and collaborative Projects
+    * Peer Facilitators who have recently learned the same Subjects
+    * Expert Mentors who can back up the Peer Facilitators
+**** We operate Strategically ****
+We are careful to never stand between a Learner and their interests: the
+Learner is always the active agent in their education. We stand to the side and
+help make the resources which they need more available.
+Much of the necessary resources already exist freely on the web but there are
+gaps. We will cause the creation or adaptation of
+    * Directories of available material
+    * Syllabi of organized courses of study
+    * Materials for carrying out Hands-On Projects
+    * Communication tools for
+          o Participating in Group Projects
+          o Interaction with Peer Facilitators and Mentors
+    * Self-tests and other coverage metrics
+    * Additional and improved material of all kinds
+It is our thesis that the best peers and mentors for supporting the Learners
+are some of the other Learners who have recently completed a given course of
+study. We will call these graduates “Peer Facilitators”. We also believe that
+to the greatest extent possible, the Learners and the Peer Facilitators are the
+best creators of improved and missing materials, both during and soon after
+their experience with a course of study.
+
+===============================================================================
+***** Learning in the Real World *****
+Resources for a good education need to include more than excellent educational
+study materials. Much of the learning should be done as part of Hands-On
+Projects, often with Groups of Learners, dealing with the challenges of
+accomplishing results in the real world. Our partnership will empower and
+enable the Learners and Peer Facilitators to create and participate in a large
+variety of such projects.
+We will encourage Learners in the same geographic area to create or join a LOEL
+Chapter and utilize local support to create and participate in
+    * Weekend and Summer Intensives
+    * Tech Shops, Maker Spaces, etc.
+A LOEL Chapter will typically be small enough that its Learners can get to know
+one another. Some LOEL Chapters will be organized Geographically, e.g. San
+Diego LOEL or Mumbai LOEL; others will likely be Internet Based groups focused
+on common interests.
+We also encourage and support Learners in acquiring the interpersonal
+communication and collaboration skills needed for success in carrying out large
+projects and in working effectively in large organizations such as Universities
+and Corporations.
+***** Learn More *****
+As an important contextual background for our projects, we recommend that you
+watch these two 10-minute videos prepared by the (British) Royal Society for
+the Arts:
+    * What_Motivates_Us
+    * Education_Paradigms
+Here are links to some of our working materials and projects:
+    * Levels_Of_Learning
+    * Strategic_Plan
+    * Strategic_Tools
+    * Educational_Resources
+    * Books,_Texts,_Presentations,_etc.
+    * Frequently_Asked_Questions
+***** Less Complete Materials *****
+If you’re still wanting more, here are some supplementary materials is less
+polished form:
+    * draft:_Concepts
+    * draft:_References_and_Further_Resources
+
+===============================================================================
+***** How You Can Participate NOW! *****
+Participation in LOEL can take many forms, including:
+    * Using our Materials and Services
+    * Improving LOEL’s On-Line Learning Materials
+    * Improving our On-Line Software Tools
+    * Volunteering as a Peer Facilitator or a Subject Matter Expert
+    * Participating at the Chapter Level or Creating New Chapters
+Please use this_handy_form to contact us if you’d like to assist with any of
+our projects.
+We’re using advanced software technologies to build the LOEL Strategic tools,
+including
+    * ClojureScript for Dynamic Web pages
+    * Advanced Wiki Technologies for Content Management
+    * SQL Metaprogramming in PostgreSQL
+If you have an interest in these technical areas and you’re either an expert or
+an eager learner, we can especially use your assistance!
+We can also always use
+    * Technical Writers and Artists
+    * Expert Reviewers and Subject Domain Experts
+    * Extraordinary Learners who would like to be Peer Facilitators
+    * Fund Raisers, Enthusiastic Recruiters and more!

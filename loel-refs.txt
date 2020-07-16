@@ -1,0 +1,48 @@
+
+
+
+
+
+****** League Of Extraordinary Learners References ******
+    * A collection of references and resources
+    * for the League Of Extraordinary Learners;
+    * ideas and material available for later use;
+    * semi-organized miscellany!
+***** Handy Links to Internal Documents *****
+    * draft:_LOEL_Concepts
+    * draft:_LOEL_Frequently_Asked_Questions
+    * draft:_LOEL_Educational_Resources
+    * draft:_Books,_Texts,_Presentations,_etc.
+    * draft:_Paradigms,_Beliefs_and_Practices_Impacting_Education
+    * draft:_Buzzwords_and_Branding
+***** General Resources on the World Wide Web *****
+    * Wikiversity
+    * Wikipedia
+    * Wikibooks
+    * Creative_Commons
+    * Stanford_Encyclopedia_of_Philosophy
+    * Massive_Multi-Player_Game_Environments
+***** The World Our Learners Are Living Into *****
+The world our students will be living in when they are adult will be in many
+ways very different from the world we know today, let alone the world our Adult
+Partners know from their childhoods.
+    * Emerging_Technologies
+***** Hosting Services *****
+Linode.Com starting with their Basic Plan for 2 TB of data transfer per month:
+$20/month
+RackSpace_Cloud
+***** Miscellaneous Resources *****
+    * Powers_of_Ten
+    * The_Edge_Annual_Questions
+    * 4H
+    * Boy_Scouts
+    * Girl_Scouts
+    * Model Rocketry
+    * Science Fairs
+    * Science Clubs
+    * Math Clubs
+    * Math_Overflow
+    * StackExchange_Sites
+
+===============================================================================
+****** Return_to_LOEL ******

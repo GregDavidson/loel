@@ -1,0 +1,153 @@
+
+
+
+
+
+****** League Of Extraordinary Learners Concepts and Glossary ******
+  Status
+      VERY EARLY DRAFT
+This is a Work-In-Progress! It needs to gloss all of the terms and principles
+which appear in the other materials.
+***** Learning Partnership Model *****
+In the Learning Partnership Model Learners, Graduates and committed Other
+Partners are encouraged to participate fully in the ongoing development and
+improvement of all Learning Programs and Materials. All the materials and the
+design of all programs is freely offered to any other Learners or groups
+running educational programs provided they give back their improvements to the
+community at large. (Share and Share-Alike principle).
+See: Creative_Commons
+***** Keller Plan aka Mastery System aka PSI *****
+In the Keller Plan material to be learned is divided into modules of related
+material which are
+    * organized according to pre-requisites
+    * accompanied by
+          o a variety of study materials (texts, multimedia, etc.)
+          o Homework or Hands-On Projects
+          o rigorous self-tests
+Keller Plan study is normally
+    * pursued by a collaborative group
+    * self-paced or group-paced
+Keller Plan courses may have optional and alternative modules and allow many
+different paths for individuals and groups.
+A module or course is only passed if all Learners have mastered all of its core
+distinctions.
+***** Collaborative Learning *****
+***** Immersion Learning *****
+***** Intensive Short Courses *****
+Learning Tree’s intensive Hands-On Courses are an excellent example of the
+efficiency and power of Intensive Short Courses.
+Intensive Short Courses are primarily of value when the material learned
+    * is a prerequisite for urgent projects
+    * will be immediately and extensively applied right away
+***** MIT Logo and Xerox Smalltalk *****
+The best STEM-oriented programs I am aware of that have produced excellent
+results with middle-school aged Learners have been the ones operated by Xerox
+PARC oriented around the Smalltalk environment and those at MIT oriented around
+Pappert’s LOGO system and Negroponte’s One Laptop per Child projects.
+All three of these projects use the principle of immersing the young person in
+an environment in which the mathematical and physical material to be learned
+was directly observable and manipulable. Rather than trying to micromanage what
+the Learners were to do with the material the project staff got the Learners to
+create interesting collaborative projects and then stepped back into the role
+of peers and mentors. The result of this approach was that the Learners wound
+up going very far and fast with their learning and wound up with a solid
+practical ownership of both the abstract material and the technology.
+***** UCSD Computer Science Keller Plan *****
+The project I know best borrowed many of the best ideas from (1) Xerox PARC’s
+Smalltalk Project, (2) MIT’s LOGO project along with (3) the mastery-oriented
+technology of the Keller Plan plus (4) one more key ingredient I’ll mention in
+a moment. That project was the UCSD P-System Project which was responsible for
+introducing all entering UCSD students in the basics of Computer Science up to
+writing complex custom programs of their own design. Although the Students in
+our program were just out of high school, I believe that everything we did
+would have worked similarly with middle school or high school aged Students.
+The additional key ingredient in our UCSD project was creating a path allowing
+and encouraging the Students to take increasing leadership roles in the
+project, beginning with assisting in the lab, then contributing materials and
+finally becoming full-fledged project members. In this way one professor, Ken
+Bowles, was able to manage a program that simultaneously trained thousands of
+students every year (with unprecedented academic success) and which also
+developed a complete operating system and complete set of software tools more
+advanced than any then available on microcomputers.
+My experience of bright young Learners is that when they are motivated they can
+learn a lot faster than conventional instruction can spoon-feed them. I believe
+that our best approach to empowering Learners is to leverage their passion for
+learning and their natural orientation towards self-direction by getting them
+invovled in collaborative projects which give them room to learn at their
+maximum rate using materials and technology they can use ongoingly. Our best
+role is in the training of peers and mentors, which will eventually largely
+consist of the graduates of our programs. We should also make maximum use of
+the amazing range of exisiting materials which are now available through the
+Internet and engage the Learners in projects which adapt and improve those
+materials based on their experience. I think that this kind of approach will
+maximize the future success of our Learners!
+
+===============================================================================
+***** More Things *****
+**** Montessori ****
+**** MIT Pappert Mathland ****
+MIT experience PARC experience
+**** Still More Things ****
+    * Lambda/Moo –> Jupiter social interaction
+    * OLPC, Sugar, Mesh, …
+  UCSD P-System Project ooroborus
+      early students –> proctors –> partner creators
+      You only own what you understand, use and evolve
+      Tests as evaluation, not judgement.
+    * Tech Shops, Object Printerrs
+    * UCSD Physics, UC Irvine’s Mathematics
+***** Psipedia *****
+    * a wikipedia or wiccipedia
+    * of Personalized System of Instruction materials
+    * with Jupiter Lambda/MOO social integration
+    * FAQ & chat pods on all frames
+    * multiple-version testing, a la UCSD P-System Project
+    * integration with SAGE, etc. for leverage & visualization
+    * integration with simulations
+    * etc.!
+***** Peers *****
+***** Sojourner Mentality *****
+***** Getting oneself out of the middle *****
+The originator:
+    * Holds the initial Vision
+    * Drives the enterprise
+    * Gets things started
+    * Works to achieve “liftoff”
+If the originator holds onto control after liftoff:
+The originator:
+    * target of all resistance/pushback
+    * overwhelmed by increasing issues
+    * growth limited by capacity of an individual
+    * either burns out or has to strangle the enterprise
+The master originator:
+    * Always looking to give tasks away
+    * Seeks to get him/herself out of the middle
+    * Re-injects the vision as necessary
+    * Becomes a resource rather than a limiting factor
+***** Values and Principles *****
+**** Values ****
+    * Curiosity
+    * Drive to Mastery
+    * Self-Discipline
+    * Esprit de Corps
+    * Partnership
+    * Unboundedness
+**** Principles ****
+    * Learner is primary active agent.
+    * Teacher is relatively passive
+          o Facilitator
+          o Mentor
+    * Recursion
+          o Virtuous Cycles
+          o Each one teach some
+          o ref: UCSD
+    * Sojourner Mentality
+          o The Future Living Into
+    * Mathland, et al
+          o Seymour Pappert
+                # Immersive Environments
+                # Interactive
+                # Collaborative
+
+===============================================================================
+****** Return_to_LOEL ******
