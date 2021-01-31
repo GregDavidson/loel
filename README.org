@@ -1,0 +1,5 @@
+* The League of Extraordinary Learners
+
+This repository is a *Draft* of [[https://gregdavidson.github.io/loel][the League Website]]. It is in process of being
+transitioned to being hosted by GitHub from a private server. It is /not yet/
+ready for public consumption.
