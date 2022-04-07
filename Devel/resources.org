@@ -1,0 +1,20 @@
+* LOEL Resources Pool
+
+This is a repository for resources which /might possibly/ be useful for LOEL.
+These resources are not curated or officially recommended.  
+
+Copy promising bookmarks here for better categorization, sharing, etc. 
+
+** Websites
+   
+*** [[https://betterexplained.com/][Better Explained]]
+
+** Articles
+   
+** Books
+   
+** Videos
+   
+** Other Media
+
+Interactive notebooks, Audio Books, etc.

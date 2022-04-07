@@ -1,0 +1,17 @@
+* LOEL Snippets Pool
+
+This is a repository for resources which /might possibly/ be useful for LOEL.
+These resources are not curated or officially recommended.  
+
+Copy interesting excerpts, notions, etc. here.
+
+Provide sources including URLs where possible.
+
+** jgd Thoughts
+
+Human beings are Extraordinary Learners. Maria Montessori said that children are
+better at learning than teachers are at teaching. Children have a great capacity
+for learning whatever is interesting to them - not necessarily what some adults
+would prefer them to be learning. Humans at all ages can expand and develop
+their curiosity along with the scope of their interests and their capacity for
+learning to an extraordinary degree.

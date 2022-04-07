@@ -1,0 +1,11 @@
+* LOEL Quotes and Memes Pool
+
+This is a repository for quotes and memes which /might possibly/ be useful for
+LOEL. These resources are not curated or officially recommended.
+
+Provide sources including URLs where possible.
+
+** Quotes
+ 
+** Memes
+
