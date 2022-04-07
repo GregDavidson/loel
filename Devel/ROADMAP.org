@@ -21,7 +21,9 @@
 
 
 ** Near-term Strategies
+   
 *** Git, GitHub, GitLab
+    
 - git skills
 - Github and Gitlab skills
       - sufficient to host our websites
@@ -29,10 +31,12 @@
 Minimize Github or Gitlab specific features. 
 
 *** Computing Magic Skills
+    
 establish desired software culture
 - quality, productivity, etc.
 
 *** PostgreSQL Magic Skills
+    
 - sufficient for the tools we envision
 - leveraging and improving parts of the Wicci framework
 
@@ -44,7 +48,9 @@ establish desired software culture
  
 Sufficient to
 - Automate and Document Everything
- 
+
+*** Introductory Videos
+
 ** Mid-Term Strategies
    
 *** Initial Database and Wicci-Centric Framework
@@ -57,3 +63,17 @@ Sufficient to
     - Everything Monotonic or Versioned with Transclusion
     - Fantic Notebooks
     - Croquet
+
+*** Hosting our Resources
+    - Can we tie in with other progressive organizations?
+    - Archive.org
+ 
+*** Ownership and Governance
+    - Not for Profit Corporation
+    - Sociocracy?
+      
+*** Funding
+    - Donation system
+    - Special licensing of our software and content
+ 
+** Questions and Open Issues
