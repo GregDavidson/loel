@@ -1,0 +1,59 @@
+* Loel Roadmap
+
+- Everything in this Roadmap is a draft.
+- Please help improve it!
+
+** Plan 
+   
+*** Enroll LOEL Partners
+**** Share LOEL with new folk
+**** Invite LOEL allies to be partners
+*** Incrementally Improve this Roadmap
+**** Request feedback from Observers
+**** Brainstorm with Partners
+*** Configure Initial LOEL to be GitHub-based
+*** Initially use Discord for LOEL Forum
+**** Categories for
+    - Leveraging Github
+    - Computing Magic Curriculum
+    - Other Computing Curricula
+    - The Wicci
+
+
+** Near-term Strategies
+*** Git, GitHub, GitLab
+- git skills
+- Github and Gitlab skills
+      - sufficient to host our websites
+        
+Minimize Github or Gitlab specific features. 
+
+*** Computing Magic Skills
+establish desired software culture
+- quality, productivity, etc.
+
+*** PostgreSQL Magic Skills
+- sufficient for the tools we envision
+- leveraging and improving parts of the Wicci framework
+
+- Lean database-supported Web Skills
+      - TypeScript?
+      - ClosureScript?
+
+*** Shell and Command Magic Skills
+ 
+Sufficient to
+- Automate and Document Everything
+ 
+** Mid-Term Strategies
+   
+*** Initial Database and Wicci-Centric Framework
+    - Get Wicci to a strong Beta
+    - Create a collaborative post-Emacs editing environment
+    - Create a schema isomorphic to git with git import & export
+    - Move all of our development into the Database
+ 
+*** Fulfill Engelbart and Nelson Possibilities
+    - Everything Monotonic or Versioned with Transclusion
+    - Fantic Notebooks
+    - Croquet
