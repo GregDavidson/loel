@@ -1,0 +1,96 @@
+* Presenting LOEL
+
+** Setting the Space
+
+The League of Extraordinary Learners (LOEL) is a design for a (mostly)
+Internet-Hosted Learning Community which is Learner Centered and co-developed by
+Learners and Experts.
+
+Is it OK to record Audio?
+Is it OK to distribute the Audio recording?
+
+- LOEL is based on multiple demonstrated breakthroughs
+      - LOEL's approach is very different from traditional education!
+      - There are multiple successful models for Learner-Centered education!
+      - I will begin by presenting the what and the why of LOEL's design
+            - in an orderly, easy to understand fashion, i.e. top-down!
+            - without us bogging down
+- Your feedback now and later is essential
+      - I want you to get
+            - the current design of LOEL
+            - And that everything is Open to Criticism
+      - I am eager to delve deep with you on any issue
+            - but maybe later!
+      - Let's initially use Chat
+            - for questions and comments
+            - as much as possible
+            - so we don't bog down
+        
+** Diving In
+
+*** Top-Down Education vs. Bottom-Up Facilitated Learning
+
+- Top-Down Teaching Paradigm
+- Bottom-Up facilitation paradigm
+
+*** Examples of Radical Alternatives
+
+- Montessori
+- Immersion: Language Acquisition, Mathland, Gamification
+- the Keller Plan
+
+*** Why LOEL distances itself from Educational Institutions
+- Anecdote of my attempt to improve my French
+- Montessori getting sidelined into schools for elite young children
+- Keller Plan at UC San Diego and UC Irvine
+
+*** The LOEL Design
+
+*** Original Innovative Software Tools and Wicci approach
+
+Curricula consist of Modules
+- Modules form Roadmaps
+- There's more than one way to learn things!
+ 
+Modules consist of Frames
+- Frames fulfill the intent of the module
+ 
+Frames consist of
+- Documents --> Notebooks --> Immersive Worlds
+- Projects
+- Self-Assessment Tools
+
+Frames have FAQ nodes associated with each element
+- FAQ nodes use the Stack Overflow model
+
+*** The Interim GitHub Approach
+
+*** What We Need Now
+
+We need collaborators!
+
+We need /leaders/ who will enroll
+- Learners
+- Volunteers
+      - Peer Facilitators
+      - Initial Content Creators
+      - Observers
+- More Leaders!
+ 
+We need Technical Volunteers
+- To help create and maintain our infrastructure
+ 
+We need people to create our Organization
+- Creating a Not-For-Profit Foundation
+- Some Fundraising Needed!
+ 
+We need Curriculum Creators
+- Any Curricula Our Creators and Leaders Can Support
+ 
+We will initially Prioritize our Computing Curriculum
+- Computing Curricula needs good projects
+      - Use LOEL infrastructure wherever feasible
+- We have material for this already
+      - https://github.com/GregDavidson/computing-magic
+
+** Q & A & Discussion
