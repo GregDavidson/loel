@@ -1,4 +1,7 @@
-* Presenting LOEL
+* Presenting the League of Extraordinary Learners
+
+[[https://gregdavidson.github.io/loel/][LOEL Website]]
+[[https://github.com/GregDavidson/loel/][LOEL Github Repo]]
 
 ** Setting the Space
 
@@ -6,47 +9,178 @@ The League of Extraordinary Learners (LOEL) is a design for a (mostly)
 Internet-Hosted Learning Community which is Learner Centered and co-developed by
 Learners and Experts.
 
-Is it OK to record Audio?
-Is it OK to distribute the Audio recording?
+Get some permissions
+- Is it OK to record Audio?
+- Is it OK to distribute the Audio recording?
 
-- LOEL is based on multiple demonstrated breakthroughs
-      - LOEL's approach is very different from traditional education!
-      - There are multiple successful models for Learner-Centered education!
-      - I will begin by presenting the what and the why of LOEL's design
-            - in an orderly, easy to understand fashion, i.e. top-down!
-            - without us bogging down
-- Your feedback now and later is essential
-      - I want you to get
-            - the current design of LOEL
-            - And that everything is Open to Criticism
-      - I am eager to delve deep with you on any issue
-            - but maybe later!
-      - Let's initially use Chat
-            - for questions and comments
-            - as much as possible
-            - so we don't bog down
-        
+LOEL is based on multiple demonstrated breakthroughs
+- LOEL's approach is very different from traditional education!
+- There are multiple successful models for Learner-Centered education!
+- There's a lot to go through today!
+- I will begin by presenting the what and the why of LOEL's design
+      - in an orderly, easy to understand fashion, i.e. top-down!
+      - without us bogging down
+
+Your feedback now and later is essential
+
+- I want you to understand
+      - the current design of LOEL
+      - and that everything is /Open to Criticism!/
+- I am eager to delve deep with you on any issue
+      - but maybe later!
+- Let's maximize the use of Chat
+      - for this first information rich part of the presentation
+      - chat your questions and comments
+      - chime in when something seems urgent
+
 ** Diving In
+
+*** A Breakthrough in Education is Needed!
+
+#+begin_quote
+Civilization is a race between education and disaster. H.G. Wells
+#+end_quote
+
+Everyone agrees that
+- The US spends massively on education
+- Education in the US is not working well
+- Many other countries do better
+- Many other countries do much worse
+- [[https://rossieronline.usc.edu/blog/u-s-education-versus-the-world-infographic/][US Education vs. World Infographics]]
+- [[https://www.theguardian.com/us-news/2018/sep/07/us-education-spending-finland-south-korea][US Education vs. Finland and South Korea]]
+
+Most Students are
+- Semi-literate at best
+- Demonstrating Learned Helplessness
+  - Especially in Math and other "solids"
+- Civics, Geometry, etc. Descoped
+
+This is widely held to be a crisis
+- Human productivity is key to individual and societal wealth.
+- Education is the foundation of freedom and productivity.
+
+Nothing we're doing is helping much, if at all.
+- It may be a paradigm problem.
 
 *** Top-Down Education vs. Bottom-Up Facilitated Learning
 
-- Top-Down Teaching Paradigm
-- Bottom-Up facilitation paradigm
+Top-Down Teaching Paradigm
+ 
+- The US system was based on the (German) Prussian system
+- Conforming to military command
+- Teachers under tight administration control
+- Homogenous cohorts of
+      - Students sitting in formation
+      - Hold still while we do education to you!
+- Stop/Start when bells ring
+- Judging, evaluating and permanently labeling students based on
+      - Conformance, Compliance, Assignments, Tests
+ 
+Bottom-Up Facilitation Paradigm
+
+- What might that look like?
 
 *** Examples of Radical Alternatives
 
-- Montessori
-- Immersion: Language Acquisition, Mathland, Gamification
-- the Keller Plan
+**** Montessori
+
+#+begin_quote
+Humans have more capacity to learn than teachers have capacity to teach.
+- Maria Montessori
+#+end_quote
+
+Montessori "teachers" are trained
+- first to observe
+- second to facilitate
+
+Students explore projects
+- projects are designed to provide feedback
+- students select which projects to explore projects
+- other students have more impact than the "teacher" does
+
+**** Immersion and Constructive Learning
+
+Language Acquisition
+
+Mathland
+- Papert, Logo, Computing Magic
+
+Gamification
+
+**** the Keller Plan
+
+[[https://en.wikipedia.org/wiki/Keller_Plan][Generic Keller Plan]] 1960s
+
+UC San Diego and UC Irvine used Keller Plan inspired systems extensively for
+lower division curricula in the late '70s and early '80s.
+
+UC San Diego
+      - General Psychology
+      - Introduction to Computer Science
+            - [[https://en.wikipedia.org/wiki/Kenneth_Bowles][Professor Ken Bowles]]
+      - Honors Physics
+        
+UC Irvine, Mathematics
+      - [[https://www.educause.edu/ir/library/html/erm/erm99/erm9946.html][Interview with Professor Alfred Bork]]
+      - [[https://www.researchgate.net/scientific-contributions/Alfred-Bork-69661195][Alfred Bork papers]]
+        
+UCSD CS Keller plan outperformed traditional system
+- run against traditional system for a year
+- more than 80% of Keller Plan students got As
+      - very few got Bs or Cs
+      - about the same got Ds and Fs as traditional systems
+- A students better than in traditional system!
+- traditional system discontinued
+
+Details of UCSD Computer Science System
+- Open Laboratory
+- Group Projects
+- Peer Facilitators
+      - Mentor students
+      - Contribute tests and other material
+      - Grade (pass/no-pass) projects and tests
+      - Motivation
+            - learn a lot
+            - make a difference
+            - get academic credit
+- Assessment and feedback
+      - Challenging Projects
+      - full-coverage tests
+            - 100% score required or retake next day
+            - Students loved them!
+- Project members
+      - selected from peer facilitators
+      - get work-study funds
+      - create software infrastructure
+      - that software changed the world!
 
 *** Why LOEL distances itself from Educational Institutions
-- Anecdote of my attempt to improve my French
-- Montessori getting sidelined into schools for elite young children
-- Keller Plan at UC San Diego and UC Irvine
+
+Anecdote of my attempt to improve my French
+ 
+Montessori getting sidelined into schools for elite young children
+ 
+Keller Plan at UC San Diego, UC Irvine and elsewhere
+
+Conventional schools are optimized for certificates and such, not education!
 
 *** The LOEL Design
 
-*** Original Innovative Software Tools and Wicci approach
+**** Participants
+
+- Learners
+- Peer Facilitators
+- Experts
+
+**** Materials
+
+- Curricula which leverage existing Open Culture materials
+- Free Accounts for Learners, etc.
+- Learning Planning Tool
+      - Find Curricula, Modules
+      - Find Partners, Peer Facilitators
+
+**** Original Innovative Software Tools and Wicci approach
 
 Curricula consist of Modules
 - Modules form Roadmaps
@@ -65,6 +199,21 @@ Frames have FAQ nodes associated with each element
 
 *** The Interim GitHub Approach
 
+All materials Open Culture in =git= repositories.
+
+Everyone can clone the repositories.
+Everyone can improve the materials and submit =pull= requests.
+- peer facilitator contributions prioritized
+- students and expert contributions supplementary
+
+*** The Eventual /Wicci System/ Approach
+
+The [[https://gregdavidson.github.io/wicci-core-S0_lib/][Wicci System]]
+- similar a Wiki system, e.g. Wikipedia
+- special advantages for collaborative development of diverse materials
+- ideal for the LOEL
+- needs further development!
+
 *** What We Need Now
 
 We need collaborators!
@@ -79,6 +228,7 @@ We need /leaders/ who will enroll
  
 We need Technical Volunteers
 - To help create and maintain our infrastructure
+- To complete the Wicci project
  
 We need people to create our Organization
 - Creating a Not-For-Profit Foundation
@@ -91,6 +241,6 @@ We will initially Prioritize our Computing Curriculum
 - Computing Curricula needs good projects
       - Use LOEL infrastructure wherever feasible
 - We have material for this already
-      - https://github.com/GregDavidson/computing-magic
+      - [[https://github.com/GregDavidson/computing-magic][Computing Magic Curriculum]]
 
 ** Q & A & Discussion
