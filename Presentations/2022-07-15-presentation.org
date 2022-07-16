@@ -18,20 +18,21 @@ LOEL is based on multiple demonstrated breakthroughs
 - There are multiple successful models for Learner-Centered education!
 - There's a lot to go through today!
 - I will begin by presenting the what and the why of LOEL's design
-      - in an orderly, easy to understand fashion, i.e. top-down!
+      - in an orderly, easy to understand fashion
       - without us bogging down
+      - i.e. top-down!  -- oh, the irony!
 
 Your feedback now and later is essential
+- Let's maximize the use of Chat
+- do interrupt me when something seems urgent, and
+- for this first, information rich part of the presentation
+- chat your questions and comments
 
 - I want you to understand
       - the current design of LOEL
       - and that everything is /Open to Criticism!/
 - I am eager to delve deep with you on any issue
       - but maybe later!
-- Let's maximize the use of Chat
-      - for this first information rich part of the presentation
-      - chat your questions and comments
-      - chime in when something seems urgent
 
 ** Diving In
 
@@ -41,7 +42,7 @@ Your feedback now and later is essential
 Civilization is a race between education and disaster. H.G. Wells
 #+end_quote
 
-Everyone agrees that
+The US vs the World
 - The US spends massively on education
 - Education in the US is not working well
 - Many other countries do better
@@ -49,18 +50,24 @@ Everyone agrees that
 - [[https://rossieronline.usc.edu/blog/u-s-education-versus-the-world-infographic/][US Education vs. World Infographics]]
 - [[https://www.theguardian.com/us-news/2018/sep/07/us-education-spending-finland-south-korea][US Education vs. Finland and South Korea]]
 
-Most Students are
+Most Students in the US are
 - Semi-literate at best
-- Demonstrating Learned Helplessness
-  - Especially in Math and other "solids"
+- Trained into /Learned Helplessness/
+      - Especially in Math and other "solids"
 - Civics, Geometry, etc. Descoped
+
+While education in some countries seems to be working better than in the US, how
+would we know if it is falling short of meeting the potential of young people?
 
 This is widely held to be a crisis
 - Human productivity is key to individual and societal wealth.
 - Education is the foundation of freedom and productivity.
+- Very bad for creating a post-scarcity future!
 
-Nothing we're doing is helping much, if at all.
+Political and institutional attempts to improve things
+- Are not helping much, if at all.
 - It may be a paradigm problem.
+- A paradigm which occurs worldwide
 
 *** Top-Down Education vs. Bottom-Up Facilitated Learning
 
