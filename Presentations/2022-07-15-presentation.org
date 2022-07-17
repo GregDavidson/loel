@@ -1,5 +1,7 @@
 * Presenting the League of Extraordinary Learners
 
+** Websites
+
 [[https://gregdavidson.github.io/loel/][LOEL Website]]
 [[https://github.com/GregDavidson/loel/][LOEL Github Repo]]
 
@@ -195,6 +197,7 @@ Curricula consist of Modules
  
 Modules consist of Frames
 - Frames fulfill the intent of the module
+- Frames have associated feedback "tests" or "projects"
  
 Frames consist of
 - Documents --> Notebooks --> Immersive Worlds
