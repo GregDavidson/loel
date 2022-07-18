@@ -136,10 +136,13 @@ UC Irvine, Mathematics
         
 UCSD CS Keller plan outperformed traditional system
 - run against traditional system for a year
-- more than 80% of Keller Plan students got As
-      - very few got Bs or Cs
-      - about the same got Ds and Fs as traditional systems
-- A students better than in traditional system!
+- students were evaluated using A-F grades in both systems
+- more than 80% of Keller Plan students got A-grades
+      - very few got B-grades or C-grades
+      - about the same got D-grades and F-grades as traditional systems
+      - basically, any students who engaged with the course got an A-grade
+- Keller Plan A-grade students had a higher level of mastery than with the traditional system!
+- /Keller Plan/ is also called /Mastery Education/
 - traditional system discontinued
 
 Details of UCSD Computer Science System
