@@ -111,10 +111,11 @@ Students explore projects
 
 Language Acquisition
 
-Mathland
-- Papert, Logo, Computing Magic
-
-Gamification
+[[https://en.wikipedia.org/wiki/Seymour_Papert][Seymour Papert]]
+- [[https://www.youtube.com/watch?v=UgE05-3SToc][1 minute Mathland Video]]
+- [[https://en.wikipedia.org/wiki/Logo_(programming_language)][Logo]]
+- [[https://github.com/GregDavidson/computing-magic][Computing Magic]]
+- [[https://duckduckgo.com/?t=ffab&q=gamification+of+education&atb=v33-1&ia=web][Gamification]]
 
 **** the Keller Plan
 
@@ -219,10 +220,10 @@ Everyone can improve the materials and submit =pull= requests.
 *** The Eventual /Wicci System/ Approach
 
 The [[https://gregdavidson.github.io/wicci-core-S0_lib/][Wicci System]]
-- similar a Wiki system, e.g. Wikipedia
+- Like a Wiki system, e.g. Wikipedia, only more general purpose
 - special advantages for collaborative development of diverse materials
 - ideal for the LOEL
-- needs further development!
+- needs further development to get out of the research phase!
 
 *** What We Need Now
 
