@@ -1,6 +1,6 @@
 * Presenting the League of Extraordinary Learners
 
-** Websites
+Mastery EducationMastery Education
 
 [[https://gregdavidson.github.io/loel/][LOEL Website]]
 [[https://github.com/GregDavidson/loel/][LOEL Github Repo]]
@@ -117,12 +117,18 @@ Language Acquisition
 - [[https://github.com/GregDavidson/computing-magic][Computing Magic]]
 - [[https://duckduckgo.com/?t=ffab&q=gamification+of+education&atb=v33-1&ia=web][Gamification]]
 
-**** the Keller Plan
+**** Mastery Education and the Keller Plan
 
-[[https://en.wikipedia.org/wiki/Keller_Plan][Generic Keller Plan]] 1960s
+Traditional education is not just top-down but it also uses tests and
+assignments to judge students' level of competence with course material.
+An alternative is Mastery Education where tests and assignments are used
+to assist students in mastering course material rather than judging them.
 
-UC San Diego and UC Irvine used Keller Plan inspired systems extensively for
-lower division curricula in the late '70s and early '80s.
+The [[https://en.wikipedia.org/wiki/Keller_Plan][Keller Plan]], developed in the 1960s, was a popular form of Mastery Education
+in the 1970s.
+
+UC San Diego and UC Irvine used a Mastery Education system inspired by the Keller
+Plan for a number of key lower division courses in the late '70s and early '80s.
 
 UC San Diego
       - General Psychology
@@ -134,16 +140,22 @@ UC Irvine, Mathematics
       - [[https://www.educause.edu/ir/library/html/erm/erm99/erm9946.html][Interview with Professor Alfred Bork]]
       - [[https://www.researchgate.net/scientific-contributions/Alfred-Bork-69661195][Alfred Bork papers]]
         
-UCSD CS Keller plan outperformed traditional system
-- run against traditional system for a year
-- students were evaluated using A-F grades in both systems
-- more than 80% of Keller Plan students got A-grades
-      - very few got B-grades or C-grades
-      - about the same got D-grades and F-grades as traditional systems
+UCSD CS first Keller-inspired course outperformed traditional course
+- run against conventional course for a year
+- students evaluated using A-F grades in both systems
+- Conventional course awarded grades based on
+      - test scores and evaluation of homework
+- "Keller" course awarded grades based on
+      - amount of material mastered
+- more than 80% of "Keller" students got A-grades
+      - very few B-grades or C-grades
+      - about the same got D-grades and F-grades as conventional course
       - basically, any students who engaged with the course got an A-grade
-- Keller Plan A-grade students had a higher level of mastery than with the traditional system!
-- /Keller Plan/ is also called /Mastery Education/
-- traditional system discontinued
+- Comprehensive evaluations at the end of the courses
+      - Among A-grade students
+      - "Keller" students significantly outperformed conventional course
+        students!
+- the traditional system was discontinued
 
 Details of UCSD Computer Science System
 - Open Laboratory
@@ -156,11 +168,18 @@ Details of UCSD Computer Science System
             - learn a lot
             - make a difference
             - get academic credit
-- Assessment and feedback
-      - Challenging Projects
-      - full-coverage tests
+- Material was divided into modules
+      - Challenging Projects expected to be done with a group
+      - Individual assessment on completed project
+            - Individual must understand all aspects of solution
+            - Regardless of who in their group did which parts
+      - full-coverage tests to pass each module
             - 100% score required or retake next day
             - Students loved them!
+      - If student completed all modules, they got an A-grade.
+      - Otherwise student grade based on a combination of
+            - number of modules completed
+            - grade from conventional final exam
 - Project members
       - selected from peer facilitators
       - get work-study funds
@@ -169,13 +188,28 @@ Details of UCSD Computer Science System
 
 *** Why LOEL distances itself from Educational Institutions
 
-Anecdote of my attempt to improve my French
+[Anecdote] Before my Freshman year at UCSD I met with a counselor to plan my
+courses. I asked what courses I could take to improve my French. The counselor
+looked at my transcript and said "you don't need to take any more French, you've
+already completed your language requirement". I said "yes, I know, but I'm just
+barely proficient and I'd like to improve my French." The counselor looked at me
+like I was especially stupid and repeated, more slowly this time: "you don't
+need to take any more French, you've already completed your language
+requirement".
  
-Montessori getting sidelined into schools for elite young children
+Maria Montessori designed and targeted her schools for poor children in the
+slums of Rome and Calcutta. Now (at least in the US) Montessori Schools are
+expensive schools almost exclusively available for the children of the elite.
  
-Keller Plan at UC San Diego, UC Irvine and elsewhere
+The Keller Plan courses at UC San Diego, UC Irvine were shut down by the
+administrator, who claimed that they were an example of "Grade Inflation,"
+despite proof that they were the opposite. I later found out that this had
+happened in most places the Keller Plan had been tried. Interestingly, the
+administration was perfectly happy to allow the Physics Department to continue
+to use the Keller Plan for their special Honors Physics courses.
 
-Conventional schools are optimized for certificates and such, not education!
+Bottom Line: Conventional schools are optimized for selling certificates and
+producing a Bell Curve, they are not optimized for education!
 
 *** The LOEL Design
 
