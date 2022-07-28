@@ -1,6 +1,6 @@
 * Presenting the League of Extraordinary Learners
 
-Mastery EducationMastery Education
+** Links for this Presentation
 
 [[https://gregdavidson.github.io/loel/][LOEL Website]]
 [[https://github.com/GregDavidson/loel/][LOEL Github Repo]]
@@ -22,13 +22,17 @@ LOEL is based on multiple demonstrated breakthroughs
 - I will begin by presenting the what and the why of LOEL's design
       - in an orderly, easy to understand fashion
       - without us bogging down
-      - i.e. top-down!  -- oh, the irony!
+      - i.e. top-down!
+            - oh, the irony!
 
 Your feedback now and later is essential
-- Let's maximize the use of Chat
-- do interrupt me when something seems urgent, and
-- for this first, information rich part of the presentation
-- chat your questions and comments
+- Let's maximize the use of the /Chat Tool/
+- for this first, information rich part
+      - type your questions and comments into the chat
+      - I'll try to respond to what you're writing there
+            - interrupt me if I seem to miss something important!
+      - I'll review the chat later to improve the presentation
+            - so put everything there you can think of!
 
 - I want you to understand
       - the current design of LOEL
