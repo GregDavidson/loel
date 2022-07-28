@@ -2,8 +2,8 @@
 
 ** Links for this Presentation
 
-[[https://gregdavidson.github.io/loel/][LOEL Website]]
-[[https://github.com/GregDavidson/loel/][LOEL Github Repo]]
+- [[https://gregdavidson.github.io/loel/][LOEL Website]]
+- [[https://github.com/GregDavidson/loel/][LOEL Github Repo]]
 
 ** Setting the Space
 
