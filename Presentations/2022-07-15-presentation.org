@@ -45,7 +45,8 @@ Your feedback now and later is essential
 *** A Breakthrough in Education is Needed!
 
 #+begin_quote
-Civilization is a race between education and disaster. H.G. Wells
+Civilization is a race between education and disaster.
+-- H.G. Wells
 #+end_quote
 
 The US vs the World
@@ -62,18 +63,19 @@ Most Students in the US are
       - Especially in Math and other "solids"
 - Civics, Geometry, etc. Descoped
 
-While education in some countries seems to be working better than in the US, how
-would we know if it is falling short of meeting the potential of young people?
+While education in some countries
+- seems to be working somewhat better than in the US
+- how would we know if it is falling well short of what's possible?
 
-This is widely held to be a crisis
+Education in the US is widely held to be in crisis
 - Human productivity is key to individual and societal wealth.
 - Education is the foundation of freedom and productivity.
 - Very bad for creating a post-scarcity future!
 
 Political and institutional attempts to improve things
-- Are not helping much, if at all.
-- It may be a paradigm problem.
-- A paradigm which occurs worldwide
+- Are not helping much, if at all
+- It may be a paradigm problem
+- A paradigm which occurs worldwide!
 
 *** Top-Down Education vs. Bottom-Up Facilitated Learning
 
@@ -84,7 +86,7 @@ Top-Down Teaching Paradigm
 - Teachers under tight administration control
 - Homogenous cohorts of
       - Students sitting in formation
-      - Hold still while we do education to you!
+      - /Hold still while we do education to you!/
 - Stop/Start when bells ring
 - Judging, evaluating and permanently labeling students based on
       - Conformance, Compliance, Assignments, Tests
@@ -108,12 +110,13 @@ Montessori "teachers" are trained
 
 Students explore projects
 - projects are designed to provide feedback
-- students select which projects to explore projects
+- students select which projects to explore next
 - other students have more impact than the "teacher" does
 
 **** Immersion and Constructive Learning
 
 Language Acquisition
+- Immersion vs classroom instruction
 
 [[https://en.wikipedia.org/wiki/Seymour_Papert][Seymour Papert]]
 - [[https://www.youtube.com/watch?v=UgE05-3SToc][1 minute Mathland Video]]
