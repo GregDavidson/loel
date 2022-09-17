@@ -1,0 +1,80 @@
+* LOEL Tech Meets
+
+** 2022-09-17 Tech Meet #1
+
+*** To do before the call
+Check on the Discord
+Get the address
+*** To do after the call
+Write up good notes
+Propagate ideas to the Discord
+
+*** Annoucement
+
+This Saturday, the 17th, I'd like to meet via Zoom to have a preliminary
+discussion of some very technical computing topics that may
+(A) become part of LOEL curricula, e.g. the Computing Magic curriculum
+(B) become part of the LOEL infrastructure after GitHub, e.g. the Wicci
+(C) or simply topics and issues on which we would like some peer feedback
+
+I'd like to find out which topics y'all would like us to consider.
+And of course I have several of my own, including
+(1) Diverse VM technologies: Qubes, GUIX, Docker, K8s, Podman, etc.
+(2) Best use of Shells: Bourne, Dash, my Simples library, etc.
+(3) Best use of databases: PostreSQL and extensions to it
+(4) Computer Languages, Libraries and Paradigms
+(5) Development environments: Emacs, OrgMode, Make, Git, etc.
+(6) Tools for thinking and collaborating: OrgMode, etc.
+
+I'm not imagining that we would go deep on any of this, but depending on who is
+able to show up and what we can map out, there may be some fruitful followups!
+I'd also like to capture any followup into our new LOEL Discord!
+
+Warning: This is going to be very geeky and disorganized!
+
+Day: Saturday 17 September 2022
+Time: 10:30am Pacific Daylight Time
+-- just after the Longevity Zoom, in case you attend that
+Link: https://us02web.zoom.us/j/810472918
+password: abundance
+
+You can just show up and, who thinks you might like to attend?
+
+*** Other Topics
+
+- Social Bookmarking
+- LOEL authoring tools
+- Smart contacts and ticklers
+
+*** Possible LOEL Curricula
+
+**** Rationality and Rhetoric aka /Defense against the Dark Arts/
+- HPMOR reading and study group
+- Creating and playing rationality-sharpening Games
+**** Creating Computer Games
+- Projects lead towards creating games for Immersive Learning
+**** Database Mastery
+- PostgreSQL-based
+      - Includes Schema and Schema-less approaches
+      - SQL, JSON, XML
+- Some projects involve
+      - Creating and improving LOEL Tools
+      - improving the Wicci Schema
+**** Advanced Website Design
+- Oriented towards front-ending database-based back ends
+**** Hybrid Artificial Intelligence
+- Projects lead towards creating
+      - Declarative Probabilistic Constraint Logic Frameworks
+            - Designed for Metaprogramming
+                  - [[https://en.wikipedia.org/wiki/Flora-2][Flora-2]]
+            - ML for heuristic search
+      - Smart shells for new projects
+      - Shared knowledge-based assistants
+      - Personal knowledge-based assistants
+**** Leveraging Emacs, OrgMode, Etc.
+
+*** For the Discord
+
+**** Needed Channels
+- Development Tools Fellowship
+- 
