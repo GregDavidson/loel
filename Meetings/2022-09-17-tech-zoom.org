@@ -1,15 +1,8 @@
 * LOEL Tech Meets
 
-** 2022-09-17 Tech Meet #1
+** 2022-09-17 LOEL Technology Meeting #1
 
-*** To do before the call
-Check on the Discord
-Get the address
-*** To do after the call
-Write up good notes
-Propagate ideas to the Discord
-
-*** Annoucement
+*** The Annoucement for This Special meeting
 
 This Saturday, the 17th, I'd like to meet via Zoom to have a preliminary
 discussion of some very technical computing topics that may
@@ -40,13 +33,159 @@ password: abundance
 
 You can just show up and, who thinks you might like to attend?
 
-*** Other Topics
+*** Participants
+
+- Touch, Jeff, Thiago, Nikhil, Sahiti, Lynn
+
+*** What about future LOEL meetings?
+
+A suggestion is to have 1 or 2 "regular" LOEL meetings a month which are easy
+for newcomers to enter, or which have an initial period of time which is
+designed as such. Other meetings would be devoted to specialized sub-groups.
+
+Alternatively, we could use Zoom "breakout rooms" to allow us to start together
+and then separate to sub-group meetings, one of which is for welcoming newcomers
+and introducing them to the project. We could optionally come back together
+after a set period to report on what we've learned. And/or let each sub-group
+continue as long as it wants and report its results in the Discord.
+
+*** Establishing Context
+**** From Aristotle & Archimedes to Seymour Papert
+The story is that when Alexander complained to his tutor Aristotle about the
+difficulty of learning mathematics, Aristotle replied "There is no royal road
+for learning mathematics". This story has been a favorite of mediocre
+mathematics teachers for more than two thousand years as a way to blame their
+students rather than themselves for the students' lack of success!
+
+Seymour Papert talked about how top-down teaching systems don't work very well.
+Using learning french as an example, he pointed out that tradition methods of
+teaching french in school have a high dropout and failure rate and generally
+only achieve mediocre results after multiple years of study. In contrast, every
+child in France learns to speak french fluently.  Papert says that if we want to learn
+mathematics, we should do it immersed in Mathland.  And then proceeded to invent Turtle Graphics and the Logo language as part of Mathland.
+
+Inspired by Papert
+- Xerox Park invented Smalltalk
+- MIT invented Scratch
+- UC Berkeley invented Snap
+
+Modern Computer Game frameworks are promising for creating immersive
+environments for learners, e.g.
+- Mathland
+- GeographyLand
+- HistoryLand
+- etc.
+
+**** Elegant versus Complex Tools
+**** Creating a Culture of Excellence and Elegance
+We want to establish a culture of excellence and elegance in our software
+tools and practices.  We want this for two reasons
+- So that the LOEL codebase stays maintainable
+      - Including malleable and easy to build on
+- So that the LOEL computing curricula are teaching best practices
+**** What does Elegance Mean?
+In software and mathematics culture
+- Elegance refers to power with a minimum of complexity
+- Elegance results from significant creativity and (in/per)sistence
+Elegance is achieved by
+- Generalizing and simplifying systems
+- Removing unnecessary features and restrictions
+Two big examples
+- The Scheme Programming Language, when introduced
+      - Extraordinarily Expressive and Powerful
+            - Metaprogrammability
+            - Tail Calls, Closures, Continuations, etc.
+            - Numeric Tower
+      - With the most complete specification
+      - With the shortest specification!
+- The PostgreSQL Object-Relational Database System
+      - Postgres is largely defined by its own tables
+      - No "built-in" datatypes, operators or syntax for literals
+      - Yet the closest RDBMS to the SQL standard!
+*** Establishing Connections
+LOEL is currently communicating and coordinating via
+- Github
+      - [[https://github.com/GregDavidson][Github Account]]
+      - [[https://github.com/GregDavidson/loel][Github LOEL Repository]]
+      - [[https://gregdavidson.github.io/loel][LOEL Website (generated from OrgMode files)]]
+      - Please submit issues, fork, improve and send pull requests!
+- the LOEL Discord
+      - This link is good for 7 days :: https://discord.gg/f2PgfNtF
+- [[https://chat.whatsapp.com/J7JJVmqpuCkHHnLzze8tzN][WhatsApp: Link to LOEL Annoucements List]]
+*** Powerful and Practical Software Tools
+**** Touch
+***** PostgreSQL
+PostgreSQL is a powerful platform for building data and information rich
+applications on.
+****** The Wicci
+****** The Wicci Use Case Diagram
+***** Emacs, OrgMode, Magit, Babyl, etc.
+- Emacs :: a powerful (but not very elegant) platform for managing anything
+  which can be represented as text, e.g. markup documents, programming code,
+  shells and interpreter REPLs, etc. Emacs is important primarily because of the
+  powerful extensions built on top of it. Secondarily because of its ability to
+  be further extended, perhaps by you!
+- OrgMode :: currently the most powerful non-proprietary markup language. You
+  can (and some people do) represent your whole life in OrgMode. GitHub and
+  GitLab understand OrgMode to a degree. Only Emacs fully understands OrgMode.
+- Magit :: the most productive front-end for Git.  Runs as an Emacs extension.
+***** Git, GitHub
+- Git :: The most powerful and productive (but not very elegant) tool for
+  managing collections of text files which are part of a project, e.g. source
+  code, OrgMode files, etc.
+- GitHub :: A proprietary hosting service for Git repositories owned by
+  Microsoft. Their free accounts allow fairly large projects with many
+  collaborators and free bandwidth for folks accessing it. The repositories can
+  contain websites which can be linked to a private =url=. Despite being
+  proprietary, because it's =git=, you can easily move a GitHub repository to
+  another hosting provider, e.g. GitLab. One only needs to avoid using any of
+  GitHub's proprietary extensions.
+- Babyl Notebooks
+      - Like Jupyter notebooks but better
+            - Can use many languages in the same notebook
+            - Can connect outputs to inputs
+      - Babyl can process parts of an Emacs document with any external language
+      - Babyl works especially well with OrgMode!
+- Sahiti
+***** Racket
+Racket is a full programming environment inspired by, and backwards compatible
+with the Scheme Programming Language. Racket allows for the elegant
+implementation of challenging software systems because of its support for many
+of the most powerful programming paradigms. Racket is not as elegant as Scheme
+but it is much cleaner than most comparable alternatives.
+**** Jeff
+The more /broad technologies/.  Jeff had to leave before elaborating further.
+**** Thiago & Nikhil & Sahiti
+- Python :: Because it's easy to learn and familiar. However, Thiago remembers
+  the nightmare of moving from Python 2 to Python 3!
+**** Nikhil
+- Interactive Notebooks, for example
+      - Jupyter Notebooks
+            - Drawbacks:
+                  - Only one language allowed per notebook.
+                  - A language server (called a kernel) must be available.
+      - Microsoft Aether
+            - [[https://plynx.com][Plynx]] may be an Open Source alternative to Aether 
+              
+**** Sahiti 
+
+- Shared her initial discomfort with Javascript
+- JavaScript's creator, Brendan Eich feels the same way!
+- The good parts of JavaScript were taken from Scheme and Self
+- A lot of cruft got added to JavaScript and it's hard to get rid of it!
+
+Great alternatives to JavaScript are TypeScript and ClojureScript
+- You can mix and match them with JavaScript in the same browser session
+  
+*** Things we didn't get to
+
+**** Topics
 
 - Social Bookmarking
 - LOEL authoring tools
 - Smart contacts and ticklers
 
-*** Possible LOEL Curricula
+**** Possible LOEL Curricula
 
 **** Rationality and Rhetoric aka /Defense against the Dark Arts/
 - HPMOR reading and study group
@@ -73,8 +212,9 @@ You can just show up and, who thinks you might like to attend?
       - Personal knowledge-based assistants
 **** Leveraging Emacs, OrgMode, Etc.
 
-*** For the Discord
+**** For the Discord
 
 **** Needed Channels
 - Development Tools Fellowship
 - 
+
