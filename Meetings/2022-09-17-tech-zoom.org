@@ -172,7 +172,11 @@ implementation of challenging software systems because of its support for many
 of the most powerful programming paradigms. Racket is not as elegant as Scheme
 but it is much cleaner than most comparable alternatives.
 **** Jeff
-The more /broad technologies/.  Jeff had to leave before elaborating further.
+- The more /broad technologies/.
+Jeff dove into Racket after the Computing Magic Tutorial and learned a lot of Racket's fancy (crufty?) features to solve a Project Euler Problem.
+- [[https://projecteuler.net/][Project Euler]] is a LOEL Mastery Resource - but needs earlier pieces!
+- [[https://github.com/jeff-at-tamer-dot-codes/euler189/blob/main/euler189.rkt][Jeff's explorations in Racket]]
+Jeff had to leave before elaborating further.
 **** Thiago & Nikhil & Sahiti
 - Python :: Because it's easy to learn and familiar. However, Thiago remembers
   the nightmare of moving from Python 2 to Python 3!
@@ -194,7 +198,10 @@ The more /broad technologies/.  Jeff had to leave before elaborating further.
 
 Great alternatives to JavaScript are TypeScript and ClojureScript
 - You can mix and match them with JavaScript in the same browser session
-  
+**** Lynn
+- Lynn's Internet connection was acting up and he had to go.
+- We'll hear more from Lynn later!
+
 *** Things we didn't get to
 
 **** Topics
@@ -234,5 +241,3 @@ Great alternatives to JavaScript are TypeScript and ClojureScript
 
 **** Needed Channels
 - Development Tools Fellowship
-- 
-
