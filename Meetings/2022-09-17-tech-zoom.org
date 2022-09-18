@@ -2,7 +2,7 @@
 
 ** 2022-09-17 LOEL Technology Meeting #1
 
-*** The Annoucement for This Special meeting
+*** The Announcement for This Special meeting
 
 This Saturday, the 17th, I'd like to meet via Zoom to have a preliminary
 discussion of some very technical computing topics that may
@@ -104,14 +104,32 @@ Two big examples
       - Yet the closest RDBMS to the SQL standard!
 *** Establishing Connections
 LOEL is currently communicating and coordinating via
+- [[https://chat.whatsapp.com/J7JJVmqpuCkHHnLzze8tzN][WhatsApp: Link to LOEL Annoucements-Only List]]
+- Occasional 90-minute Zoom Meetings
+      - tending towards Saturdays at 10:30am Pacific Time
+      - follow the Announcements List for details
+- the LOEL Discord
+      - This link is good for 7 days :: https://discord.gg/f2PgfNtF
+      - This is the place for any time discussions
 - Github
       - [[https://github.com/GregDavidson][Github Account]]
       - [[https://github.com/GregDavidson/loel][Github LOEL Repository]]
       - [[https://gregdavidson.github.io/loel][LOEL Website (generated from OrgMode files)]]
       - Please submit issues, fork, improve and send pull requests!
-- the LOEL Discord
-      - This link is good for 7 days :: https://discord.gg/f2PgfNtF
-- [[https://chat.whatsapp.com/J7JJVmqpuCkHHnLzze8tzN][WhatsApp: Link to LOEL Annoucements List]]
+
+These media are listed from most lightweight to the most rich and persistent. We
+want to move our knowledge from its first appearance in one of the more
+lightweight media to the most rich and persistent.
+
+Until the Wicci is ready, our most persistent and valuable artifacts are OrgMode
+files managed by Git. Everyone can fork our OrgMode repository, add their own
+contributions and send pull requests to the main repository. Or they can post
+issues to guide the work of others.
+
+These OrgMode files can be automatically turned into Web Pages, Google Docs and
+more. They can also be used directly, without conversion by all LOEL
+participants, i.e. students, peer facilitators, experts and helpers.
+
 *** Powerful and Practical Software Tools
 **** Touch
 ***** PostgreSQL
