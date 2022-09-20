@@ -6,18 +6,18 @@
 
 This Saturday, the 17th, I'd like to meet via Zoom to have a preliminary
 discussion of some very technical computing topics that may
-(A) become part of LOEL curricula, e.g. the Computing Magic curriculum
-(B) become part of the LOEL infrastructure after GitHub, e.g. the Wicci
-(C) or simply topics and issues on which we would like some peer feedback
+- (A) become part of LOEL curricula, e.g. the Computing Magic curriculum
+- (B) become part of the LOEL infrastructure after GitHub, e.g. the Wicci
+- (C) or simply topics and issues on which we would like some peer feedback
 
 I'd like to find out which topics y'all would like us to consider.
 And of course I have several of my own, including
-(1) Diverse VM technologies: Qubes, GUIX, Docker, K8s, Podman, etc.
-(2) Best use of Shells: Bourne, Dash, my Simples library, etc.
-(3) Best use of databases: PostreSQL and extensions to it
-(4) Computer Languages, Libraries and Paradigms
-(5) Development environments: Emacs, OrgMode, Make, Git, etc.
-(6) Tools for thinking and collaborating: OrgMode, etc.
+1. Diverse VM technologies: Qubes, GUIX, Docker, K8s, Podman, etc.
+2. Best use of Shells: Bourne, Dash, my Simples library, etc.
+3. Best use of databases: PostreSQL and extensions to it
+4. Computer Languages, Libraries and Paradigms
+5. Development environments: Emacs, OrgMode, Make, Git, etc.
+6. Tools for thinking and collaborating: OrgMode, etc.
 
 I'm not imagining that we would go deep on any of this, but depending on who is
 able to show up and what we can map out, there may be some fruitful followups!
@@ -57,18 +57,20 @@ for learning mathematics". This story has been a favorite of mediocre
 mathematics teachers for more than two thousand years as a way to blame their
 students rather than themselves for the students' lack of success!
 
-Seymour Papert talked about how top-down teaching systems don't work very well.
-Using learning french as an example, he pointed out that tradition methods of
+[[https://en.wikipedia.org/wiki/Seymour_Papert][Seymour Papert]] talked about how top-down teaching systems don't work very well.
+Using learning french as an example, he pointed out that traditional methods of
 teaching french in school have a high dropout and failure rate and generally
 only achieve mediocre results after multiple years of study. In contrast, every
-child in France learns to speak french fluently.  Papert says that if we want to learn
-mathematics, we should do it immersed in Mathland.  And then proceeded to invent Turtle Graphics and the Logo language as part of Mathland.
+child in France learns to speak french fluently. Papert says that if we want to
+learn mathematics, we should do it immersed in [[https://www.youtube.com/watch?v=UgE05-3SToc][Mathland]]. And then proceeded to
+invent [[https://en.wikipedia.org/wiki/Turtle_graphics][Turtle Graphics]] and the [[https://en.wikipedia.org/wiki/Logo_(programming_language)][Logo language]] as part of Mathland.
 
 Inspired by Papert
-- Xerox Park invented Smalltalk
-- MIT invented Scratch
-- UC Berkeley invented Snap
+- Researchers at Xerox Park invented [[https://en.wikipedia.org/wiki/Smalltalk][Smalltalk]]
+- Researchers at MIT invented [[https://squeak.org/][Squeak]] and [[https://wiki.squeak.org/squeak/5833][Scratch]]
+- Researchers at UC Berkeley invented [[https://snap.berkeley.edu/][Snap]]
 
+**** [[https://duckduckgo.com/?t=ffsb&q=gamification+immersive+education&atb=v33-1&ia=web][Gamification]]
 Modern Computer Game frameworks are promising for creating immersive
 environments for learners, e.g.
 - Mathland
@@ -76,14 +78,13 @@ environments for learners, e.g.
 - HistoryLand
 - etc.
 
-**** Elegant versus Complex Tools
-**** Creating a Culture of Excellence and Elegance
+**** Elegance versus Complexity
 We want to establish a culture of excellence and elegance in our software
 tools and practices.  We want this for two reasons
 - So that the LOEL codebase stays maintainable
       - Including malleable and easy to build on
 - So that the LOEL computing curricula are teaching best practices
-**** What does Elegance Mean?
+***** What does Elegance Mean?
 In software and mathematics culture
 - Elegance refers to power with a minimum of complexity
 - Elegance results from significant creativity and (in/per)sistence
@@ -91,17 +92,19 @@ Elegance is achieved by
 - Generalizing and simplifying systems
 - Removing unnecessary features and restrictions
 Two big examples
-- The Scheme Programming Language, when introduced
+- The [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme Programming Language]], when introduced
       - Extraordinarily Expressive and Powerful
             - Metaprogrammability
             - Tail Calls, Closures, Continuations, etc.
             - Numeric Tower
       - With the most complete specification
       - With the shortest specification!
-- The PostgreSQL Object-Relational Database System
+- The [[https://www.postgresql.org/][PostgreSQL Object-Relational Database System]]
       - Postgres is largely defined by its own tables
       - No "built-in" datatypes, operators or syntax for literals
-      - Yet the closest RDBMS to the SQL standard!
+      - Yet
+            - PostgreSQL is extraordinarily powerful and efficient
+            - while being the closest RDBMS to the SQL standard!
 *** Establishing Connections
 LOEL is currently communicating and coordinating via
 - [[https://chat.whatsapp.com/J7JJVmqpuCkHHnLzze8tzN][WhatsApp: Link to LOEL Annoucements-Only List]]
@@ -132,40 +135,42 @@ participants, i.e. students, peer facilitators, experts and helpers.
 
 *** Powerful and Practical Software Tools
 **** Touch
-***** PostgreSQL
+***** [[https://www.postgresql.org/][PostgreSQL]]
 PostgreSQL is a powerful platform for building data and information rich
 applications on.
-****** The Wicci
-****** The Wicci Use Case Diagram
+****** [[https://gregdavidson.github.io/wicci-core-S0_lib/][The Wicci]]
+We didn't have time to cover these.
+******* [[http://gregdavidson.github.io/wicci-doc/][The Wicci Diagrams]]
+We briefly looked at the first of these.
 ***** Emacs, OrgMode, Magit, Babyl, etc.
-- Emacs :: a powerful (but not very elegant) platform for managing anything
+- [[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/Emacs/emacs-readme.org][Emacs]] :: a powerful (but not very elegant) platform for managing anything
   which can be represented as text, e.g. markup documents, programming code,
   shells and interpreter REPLs, etc. Emacs is important primarily because of the
   powerful extensions built on top of it. Secondarily because of its ability to
-  be further extended, perhaps by you!
-- OrgMode :: currently the most powerful non-proprietary markup language. You
+  be further extended, perhaps by you!  Usually used with 
+- [[https://orgmode.org/][OrgMode]] :: currently the most powerful non-proprietary markup language. You
   can (and some people do) represent your whole life in OrgMode. GitHub and
   GitLab understand OrgMode to a degree. Only Emacs fully understands OrgMode.
-- Magit :: the most productive front-end for Git.  Runs as an Emacs extension.
+- [[https://magit.vc/][Magit]] :: the most productive front-end for Git.  Runs as an Emacs extension.
 ***** Git, GitHub
-- Git :: The most powerful and productive (but not very elegant) tool for
+- [[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/git-readme.org][Git]]  :: The most powerful and productive (but not very elegant) tool for
   managing collections of text files which are part of a project, e.g. source
   code, OrgMode files, etc.
-- GitHub :: A proprietary hosting service for Git repositories owned by
+- [[https://github.com/][GitHub]] :: A proprietary hosting service for Git repositories owned by
   Microsoft. Their free accounts allow fairly large projects with many
   collaborators and free bandwidth for folks accessing it. The repositories can
   contain websites which can be linked to a private =url=. Despite being
   proprietary, because it's =git=, you can easily move a GitHub repository to
-  another hosting provider, e.g. GitLab. One only needs to avoid using any of
+  another hosting provider, e.g. [[https://about.gitlab.com/][GitLab]]. One only needs to avoid using any of
   GitHub's proprietary extensions.
-- Babyl Notebooks
-      - Like Jupyter notebooks but better
+- [[https://orgmode.org/worg/org-contrib/babel/intro.html][Babyl + Orgmode]] Notebooks
+      - Like [[https://jupyter.org/][Jupyter notebooks]] but better
             - Can use many languages in the same notebook
             - Can connect outputs to inputs
       - Babyl can process parts of an Emacs document with any external language
-      - Babyl works especially well with OrgMode!
-- Sahiti
-***** Racket
+      - Babyl with Orgmode is works especially well with OrgMode!
+- Touch & Sahiti
+***** [[https://github.com/GregDavidson/computing-magic/blob/main/Racket/README.org][Racket]]
 Racket is a full programming environment inspired by, and backwards compatible
 with the Scheme Programming Language. Racket allows for the elegant
 implementation of challenging software systems because of its support for many
@@ -190,13 +195,12 @@ Jeff had to leave before elaborating further.
             - [[https://plynx.com][Plynx]] may be an Open Source alternative to Aether 
               
 **** Sahiti 
-
 - Shared her initial discomfort with Javascript
 - JavaScript's creator, Brendan Eich feels the same way!
 - The good parts of JavaScript were taken from Scheme and Self
 - A lot of cruft got added to JavaScript and it's hard to get rid of it!
 
-Great alternatives to JavaScript are TypeScript and ClojureScript
+Great alternatives to JavaScript are [[https://www.typescriptlang.org/][TypeScript]] and [[https://clojurescript.org/][ClojureScript]]
 - You can mix and match them with JavaScript in the same browser session
 **** Lynn
 - Lynn's Internet connection was acting up and he had to go.
@@ -206,14 +210,16 @@ Great alternatives to JavaScript are TypeScript and ClojureScript
 
 **** Topics
 
+We didn't get to these things!
 - Social Bookmarking
 - LOEL authoring tools
 - Smart contacts and ticklers
 
 **** Possible LOEL Curricula
 
+We didn't get to these things!
 **** Rationality and Rhetoric aka /Defense against the Dark Arts/
-- HPMOR reading and study group
+- [[http://www.hpmor.com/][HPMOR]] reading and study group
 - Creating and playing rationality-sharpening Games
 **** Creating Computer Games
 - Projects lead towards creating games for Immersive Learning
@@ -239,5 +245,5 @@ Great alternatives to JavaScript are TypeScript and ClojureScript
 
 **** For the Discord
 
-**** Needed Channels
+***** Needed Channels
 - Development Tools Fellowship
