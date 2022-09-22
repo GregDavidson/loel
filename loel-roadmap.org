@@ -1,0 +1,74 @@
+* The LOEL Strategic Roadmap
+
+Our Strategic Plan and How You Can Participate!
+
+** From our Original Plan to our New Plan
+
+When LOEL began we had a promise of funding from a private foundation and we
+created an [[https://gregdavidson.github.io/loel/loel-plan.html][Ambitious Plan]] making use of [[https://gregdavidson.github.io/loel/loel-tools.html][Innovative Software]] we would develop. A
+couple of months later that foundation decided to support a less radical project
+instead (school science fairs). LOEL got put on the back burner for a few years.
+
+The original plan is still part of our vision and future and it is too ambitious
+for our current resources. We are looking for ways to move forward now on a more
+modest foundation. As our resources grow, we will to revisit and strategically
+adopt elements of the original plan.
+
+Everything in this plan is only possible with your participation. And we are
+open to changing and expanding this plan to best support your participation and
+the strategic growth of this initiative!
+
+** Phases of our New Plan
+
+*** All Phases
+
+- Ongoingly enroll people to participate with LOEL
+      - Experts, Students, Peer Facilitators
+      - Leaders, Fund Raisers, Observers, LOEL Evangelists
+      - Developers, System Administrators, Attorneys, etc.
+- Create, "market" and improve curricula
+      - Experts create curricula
+            - starting with a "directory" of existing materials
+            - avoiding gratuitously reinventing the wheel
+      - Students and Peer Facilitators develop curricula through usage
+      - Experts are a resource for Peer Facilitators
+- LOEL grows exponentially!
+
+*** Phase 1 -- 2022 and 2023
+
+- Let most primary materials be text files.
+- Let most primary documents be OrgMode text files.
+      - Including resource "directories"!
+- Manage these files with Git
+- Make these files available via GitHub with GitLab as a backup
+      - Free hosting
+      - Free bandwidth
+- Use Scripts managed by Makefiles to create derived material
+      - Transform OrgMode files to Web Pages, Google Docs, etc.
+      - The scripts we need already exist and can be incrementally improved
+        
+*** Phase 2 -- 2023 and 2024
+
+- Raise starting funds
+- Create a Not-For-Profit Educational Foundation
+      - Staffed primarily by volunteers
+      - No "competitive wage" positions!
+- Establish some Database-Based Web Servers in the Cloud
+- Develop sustainable sources of funding
+- Continue to develop curricula as in Phase 1
+
+- Integrate work on LOEL enabling technologies into our computing curricula
+      - Web Development and Database curricula
+            - Web pages as access to advanced databases
+            - Advanced content management in advanced databases
+- Experimentally offer some Curricula using our Database Infrastructure
+
+*** Phase 3 -- 2024 and beyond
+
+- Create and deploy some of the LOEL services
+- Let LOEL participants
+      - improve the LOEL web and database infrastructure
+      - gradually move LOEL curricula to LOEL databases
+- Stay Nimble and Up-To-Date
+      - Teach the best technology
+      - Use the best technology
