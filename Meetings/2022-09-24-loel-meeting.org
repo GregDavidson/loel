@@ -2,7 +2,7 @@
 
 *** The Meeting Announcement
 
-The number and diversity of people interested in LOEL continues to grow.  
+The number and diversity of people interested in LOEL continues to grow.
 Eventually we'll get to a point where we'll want to have breakout rooms for
 special project groups, but we're not there yet.  Let's try the following
 hybrid approach:
@@ -14,14 +14,39 @@ hybrid approach:
 - I'll explain our new roadmap (see below)
 - There will be a 30-minute AMA (ask me anything about LOEL)
 - It would be helpful if you've already looked at
-      - Our introductory presentation (the url changed!)
-https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org
-      - Our new roadmap:
-https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org
-      - Our original website:
-https://gregdavidson.github.io/loel/
-- We'll conclude by surveying
-      - who's interested in participating
-      - in what ways
+      - Our [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][introductory presentation]] (the url changed!)
+      - Our [[https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org][new roadmap]]
+      - Our [[https://gregdavidson.github.io/loel][original website]]
+- We'll conclude the meeting by surveying
+      - who's interested in participating at this time
+      - and in what ways
 - I'll stay online for up to 30 minutes after the meeting if there is interest
   in specialized topics.
+
+*** Welcome
+
+- Brief Introductions
+- Making sure everyone is connected
+      - Discord, WhatsApp, GitHub
+
+*** AMA on the What & Why of LOEL
+
+*** Presentation and discussion of the New Roadmap
+
+*** If There's Time
+
+**** Possible Opportunities at Mars
+
+We could offer courses for the attendees of [[https://mars.college/Mars][2023]].
+- Computing Magic 2023
+- Mathematics for Computing Artists
+
+**** Special Tech Meetings with Software Developers
+
+I welcome the opportunity to have special meetings with folks interested in
+Software Development regarding improving the LOEL technical infrastructure.
+
+These would include
+- Emacs, OrgMode, Git, Magit, GitHub, Document Conversions
+- Racket, DrRacket, SQL, PostgreSQL, the Wicci innovations
+- Web front-ends to Database-Centric Services
