@@ -1,0 +1,27 @@
+* LOEL Meeting - Welcome, AMA, Tech Tour
+
+*** The Meeting Announcement
+
+The number and diversity of people interested in LOEL continues to grow.  
+Eventually we'll get to a point where we'll want to have breakout rooms for
+special project groups, but we're not there yet.  Let's try the following
+hybrid approach:
+- Let's meet for 1 hour
+      - when :: Saturday 24 September 10:30am Pacific Time
+      - Link :: https://us02web.zoom.us/j/810472918
+      - password :: abundance
+- We'll begin by welcoming anyone new
+- I'll explain our new roadmap (see below)
+- There will be a 30-minute AMA (ask me anything about LOEL)
+- It would be helpful if you've already looked at
+      - Our introductory presentation (the url changed!)
+https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org
+      - Our new roadmap:
+https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org
+      - Our original website:
+https://gregdavidson.github.io/loel/
+- We'll conclude by surveying
+      - who's interested in participating
+      - in what ways
+- I'll stay online for up to 30 minutes after the meeting if there is interest
+  in specialized topics.
