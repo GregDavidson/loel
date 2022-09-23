@@ -11,10 +11,6 @@ The League of Extraordinary Learners (LOEL) is a design for a (mostly)
 Internet-Hosted Learning Community which is Learner Centered and co-developed by
 Learners and Experts.
 
-Get some permissions
-- Is it OK to record Audio?
-- Is it OK to distribute the Audio recording?
-
 LOEL is based on multiple demonstrated breakthroughs
 - LOEL's approach is very different from traditional education!
 - There are multiple successful models for Learner-Centered education!
@@ -22,8 +18,7 @@ LOEL is based on multiple demonstrated breakthroughs
 - I will begin by presenting the what and the why of LOEL's design
       - in an orderly, easy to understand fashion
       - without us bogging down
-      - i.e. top-down!
-            - oh, the irony!
+      - i.e. top-down! -- oh, the irony!
 
 Your feedback now and later is essential
 - Let's maximize the use of the /Chat Tool/
@@ -49,7 +44,7 @@ Civilization is a race between education and disaster.
 -- H.G. Wells
 #+end_quote
 
-The US vs the World
+The US vs. the World
 - The US spends massively on education
 - Education in the US is not working well
 - Many other countries do better
@@ -142,11 +137,11 @@ UC San Diego
       - Introduction to Computer Science
             - [[https://en.wikipedia.org/wiki/Kenneth_Bowles][Professor Ken Bowles]]
       - Honors Physics
-        
+
 UC Irvine, Mathematics
       - [[https://www.educause.edu/ir/library/html/erm/erm99/erm9946.html][Interview with Professor Alfred Bork]]
       - [[https://www.researchgate.net/scientific-contributions/Alfred-Bork-69661195][Alfred Bork papers]]
-        
+
 UCSD CS first Keller-inspired course outperformed traditional course
 - run against conventional course for a year
 - students evaluated using A-F grades in both systems
@@ -203,11 +198,11 @@ barely proficient and I'd like to improve my French." The counselor looked at me
 like I was especially stupid and repeated, more slowly this time: "you don't
 need to take any more French, you've already completed your language
 requirement".
- 
+
 Maria Montessori designed and targeted her schools for poor children in the
 slums of Rome and Calcutta. Now (at least in the US) Montessori Schools are
 expensive schools almost exclusively available for the children of the elite.
- 
+
 The Keller Plan courses at UC San Diego, UC Irvine were shut down by the
 administration, which claimed that they were an example of "Grade Inflation,"
 despite proof that they were the opposite. I later found out that this had
@@ -239,11 +234,11 @@ producing a Bell Curve, they are not optimized for education!
 Curricula consist of Modules
 - Modules form Roadmaps
 - There's more than one way to learn things!
- 
+
 Modules consist of Frames
 - Frames fulfill the intent of the module
 - Frames have associated feedback "tests" or "projects"
- 
+
 Frames consist of
 - Documents --> Notebooks --> Immersive Worlds
 - Projects
@@ -280,18 +275,18 @@ We need /leaders/ who will enroll
       - Initial Content Creators
       - Observers
 - More Leaders!
- 
+
 We need Technical Volunteers
 - To help create and maintain our infrastructure
 - To complete the Wicci project
- 
+
 We need people to create our Organization
 - Creating a Not-For-Profit Foundation
 - Some Fundraising Needed!
- 
+
 We need Curriculum Creators
 - Any Curricula Our Creators and Leaders Can Support
- 
+
 We will initially Prioritize our Computing Curriculum
 - Computing Curricula needs good projects
       - Use LOEL infrastructure wherever feasible
