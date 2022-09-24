@@ -26,12 +26,15 @@ hybrid approach:
 *** Welcome
 
 - Brief Introductions
+- Please include
+      - What would you like to Learn via LOEL?
+      - What curricula might you like to create / improve?
 - Making sure everyone is connected
       - Discord, WhatsApp, GitHub
 
 *** AMA on the What & Why of LOEL
 
-*** Presentation and discussion of the New Roadmap
+*** Presentation and discussion of the [[file:../loel-roadmap.org][New Roadmap]]
 
 *** If There's Time
 
