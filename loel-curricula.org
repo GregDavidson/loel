@@ -1,0 +1,74 @@
+* Existing and Possible LOEL Courses
+
+We have some existing LOEL courses and materials to create more.
+
+In addition, there are quite a number of courses where sufficient
+non-proprietary material exists online that we don't need to initially create
+our own materials, only a directory of resources is needed and a convenient way
+for our Students, Peer Facilitators and Experts to collaborate.
+
+** Existing LOEL Courses
+
+Courses which are at least at an Alpha level, i.e. they can
+be used /now/, even as they are further developed.
+
+Do you have any courses to contribute for this section?
+
+- Computing Magic
+
+- Create Your Course
+
+- Programming in C
+
+** Pre-Alpha LOEL Courses
+
+These are courses which we already have significant existing materials for and
+which could be turned into a course in a couple of months.
+- Which of these would you like to make happen soon?
+- What other courses do you have materials and expertise to create?
+
+- Creating Database-Centric Websites
+
+- Exploiting SQL and Databases
+
+- Leveraging Emacs and OrgMode
+
+- Automate Everything with Scripting Tools
+      - Posix Shells
+      - Unix Programmers' Workbench Tools
+      - Powerful New Scripting Tools
+
+- Building Knowledge-Based Systems
+      - Capture your and others' expertise
+      - Create your perfect digital assistant
+
+- Become a Computer Systems Wizard
+      - Systems Administration
+      - Virtualization
+
+** Speculative LOEL Courses
+
+These courses will require some work to be accessible to their target audience.
+- Which of these would you like to make happen?
+- What other courses would you like to make happen?
+
+- Create Games for Immersive Collaborative Learning
+      - Learn Game Programming by creating games!
+      - Exploit leading-edge open-source game engines
+
+- Build Hybrid AI Systems
+
+- Corrode the World
+      - Rust Programming!
+
+- Table the World
+      - Everything possible into RDBMSs!
+      - (Extensible, Advanced) Relational Database Management Systems
+
+** Courses Based on Outside Material
+
+What would you like to study where the materials already exist and you'd like to
+have the support of
+- Fellow Learners
+- Peer Facilitators
+- and maybe some Experts
