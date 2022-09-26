@@ -1,5 +1,13 @@
 * The League of Extraordinary Learners
 
-This repository is a *Draft* of [[https://gregdavidson.github.io/loel][the League Website]]. It is in process of being
-transitioned to being hosted by GitHub from a private server. It is /not yet/
-ready for public consumption.
+*What would you like to learn?*
+
+This repository contains the [[https://gregdavidson.github.io/loel][Original LOEL Website]] which is still the most
+complete description of the project. We're currently transitioning from using
+custom databases on a private server to leveraging Git and being hosted by
+GitHub. This should allow us to operate more nimbly in this phase of our
+project.
+
+You can read more in our
+- [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][Reintroducing LOEL Presentation Notes]]
+- [[https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org][New LOEL Roadmap]]
