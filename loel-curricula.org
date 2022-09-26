@@ -1,4 +1,4 @@
-* Existing and Possible LOEL Courses
+* Current and Future LOEL Courses
 
 We have some existing LOEL courses and materials to create more.
 
@@ -7,41 +7,65 @@ non-proprietary material exists online that we don't need to initially create
 our own materials, only a directory of resources is needed and a convenient way
 for our Students, Peer Facilitators and Experts to collaborate.
 
-** Existing LOEL Courses
+** Current LOEL Courses
 
-Courses which are at least at an Alpha level, i.e. they can
-be used /now/, even as they are further developed.
+Courses which are at least at an Alpha level, i.e. they have run successfully
+and they are open to new Learners and Collaborators.
 
-Do you have any courses to contribute for this section?
+- Experts :: Do you have any courses to contribute for this section?
 
-- Computing Magic
+- [[https://github.com/GregDavidson/computing-magic][Computing Magic]]
 
-- Create Your Course
+- [[https://github.com/GregDavidson/C-By-Example][Programming in C By Example]]
 
-- Programming in C
+- Create Your Course :: A notebook-oriented guide for creating your own courses
+  on any subject.  Under development, ask if you're interested!
+
+** Free Content Project Courses
+
+These are courses where you work with a Mentor on an existing [[https://en.wikipedia.org/wiki/Free_content][Free Content]]
+project, e.g. a [[https://en.wikipedia.org/wiki/Free_and_open-source_software][Free Software]] Project. Your mentor assists you in learning
+mastery skills as you develop improvements to the project, typically in
+collaboration with other Learners and Experts.
+
+- Experts :: Are you willing to serve as a Mentor for /Free Content/ Projects,
+  your own or other?
+
+*** [[https://gregdavidson.github.io/wicci-core-S0_lib][The Wicci System]]
+A (potentially) revolutionary database-centric content exploration and
+collaborative development environment. As a Learner/Collaborator you will gain
+mastery skills in:
+- Standard SQL and Advanced PostgreSQL
+- SQL Metaprogramming
+- Turing Complete Database Systems
+- Monotonic Relational Database Schemas
+- Database-Oriented Super-Dynamic Websites
+
+*** Automating Systems with Posix Shell Scripts
+You will contribute to
+- An advanced library and framework for Shell Programming
+- A framework for customizing your Unix/Linux/BSD accounts
+As a Learner/Collaborator you will gain mastery skills in 
+- Shell Programming
+- Portable Framework Design
 
 ** Pre-Alpha LOEL Courses
 
-These are courses which we already have significant existing materials for and
+These are courses for which we already have significant existing materials and
 which could be turned into a course in a couple of months.
 - Which of these would you like to make happen soon?
 - What other courses do you have materials and expertise to create?
 
 - Creating Database-Centric Websites
-
 - Exploiting SQL and Databases
-
 - Leveraging Emacs and OrgMode
-
 - Automate Everything with Scripting Tools
       - Posix Shells
       - Unix Programmers' Workbench Tools
       - Powerful New Scripting Tools
-
 - Building Knowledge-Based Systems
       - Capture your and others' expertise
       - Create your perfect digital assistant
-
 - Become a Computer Systems Wizard
       - Systems Administration
       - Virtualization
