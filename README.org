@@ -1,6 +1,6 @@
 * The League of Extraordinary Learners
 
-/*What would you like to learn?*/
+*/What would you like to learn?/*
 
 This repository contains the [[https://gregdavidson.github.io/loel][Original LOEL Website]] which is still the most
 complete description of the project. We're currently transitioning from using
