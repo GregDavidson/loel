@@ -9,7 +9,7 @@ GitHub. This should allow us to operate more nimbly in this phase of our
 project.
 
 You can read more in these documents
-- [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][Reintroducing LOEL Presentation Notes]]
+- [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][Reintroducing LOEL: Presentation Notes]]
 - [[https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org][New LOEL Roadmap]]
 - [[file:loel-curricula.org][LOEL Curricula]]
 
