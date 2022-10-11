@@ -1,0 +1,125 @@
+* Meeting on the LOEL Wicci Platform, Saturday, 8 October 2022
+
+** Let's Be In Communication and Collaboration!
+
+Our primary discussion Forum is the #the-wicci channel on the LOEL Discord.
+Here's an invite if you're not yet on it:
+- https://discord.gg/hYBjNczq
+- Note: This invite will expire in 7 days, i.e. by 17 October 2022
+
+It may also be useful to be on the WhatsApp Wicci Announcements list
+- Invitation link: https://chat.whatsapp.com/J7JJVmqpuCkHHnLzze8tzN
+- Note: Please don't use the WhatsApp list for discussion, it's intended to be
+  very low bandwidth so that you could have its messages pop up on your phone
+  without it being much of a bother!
+
+Let me know if and when you think it would be valuable to have a separate
+announcement list for the Wicci as opposed to the more general League of
+Extraordinary Users List!
+
+Saving the best for the last, the current working repositories for all things
+Wicci are on GitHub, conveniently linked from [[https://gregdavidson.github.io/wicci-core-S0_lib][this web page]]. Without needing to
+know anything about Git or GitHub, you can post Issues on any of these GitHub
+repositories. Once you are up to speed with Git, you can (and I hope you will)
+fork the Wicci repositories you want to study and improve, and send me pull
+requests! Be sure you understand the copyright assignment consequences first,
+though!
+
+** Learning Some Tools To Participate
+
+Depending on the manner in which y'all would like to participate, there are some
+software tools, languages and techniques which will be applicable. Y'all are
+sufficient quick imnsho that you can pick up any of these you don't know pretty
+quickly, especially with the amazing support available in our group. Please
+ignore any false modesty and impostor syndrome your ego may generate, it doesn't
+fool me! And hey, it would be cool to expand or create LOEL Courses for any of
+these topics. A great way to master something is to write down what you're
+learning as if you're teaching someone else!
+
+** Engaging With Wicci Development
+
+For the Front End
+- a subset of the usual web tech
+- simpler than usual, because all the heavy lifting is being done server-side
+- this can wait a few months until the back end has gotten back to Alpha Status
+
+For the Back End
+- Learn Racket for the Shim and for Enlightenment
+      - Please start with [[https://github.com/GregDavidson/computing-magic/blob/main/Modules/Module-1/module-1.org][Computing Magic Module 1]]
+- Learn SQL and PostgreSQL
+      - Please start with [[https://github.com/GregDavidson/computing-magic/blob/main/Modules/Module-5/module-5.org][Computing Magic Module 5]]
+- Learn Git, GitHub, Emacs and OrgMode and Scripting
+       - Please start with [[https://github.com/GregDavidson/computing-magic/blob/main/Modules/Module-2/module-2.org][Computing Matic Module 2]]
+
+Look at that, LOEL already has some material for all of the most important prerequisites!
+- and we'll use the LOEL process to improve these as we use them!
+- those of you who already have all of these prerequisites can
+      - pretend to be /Peer Facilitators/ by putting yourself in that mindset
+      - play /expert/ when that's absolutely required!
+      - Please understand the difference between these two modes!!
+
+Getting going with the Backend
+1. Install PostgreSQL on your system
+2. Clone the initial GitHub repositories
+       - the Wicci Core (Schema 0)
+       - the Wicci Tools and Docs
+       - the Racket version of the Wicci Shim
+3. Get it all to work from Emacs
+       - Being able to build, run, explore and edit the Wicci
+
+There's an optional prerequisite if you want to work on the low-level part of
+Wicci Schema 1. Part of Schema 1 adds some PostgreSQL extensions written in C so
+that they'll run as fast as regular PostgreSQL features. If you don't know C, I
+have a Computing Magic short course for that too! It's also fine to leave that
+bit for others and move on.
+
+I'm not aware of any other prerequisites needed for the rest of the Wicci
+System, it will just take time to get familiar with it. Time which I hope will
+be very enjoyable, if you have a certain kind of brain! While the Wicci is
+ambitious, it is designed to be accessible: Each Schema after Schema 0 adds only
+one coherent piece of functionality and only depends on the earlier ones.
+
+** What We Covered In The Meeting
+
+*** A Bit of Background Reading
+
+I very briefly summarized two papers I wrote in preparation for this Meeting.
+They're short and I recommend reading them carefully and I hope that you'll
+discuss them (post comments, questions, etc.) with us on the Discord.
+
+- [[https://github.com/GregDavidson/wicci-doc/blob/master/Fundamental-Concepts/document-possibilities.org][Document Possibilities]]
+- [[https://github.com/GregDavidson/wicci-doc/blob/master/Fundamental-Concepts/database-possibilities.org][Database Possibilities]]
+
+*** Explore and Light Up The Discord!
+
+I hope that you'll all peruse the rest of the LOEL Discord, GitHub Repository
+and the Computing Magic Repostory at your leisure and share what you discover
+there on the Discord too.
+
+Bringing the Discord alive with our discoveries and creative engagement will
+benefit the Wicci and LOEL project enormously. It will bring these projects
+alive, stimulate our participation and draw in others!
+
+*** The Wicci Walkthrough
+
+I established some context using some Wicci Diagrams
+- The [[http://gregdavidson.github.io/wicci-doc/Diagrams/wicci.png][Wicci Wiki Use Case Overview Diagram]]
+      - This is the first application I imagined for the Wicci
+      - And the Wicci can serve many other needs as well, it's actually a /Platform/
+- The [[http://gregdavidson.github.io/wicci-doc/Diagrams/W_Standard_Web_Architecture_v2.svg][Standard Enterprise Web Architecture]]
+      - This is how most big web services work, and it should be embarrassing!
+- The [[http://gregdavidson.github.io/wicci-doc/Diagrams/W_Wicci_and_Standard_Web_Architecture_v2.svg][Wicci Web Architecture]]
+- These documents and part of the [[https://github.com/GregDavidson/wicci-doc][Wicci Documentation Update Project]]
+ 
+** Participants Who Attended The Meeting
+
+It was really great to get to know you all better and to experience you all
+getting to know one another. I feel honored by your interest and blessed by your
+participation!
+
+- Greg
+- Lynn
+- Otter
+- Bill Fraser
+- Alejandro
+- Thiago
