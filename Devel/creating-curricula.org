@@ -40,9 +40,9 @@ Normatively, a LOEL Curriculum begins as a LOEL Directory.
 
 A LOEL Directory is created by assembling and organizing a
 collection of the best materials for learning the topic
-- Books
-- Videos
-- Immersive models
+- Books, Articles, Podcasts, Videos
+- Websites and Webpages
+- Immersive models, e.g. Simulations and Games
 - etc.
 
 All development is done by /Participants/
@@ -50,10 +50,10 @@ All development is done by /Participants/
 - Sometimes /Other Enthusiasts/
 - Guided by Experts
 
-Currently we store the materials for most LOEL curricula in a Git Repository and
-make them available through GitHub, GitLab, etc.
+Currently we store the materials for most LOEL Curricula in a /Git Repository/
+and make them available through /GitHub/, /GitLab/, etc.
 
-In the future, the materials will be stored in a Wicci System.
+In the future, the materials will live in a /Wicci System/.
 
 The LOEL Directory grows as the participants
 - Upgrade the links to more and better materials
