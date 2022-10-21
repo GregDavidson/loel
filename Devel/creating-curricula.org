@@ -1,20 +1,22 @@
 * Creating LOEL Curricula
 
-LOEL Curricula can come about via many paths, many of which involve chaos and
+[[file:../../README.org][LOEL]] Curricula can come about via many paths, many of which involve chaos and
 serendipity. What follows is a description of a normative path for intentionally
-creating a LOEL Curriculum.
+creating a new LOEL Curriculum. May this provide useful guidance rather than
+unhelpful constraints!
 
 ** What is a LOEL Curriculum?
 
-A LOEL Curriculum consists of materials and resources for Learners to study,
+A /LOEL Curriculum/ consists of materials and resources for Learners to study,
 practice and master a particular area of human knowledge or distinctions.
 
-A LOEL Curriculum is Learner Centric
-- bottom-up, not top-down
+A /LOEL Curriculum/ is /Learner Centric/
+- more bottom-up than top-down
 - flexible and self-paced
+      - providing multiple paths and optional elements
 - incorporating feedback and self-assessment components
-- mixing theory and practice synergistically
-- creating competence and then mastery
+- a synergistic mix of theory and practice
+- designed to creating competence and then mastery
       - creating a platform for further learning
       - part of exponential life-long learning
 - Directly supportable by Peer Facilitators
@@ -34,24 +36,24 @@ that they love it and they want to make it accessible for newcomers.
 
 ** How Does a LOEL Curriculum Develop?
 
-Normatively, a LOEL Curriculum is started by assembling and organizing a
+Normatively, a LOEL Curriculum begins as a LOEL Directory.
+
+A LOEL Directory is created by assembling and organizing a
 collection of the best materials for learning the topic
 - Books
 - Videos
 - Immersive models
 - etc.
 
-A all development is done by Participants
-- Learners and Peer Facilitators
-- Sometimes other enthusiasts
-- Guided by experts
+All development is done by /Participants/
+- /Learners/ and /Peer Facilitators/
+- Sometimes /Other Enthusiasts/
+- Guided by Experts
 
 Currently we store the materials for most LOEL curricula in a Git Repository and
 make them available through GitHub, GitLab, etc.
 
 In the future, the materials will be stored in a Wicci System.
-
-We call the initial state of a LOEL Curriculum a Directory of Resources.
 
 The LOEL Directory grows as the participants
 - Upgrade the links to more and better materials
@@ -65,3 +67,4 @@ The LOEL Curriculum develops by
       - to complement external resources
       - as upgrades to or enrichment of external resources
       - Articles, Interactive Notebooks, Immersive Environments, etc.
+      - Creating and upgrading FAQ nodes for all elements
