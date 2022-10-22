@@ -1,4 +1,6 @@
-* Current and Future LOEL Courses
+* Current and Future LOEL Curricula and Courses
+
+Please see [[file:Devel/creating-curricula.org][Creating and Developing LOEL Curricula]]
 
 We have some existing LOEL courses and materials to create more.
 
@@ -7,7 +9,7 @@ non-proprietary material exists online that we don't need to initially create
 our own materials, only a directory of resources is needed and a convenient way
 for our Students, Peer Facilitators and Experts to collaborate.
 
-** Current LOEL Courses
+** Current LOEL Curricula and Courses
 
 Courses which are at least at an Alpha level, i.e. they have run successfully
 and they are open to new Learners and Collaborators.
@@ -22,6 +24,8 @@ and they are open to new Learners and Collaborators.
   on any subject.  Under development, ask if you're interested!
 
 ** Free Content Project Courses
+
+Please see [[file:Devel/project-courses.org][LOEL Project Courses]]
 
 These are courses where you work with a Mentor on an existing [[https://en.wikipedia.org/wiki/Free_content][Free Content]]
 project, e.g. a [[https://en.wikipedia.org/wiki/Free_and_open-source_software][Free Software]] Project. Your mentor assists you in learning
