@@ -1,0 +1,25 @@
+* Project Courses of the League of Extraordinary Learners
+
+A [[file:../../README.org][LOEL]] Project Course is generally part of a [[file:creating-curricula.org][LOEL Curriculum]].
+
+A Project Course has
+- A Project which is
+      - Interesting to Multiple Participants
+      - A Meaningful Contribution to a Community or the World
+      - A vehicle for increasing Mastery in an Area of Interest
+            - typically the Area related to the associated Curriculum
+
+For a Project Course to function as a LOEL Curriculum it needs
+- Materials for Participants to onboard themselves
+- Peer Facilitators who are already onboard
+- Experts providing Backup
+
+A LOEL Project Course is similar to a [[https://summerofcode.withgoogle.com/][Google Summer of Code]] Project
+- except that it is
+      - generally unfunded
+      - not necessarily tied to a specific time, e.g. Summer
+
+Generally, materials worked on and developed in a LOEL Project Course will be
+Open Source licensed and the expertise gained by the participants will be
+reflected in their increase of general practical skills along with being able to
+leverage the materials of the project in other endeavors.
