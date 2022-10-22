@@ -1,9 +1,9 @@
-* Creating LOEL Curricula
+* Creating and Developing LOEL Curricula
 
-[[file:../../README.org][LOEL]] Curricula can come about via many paths, many of which involve chaos and
-serendipity. What follows is a description of a normative path for intentionally
-creating a new LOEL Curriculum. May this provide useful guidance rather than
-unhelpful constraints!
+[[file:../../README.org][Leage of Extraordinary Learners]] Curricula can come about via many paths, many of
+which involve chaos and serendipity. What follows is a description of a
+normative path for intentionally creating a new LOEL Curriculum. May this
+provide useful guidance rather than unhelpful constraints!
 
 ** What is a LOEL Curriculum?
 
