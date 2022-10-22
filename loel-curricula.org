@@ -60,6 +60,16 @@ mastery skills in:
 - Monotonic Relational Database Schemas
 - Database-Oriented Super-Dynamic Websites
 
+** LOEL Curriculum Directories
+
+These are collections of materials on the topics which can be used and developed
+as such and are also potential seeds for becoming full LOEL Curricula.
+
+- [[https://github.com/GregDavidson/DATDA][Defense Against The Dark Arts]] :: A Curriculum for Training Rationality and
+  Resistance to Rhetoric
+
+- [[https://github.com/TouchPuuhonua/Deep-Rationality][Deep-Rationality]] :: Developing increased Awareness and Presence of Being
+
 ** Pre-Alpha LOEL Courses
 
 These are courses for which we already have significant existing materials and
