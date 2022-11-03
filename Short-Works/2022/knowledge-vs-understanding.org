@@ -1,0 +1,58 @@
+* Knowlege vs. Understanding vs. Infotainment
+
+The League of Extraordinary Learners is focused on
+- facilitating the growth of Learners' Knowledge and Understanding
+- expanding Learners' capacities for such growth
+- increasing Learners' skills at learning how to learn
+
+- Educational institutions tend to be focused on certifications.
+- Popular culture is focused on entertainment and diversion.
+- The LOEL aims to avoid these traps.
+
+** What is Knowlege, What is Understanding?
+
+For our purposes here we are maximizing the difference in meaning between the
+(usually overlapping) terms /Knowledge/ and /Understanding/. Please follow the
+difference in meaning without worrying about whether we're doing an injustice to
+the terms!
+
+We will take Knowledge to be the capacity to accomplish desired results in a
+domain of interest.
+- Many important fields are knowledge intensive
+      - Engineering, cooking, medicine, gathering edible plants, etc.
+- Knowledge is highly structured
+      - Explicit definitions, formulas and methods
+- Knowledge has a high information content
+      - Lots of things to learn
+- Knowledge is good at answering /How Questions/.
+
+Understanding is the capacity to engage creatively in a domain of interest
+- Science is the poster child of Understanding, but so are
+      - Social Skills, Reasoning, etc.
+- Understanding consists of Distinctions more than Definitions
+      - Distinctions are open, guiding insight without caging it
+- Understanding has a relatively low information content
+      - a small number of fundamental concepts
+      - generating everything else
+      - connecting everything in rich meaning
+- Understanding can often answer /Why Questions/
+
+Poor popularizations and poor classes can give an illusory impression of
+understanding or even of knowledge, yet the illusion falls apart when the
+consumer of the popularization or the student who participated in the class
+attempts to make use of what they got. The inspiring YouTube video on Quantum
+Mechanics doesn't allow the consumer to calculate anything or to generate
+answers to any important questions that were not directly addressed.
+
+Note that someone with the right combination of background (of existing
+distinctions) and interest (causing active engagement) in an area can have their
+knowledge and/or understanding advanced by the same popularization which a lay
+person merely finds to be confusing or exciting (or both).
+
+A LOEL Curriculum is designed to advance the Knowledge and Understanding of the
+Learner who actively engages with it. LOEL curricula contain activities which
+are designed to assist the Learner to internalize the material. LOEL curricula
+contain materials designed to assist the Learner to remember any of the
+knowledge they find interesting. LOEL curricula connect the material into a
+richer web of relationships. And LOEL curricula provide pathways to further the
+Learners' Knowledge and Understanding and to relate it to that of other domains.
