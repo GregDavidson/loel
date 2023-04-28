@@ -116,7 +116,7 @@ LOEL is currently communicating and coordinating via
       - This is the place for any time discussions
 - Github
       - [[https://github.com/GregDavidson][Github Account]]
-      - [[https://github.com/GregDavidson/loel][Github LOEL Repository]]
+      - [[https://github.com/GregDavidson/loel#readme][Github LOEL Repository]]
       - [[https://gregdavidson.github.io/loel][LOEL Website (generated from OrgMode files)]]
       - Please submit issues, fork, improve and send pull requests!
 

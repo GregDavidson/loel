@@ -3,8 +3,8 @@
 - Everything in this Roadmap is a draft.
 - Please help improve it!
 
-** Plan 
-   
+** Plan
+
 *** Enroll LOEL Partners
 **** Share LOEL with new folk
 **** Invite LOEL allies to be partners
@@ -21,22 +21,32 @@
 
 
 ** Near-term Strategies
-   
+
 *** Git, GitHub, GitLab
-    
+
+- Move html, css, js resources to /docs
+      - Update links
+      - Update GitHub Pages path
+
+- Get our own domain pointing to our */docs
+
+- Get more RESOURCES.org entries
+
+- Make Context Videos!
+
 - git skills
 - Github and Gitlab skills
       - sufficient to host our websites
-        
-Minimize Github or Gitlab specific features. 
+
+Minimize Github or Gitlab specific features.
 
 *** Computing Magic Skills
-    
+
 establish desired software culture
 - quality, productivity, etc.
 
 *** PostgreSQL Magic Skills
-    
+
 - sufficient for the tools we envision
 - leveraging and improving parts of the Wicci framework
 
@@ -45,20 +55,20 @@ establish desired software culture
       - ClosureScript?
 
 *** Shell and Command Magic Skills
- 
+
 Sufficient to
 - Automate and Document Everything
 
 *** Introductory Videos
 
 ** Mid-Term Strategies
-   
+
 *** Initial Database and Wicci-Centric Framework
     - Get Wicci to a strong Beta
     - Create a collaborative post-Emacs editing environment
     - Create a schema isomorphic to git with git import & export
     - Move all of our development into the Database
- 
+
 *** Fulfill Engelbart and Nelson Possibilities
     - Everything Monotonic or Versioned with Transclusion
     - Fantic Notebooks
@@ -67,13 +77,13 @@ Sufficient to
 *** Hosting our Resources
     - Can we tie in with other progressive organizations?
     - Archive.org
- 
+
 *** Ownership and Governance
     - Not for Profit Corporation
     - Sociocracy?
-      
+
 *** Funding
     - Donation system
     - Special licensing of our software and content
- 
+
 ** Questions and Open Issues

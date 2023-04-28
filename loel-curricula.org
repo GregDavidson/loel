@@ -16,9 +16,9 @@ and they are open to new Learners and Collaborators.
 
 - Experts :: Do you have any courses to contribute for this section?
 
-- [[https://github.com/GregDavidson/computing-magic][Computing Magic]]
+- [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]]
 
-- [[https://github.com/GregDavidson/C-By-Example][Programming in C By Example]]
+- [[https://github.com/GregDavidson/C-By-Example#readme][Programming in C By Example]]
 
 - Create Your Course :: A notebook-oriented guide for creating your own courses
   on any subject.  Under development, ask if you're interested!
@@ -65,7 +65,7 @@ mastery skills in:
 These are collections of materials on the topics which can be used and developed
 as such and are also potential seeds for becoming full LOEL Curricula.
 
-- [[https://github.com/GregDavidson/DATDA][Defense Against The Dark Arts]] :: A Curriculum for Training Rationality and
+- [[https://github.com/GregDavidson/DATDA#readme][Defense Against The Dark Arts]] :: A Curriculum for Training Rationality and
   Resistance to Rhetoric
 
 - [[https://github.com/TouchPuuhonua/Deep-Rationality][Deep-Rationality]] :: Developing increased Awareness and Presence of Being

@@ -109,7 +109,7 @@ I established some context using some Wicci Diagrams
 - The [[http://gregdavidson.github.io/wicci-doc/Diagrams/W_Standard_Web_Architecture_v2.svg][Standard Enterprise Web Architecture]]
       - This is how most big web services work, and it should be embarrassing!
 - The [[http://gregdavidson.github.io/wicci-doc/Diagrams/W_Wicci_and_Standard_Web_Architecture_v2.svg][Wicci Web Architecture]]
-- These documents and part of the [[https://github.com/GregDavidson/wicci-doc][Wicci Documentation Update Project]]
+- These documents and part of the [[https://github.com/GregDavidson/wicci-doc#readme][Wicci Documentation Update Project]]
  
 ** Participants Who Attended The Meeting
 

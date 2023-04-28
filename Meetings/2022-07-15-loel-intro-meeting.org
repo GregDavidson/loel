@@ -116,7 +116,7 @@ Language Acquisition
 [[https://en.wikipedia.org/wiki/Seymour_Papert][Seymour Papert]]
 - [[https://www.youtube.com/watch?v=UgE05-3SToc][1 minute Mathland Video]]
 - [[https://en.wikipedia.org/wiki/Logo_(programming_language)][Logo]]
-- [[https://github.com/GregDavidson/computing-magic][Computing Magic]]
+- [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]]
 - [[https://duckduckgo.com/?t=ffab&q=gamification+of+education&atb=v33-1&ia=web][Gamification]]
 
 **** Mastery Education and the Keller Plan
@@ -291,6 +291,6 @@ We will initially Prioritize our Computing Curriculum
 - Computing Curricula needs good projects
       - Use LOEL infrastructure wherever feasible
 - We have material for this already
-      - [[https://github.com/GregDavidson/computing-magic][Computing Magic Curriculum]]
+      - [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic Curriculum]]
 
 ** Q & A & Discussion
