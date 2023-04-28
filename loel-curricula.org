@@ -68,7 +68,7 @@ as such and are also potential seeds for becoming full LOEL Curricula.
 - [[https://github.com/GregDavidson/DATDA#readme][Defense Against The Dark Arts]] :: A Curriculum for Training Rationality and
   Resistance to Rhetoric
 
-- [[https://github.com/TouchPuuhonua/Deep-Rationality][Deep-Rationality]] :: Developing increased Awareness and Presence of Being
+- [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep-Rationality]] :: Developing increased Awareness and Presence of Being
 
 ** Pre-Alpha LOEL Courses
 
