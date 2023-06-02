@@ -1,0 +1,20 @@
+* Open Content
+
+Much of the progress enriching the modern world is a result of sharing knowledge
+and tools rather than keeping such proprietary in the manner of Medieval Guilds
+or encumbered with limiting commercial licenses affordable only by a few.
+
+It is especially important for materials used by Learners to be freely shareable
+and continue to be available after becoming an integral part of their practice.
+Thus, the League of Extraordinary Learners prioritizes Open Content materials.
+
+Open (and Freely Shareable) Culture Links
+- [[https://en.wikipedia.org/wiki/Free-culture_movement][Wikipedia: Free-Culture]]
+      - [[https://creativecommons.org][The Creative Commons]]
+- [[https://en.wikipedia.org/wiki/Free_and_open-source_software][Wikipedia: Free and Open-Source Software]]
+      - [[https://www.fsf.org][The Free Software Foundation]]
+      - [[https://directory.fsf.org/wiki/Main_Page][The Free Software Directory]]
+      - [[https://www.gnu.org][The GNU Project]]
+      - [[https://distrowatch.com][DistroWatch - Operating Systems]]
+- [[https://www.eff.org][The Electronic Frontier Foundation]]
+- [[https://en.wikipedia.org/wiki/Open-source_hardware][Wikipedia: Open Source Hardware]]
