@@ -36,7 +36,7 @@ that they love it and they want to make it accessible for newcomers.
 
 ** How Does a LOEL Curriculum Develop?
 
-Normatively, a LOEL Curriculum begins as a LOEL Directory.
+Normatively, a LOEL Curriculum begins as a [[file:loel-lists.org][LOEL Resource Directory]].
 
 A LOEL Directory is created by assembling and organizing a
 collection of the best materials for learning the topic

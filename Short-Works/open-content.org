@@ -4,11 +4,14 @@ Much of the progress enriching the modern world is a result of sharing knowledge
 and tools rather than keeping such proprietary in the manner of Medieval Guilds
 or encumbered with limiting commercial licenses affordable only by a few.
 
-It is especially important for materials used by Learners to be freely shareable
-and continue to be available after becoming an integral part of their practice.
+It is essential for materials used by Learners to be freely shareable and
+continue to be available after becoming an integral part of their practice.
 Thus, the League of Extraordinary Learners prioritizes Open Content materials.
 
+It is equally essential
+
 Open (and Freely Shareable) Culture Links
+- [[https://web.archive.org/web/20210506215626/https://creativecommonsusa.org/index.php/open-culture][Open Culture]]
 - [[https://en.wikipedia.org/wiki/Free-culture_movement][Wikipedia: Free-Culture]]
       - [[https://creativecommons.org][The Creative Commons]]
 - [[https://en.wikipedia.org/wiki/Free_and_open-source_software][Wikipedia: Free and Open-Source Software]]
