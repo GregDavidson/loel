@@ -8,7 +8,16 @@ It is essential for materials used by Learners to be freely shareable and
 continue to be available after becoming an integral part of their practice.
 Thus, the League of Extraordinary Learners prioritizes Open Content materials.
 
-It is equally essential
+It is almost as essential for those materials to be freely modifiable so that we
+can improve, adapt and evolve them for better use. Licenses which require
+attribution, e.g. via small invariant sections are acceptable.
+
+Ideally these materials would exist in full source form, e.g.
+- exist in public Git repositories with history and all explored variations
+- consist of components which can be re-rendered and re-mixed
+      - separate audio track
+      - separate video overlays
+      - source code which generates media procedurally
 
 Open (and Freely Shareable) Culture Links
 - [[https://web.archive.org/web/20210506215626/https://creativecommonsusa.org/index.php/open-culture][Open Culture]]
