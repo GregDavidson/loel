@@ -19,7 +19,6 @@
     - Other Computing Curricula
     - The Wicci
 
-
 ** Near-term Strategies
 
 *** Git, GitHub, GitLab
