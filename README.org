@@ -11,7 +11,7 @@ project.
 You can read more in these documents
 - [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][Reintroducing LOEL: Presentation Notes]]
 - [[https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org][New LOEL Roadmap]]
-- [file:loel-curricula.org][LOEL Curricula]]
+- [[file:loel-curricula.org][LOEL Curricula]]
 
 Note: Most of our documents are [[https://orgmode.org][OrgMode]] text files. They can be edited online
 with any text editor or online with GitHub. With OrgMode-aware editors such as
