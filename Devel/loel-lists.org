@@ -1,0 +1,53 @@
+* Creating and Developing LOEL Resource Directories
+
+The [[file:../README.org][League of Extraordinary Learners]] develops materials and programs to assist
+curious learners in their learning enterprises. The simplest of these resources
+is simply a list of Resources, but not just any list.
+
+A LOEL Resource Directory is
+- a curated list of the best resources we know to facilitate
+  learning a given subject
+
+We prioritize resources which are
+- /Learner Centric/
+- more bottom-up than top-down
+- flexible and self-paced
+      - providing multiple paths and optional elements
+- incorporating feedback and self-assessment components
+- a synergistic mix of theory and practice
+- designed to creating competence and then mastery
+      - creating a platform for further learning
+      - part of exponential life-long learning
+- [[file:../Short-Works/open-content.org][Open Content]]
+      - freely shareable
+      - and ideally freely modifiable!
+
+[[https://github.com/sindresorhus/awesome#readme][Github Awesome Lists]]
+- are a related concept
+- which we can link to and borrow from!
+
+Evolution of LOEL Resource Directories
+- Often grow into Courses, Curricula, etc.
+- Generally become part of those more elaborate Resources
+
+When you recommend a resource, please state
+- which of our prioritization criteria (listed above) it satisfies
+- how you used it and why you like it
+- which learners you think would most benefit from it
+- how lengthy it is, e.g.
+      - if it's to read, how long is it in pages or words?
+      - if it's a linear medium, how long to watch or listen to it?
+      - is it easy to evaluate for use?
+            - e.g. having a good overview/introduction, Table of Contents, etc.
+            - if not, would you supply that overview?
+
+[[https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject][How to evaluate Textbooks]] - maybe!
+- an interesting suggestion from the awesome [[https://www.lesswrong.com/][LessWrong]] community
+- not be considered necessary or sufficient for LOEL
+      - see our prioritization criteria listed above
+      - let nothing stop you from recommending your favorite resources!
+
+All LOEL materials and programs exist and improve by the participation of people like you.
+- While LOEL is hosted on Github, please assist by
+      - Submitting Issues for improvement
+      - Cloning our repositories, improving them and submitting pull requests!
