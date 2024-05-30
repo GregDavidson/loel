@@ -1,0 +1,12 @@
+* TL;DR - Too Long; Didn't Read
+
+A TL;DR section is used to give you a *workable alternative to doing a lot of
+reading*.  Workable, but maybe not as good.
+
+If you're in the mood to read a bit more, you'll likely find that
+the text you'll /could/ skip is
+- *Useful Context*
+even if it says
+- Introduction, Background, etc.
+
+There's also a lot to be said for diving in faster, though!
