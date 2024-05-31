@@ -6,7 +6,26 @@ Please see
 
 *What would you like to learn?*
 
-** Some Curricula and Roadmaps Available Now
+** Some LOEL Curricula Available Now
+
+- [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]]
+      - The Magic of Creating Computer Software
+      - Alive rather than dry and boring
+      - Modules *for Beginners and Experts!*
+
+- [[https://github.com/GregDavidson/C-By-Example#readme][Learning the C Programming Language by Example]]
+
+** LOEL Resource Directories and Early Stage Curricula
+
+- [[https://github.com/GregDavidson/Rationality#readme][Rationality]]
+      - *Developing our ability to think!*
+- [[https://github.com/GregDavidson/on-computing#readme][On Computing]]
+      - *What is /Computing/, really?*
+
+- [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]]
+      - Discovering What Matters To Us
+      - What Supports Us In Having A Great Life
+      - How we can Expand our Growth and Development
 
 ** Our Ongoing Transition!
 
