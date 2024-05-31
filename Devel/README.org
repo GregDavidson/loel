@@ -1,0 +1,30 @@
+* Participating as a LOEL Developer / Improver
+
+There are *lots* of ways to participate as a LOEL Developer!
+
+** Giving Us Feedback
+
+- [[https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues][Post Issues]] on our GitHub repositories sharing your ideas and constructive
+  criticism
+
+** Improving Our Materials
+
+- Make improvements to our repositories!
+      - [[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo][Fork our repository]]
+      - Make changes improving the material
+            - Editing our files
+            - Adding new files
+            - Send us a [[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests][Pull Request]] with your changes
+Some Caveats
+- We will need you make your changes freely shareable so we can use them
+      - /Details on License Assignment Needed Here!/
+- Your vision and ours may differ
+      - Before doing a lot of work, communicate!
+      - Posting Issues first before creating major work is wise!
+      - Fixing typos, broken links, out-of-date information and other obvious
+        infelicities is very welcome, so please go ahead with such!!
+
+** Creating New Curricula and Resource Lists
+
+- [[file:creating-curricula.org][Creating Curricula]]
+- [[file:loel-lists.org][Creating Resource Lists]]
