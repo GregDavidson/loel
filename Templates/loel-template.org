@@ -1,0 +1,51 @@
+* TITLE OF THIS DOCUMENT
+
+One of:
+- =XXX= is a [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+- =XXX= is part of /Link-to-Curriculum Title/, a [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+
+https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org
+
+This curriculum is under continuous development by its participants!
+
+** TL;DR [[https://github.com/GregDavidson/loel/blob/main/Gloss/tldr.org][/What does TL;DR mean?/]]
+
+If you want to skip some of the reading, go right to section /XXX/ below.
+
+Alternatively, if we're deep in the tree and they've see it already:
+- [[https://github.com/GregDavidson/loel/blob/main/Gloss/tldr.org][TL;DR]]
+
+** What Is This Document?
+
+:BLURB:
+This document is a template for a LOEL document on any subject. This blurb can
+be automatically copied into text to accompany a link to this document.
+:END:
+
+** DRAWERS for FAQs
+
+:FAQ:
+- Q :: What does TL;DR mean?
+  - A :: [[https://github.com/GregDavidson/loel/blob/main/Gloss/tldr.org][See *TLDR* in LOEL's Glossary]]
+- Q :: What is a LOEL FAQ Drawer?
+  - A :: [[https://github.com/GregDavidson/loel/blob/main/Gloss/tldr.org][See *FAQ Drawer* in LOEL's Glossary]]
+:END:
+
+** Optional Org Features for the Top of a Document
+
+# Comments require the space after the #
+# Remove the space after the # to activate the #+ directives!
+# * 
+# +TITLE: Org Mode Notes
+# +SUBTITLE:  Features Worth Noting Down
+# #+AUTHOR: _
+# #+DATE: _
+# +OPTIONS: toc:nil 
+# +OPTIONS: num:nil
+# +OPTIONS: date:nil 
+# +OPTIONS: author:nil 
+# +MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
+# (insert (expand-file-name (buffer-file-name)))
+
+# * 
+#** First Section {{{NEWLINE}}} and More!
