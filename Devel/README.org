@@ -28,3 +28,18 @@ Some Caveats
 
 - [[file:creating-curricula.org][Creating Curricula]]
 - [[file:loel-lists.org][Creating Resource Lists]]
+
+* Our Favorite Development Tools
+
+Note: Most of our documents are [[https://orgmode.org][OrgMode]] text files. They can be edited online
+with any text editor or online with GitHub. With OrgMode-aware editors such as
+[[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/Emacs/emacs-readme.org][Emacs]], these documents come alive!
+
+Emacs, OrgMode and Git are helping us be highly productive in developing and
+maintaining LOEL resources. They're worth learning for this and other purposes,
+but they are not immediately intuitive, so we have materials to help!.
+
+We invite you to use [[https://github.com/GregDavidson/computing-magic/tree/main/Modules/Module-2#readme][Module 2]] of our [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic Curriculum]] to help you
+*learn and get productive with*
+- *Git, GitHub and Emacs*
+Please let us know how we can improve that material!

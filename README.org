@@ -1,6 +1,14 @@
 * The League of Extraordinary Learners
 
+Please see
+- the [[https://gregdavidson.github.io/loel][Original LOEL Website]] for the big picture
+- the rest of /this document/ for what's current!
+
 *What would you like to learn?*
+
+** Some Curricula and Roadmaps Available Now
+
+** Our Ongoing Transition!
 
 This repository contains the [[https://gregdavidson.github.io/loel][Original LOEL Website]] which is still the most
 complete description of the project. We're currently transitioning from using
@@ -11,8 +19,5 @@ project.
 You can read more in these documents
 - [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][Reintroducing LOEL: Presentation Notes]]
 - [[https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org][New LOEL Roadmap]]
-- [[file:loel-curricula.org][LOEL Curricula]]
-
-Note: Most of our documents are [[https://orgmode.org][OrgMode]] text files. They can be edited online
-with any text editor or online with GitHub. With OrgMode-aware editors such as
-[[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/Emacs/emacs-readme.org][Emacs]], these documents come alive!
+- *[[file:Devel/README.org][Participating as a LOEL Developer]]*
+      - How to *Create and Improve LOEL Materials*
