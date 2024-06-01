@@ -12,8 +12,38 @@ This curriculum is under continuous development by its participants!
 
 If you want to skip some of the reading, go right to section /XXX/ below.
 
-Alternatively, if we're deep in the tree and they've see it already:
-- [[https://github.com/GregDavidson/loel/blob/main/Gloss/tldr.org][TL;DR]]
+**  [[https://github.com/GregDavidson/loel/blob/main/Gloss/tldr.org][TL;DR]]
+
+Alternative TL;DR header line.
+
+For pages deeper in the repository where readers have likely already seen the
+TL;DR acronym, we can simplify the TL;DR header line with an embedded link.
+
+** GitHub Limited OrgMode Support
+
+GitHub only offers partial support for OrgMode documents, including features
+which are important for LOEL.
+- References to links within documents don't work
+- Folding and Unfolding don't work
+      - Drawers are always visible
+- Etc.
+
+We could use GitHub Markdown instead, but
+- Markdown doesn't offer most of the needed features!
+
+** TODO OrgMode --> HTML
+
+Regular HTML Web Pages are better for online reading of LOEL materials.
+- OrgMode can export to HTML
+- PanDoc can convert OrgMode to HTML
+
+Be default, the HTML doesn't support /Folding and Unfolding/
+- We can fix this with some CSS
+
+TODO:
+- Improve LOEL CSS and JavaScript to accompany Web Pages created from our
+  OrgMode sources
+- Establish and document best practices in translating or OrgMode sources to HTML.
 
 ** What Is This Document?
 
