@@ -24,7 +24,7 @@ TL;DR acronym, we can simplify the TL;DR header line with an embedded link.
 GitHub only offers partial support for OrgMode documents, including features
 which are important for LOEL.
 - References to links within documents don't work
-- Folding and Unfolding don't work
+- Folding and Unfolding doesn't work
       - Drawers are always visible
 - Etc.
 
@@ -37,13 +37,14 @@ Regular HTML Web Pages are better for online reading of LOEL materials.
 - OrgMode can export to HTML
 - PanDoc can convert OrgMode to HTML
 
-Be default, the HTML doesn't support /Folding and Unfolding/
-- We can fix this with some CSS
+Be default, that HTML won't support /Folding and Unfolding/
+- We can fix this with some CSS!
 
 TODO:
 - Improve LOEL CSS and JavaScript to accompany Web Pages created from our
   OrgMode sources
-- Establish and document best practices in translating or OrgMode sources to HTML.
+- Establish and document best practices in translating our OrgMode sources to
+  HTML.
 
 ** What Is This Document?
 
