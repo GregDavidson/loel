@@ -1,0 +1,13 @@
+* Resources Similar to or Complementary with LOEL
+
+- [[https://en.wikipedia.org/wiki/Alternative_pathways_in_education][Alternative pathways in education]] :: alternative means of obtaining
+  educational qualifications, certifications or entry to educational
+  opportunities.
+
+- [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery Learning]] :: A system of learning designed to support students to
+  achieve mastery of each part of a curriculum. Project evaluations and tests
+  are used to provide feedback in achieving mastery rather than used to judge a
+  student's quality. [Add link to article based on UCSD experience!!]
+
+- [[https://en.wikipedia.org/wiki/Open_learning][Open Learning Teaching Method]] :: activities that enhance or broaden learning
+  opportunities, either within or beyond formal education systems.
