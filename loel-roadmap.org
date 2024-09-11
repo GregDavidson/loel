@@ -1,4 +1,7 @@
-* The LOEL Strategic Roadmap
+* Revised Original LOEL Strategic Roadmap
+
+TL/dr: This is our ambitious longterm /Strategic Roadmap/. We also have a more
+focused [[file:Devel/ROADMAP.org][Tactical Roadmap]].
 
 Our Strategic Plan and How You Can Participate!
 
@@ -47,7 +50,7 @@ the strategic growth of this initiative!
 - Use Scripts managed by Makefiles to create derived material
       - Transform OrgMode files to Web Pages, Google Docs, etc.
       - The scripts we need already exist and can be incrementally improved
- 
+
 *** Phase 2 -- 2023 and 2024
 
 - Raise starting funds
