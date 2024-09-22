@@ -1,0 +1,104 @@
+* LOEL Introductory Video: Context
+
+An interview of Greg Davidson by Lynn Dobbs.
+
+** The intention of this video
+
+- Lynn :: Welcome, Dear Viewer: I'm looking forward to sharing with you the gist
+  of some rich conversations which Greg and I have been having.
+- Lynn :: Greg, what do you want to accomplish with this first video?
+- Greg :: I want to share the context behind the League of Extraordinary
+  Learners.
+
+** Context and Paradigm
+
+- Lynn :: What do you mean by context?
+- Greg :: Ha! That's the first thing we need to talk about! I remember that we
+  argued a bit about it in one of our earlier conversations. What did we find
+  when we looked in the dictionary?
+- Lynn :: Merriam-Webster gave two definitions:
+      1. The parts of a discourse that surround a word or passage and can throw
+         light on its meaning.
+      2. the interrelated conditions in which something exists or occurs:
+         environment, setting.
+- Greg :: Okay! The first definition is about explicit context, where you can
+  point to a part of a text which provides context for another part.
+- Greg :: I'm more interested in the second definition, where the context is
+  implicit, where we don't consciously notice it yet it influences our
+  understanding of things.
+- Greg :: Does the dictionary say anything else?
+- Lynn :: Yes, it goes on to say:
+      - "Context now most commonly refers to the environment or setting in which
+        something (whether words or events) exists. When we say that something
+        is contextualized, we mean that it is placed in an appropriate setting,
+        one in which it may be properly considered."
+- Greg :: Yeah: Properly considered - or maybe sometimes improperly considered!
+- Greg :: I want to talk about the contexts which have informed our
+  understanding of relationships. I will also be using the term /Paradigm/ to
+  refer to the large implicit contexts which exist at the level of societies.
+
+** Changing Contexts Change Content and Relationships!
+
+- Greg :: Consider what everyone knew for thousands of years:
+      - If you want your children to turn out well you need to
+            - punish them when they don't do what you tell them to do
+            - and when they do what you told them not to do.
+      - Teachers frequently doled out punishment to discipline their
+        students.
+      - Employers used punishment to keep their employees in line.
+      - And so on.
+- Greg :: It was rarely said explicitly, but the context of punishment-is-good
+  was part of the context for
+      - "Child rearing"
+      - "Teaching"
+      - "Management"
+      - "Spousal relations"
+      - "Animal training".
+      - Wherever there was someone with "power over" another.
+- Greg :: Successful character development involved "discipline" in the form of
+  punishment and the internalization of the fear of punishment was supposed to
+  build "self-discipline" and good habits. Respect for authority was about being
+  properly afraid of punishment from those above us.
+- Lynn :: That reminds me of the phrase "Fear of God".
+- Greg :: Yup! Fear was supposed to be good for people's development. Then
+  research studies started to show that negative reinforcement is generally
+  counterproductive. Reformers combined the results of this research with moral
+  arguments to argue against the use of punishment. The old "paradigm" was
+  weakened and a new paradigm began to emerge - and is still emerging.
+- Lynn :: What is this new paradigm, what are the new contexts?
+- Greg :: Part of the emerging paradigm is the possibility of partnership.
+      - Partnership is now the ideal in spousal relationships.
+      - In employer/employee relationships we now hear a lot about team and
+        partnership - and where this becomes real, productivity increases.
+      - Reformed parent/child and teacher/student relationships now have little
+        or no physical punishments
+            - but they are not good examples of partnership!
+- Lynn :: I'm hear you saying that the new context for spousal relationships is
+  partnership and that this context works best for employer/employee
+  relationships as well - though this is maybe a work in progress. But I think
+  I'm hearing you say that the context in our society for parent/child and
+  teacher/student relationships is /not/ partnership? So what is it?
+- Greg :: In modern urban societies where we have ended child labor we tend to
+  infantilize our children. They have no meaningful role in the family. We care
+  about them but we treat them like pets while waiting for them to magically
+  turn into human beings and leave us.
+- Greg :: In most institutional schools the context is that the administrators
+  tell the teachers what to do and the teachers tell the students what to do.
+  It's the traditional Dominator Paradigm, just without the physical punishment.
+  Psychological punishment such as humiliation and the constant fear of judgment
+  and failure are the norm. The results are learned helplessness and generally
+  disappointing educational outcomes.
+- Lynn :: Wow, that sounds pretty grim.  Is anything changing?
+- Greg :: There are a number of parents and schools trying to turn this around,
+  including home schoolers, unschoolers, Montessori schools, mastery learning
+  and /The League of Extraordinary Learners/! That will be the topic of another
+  video. All of this material is availble in text form with lots more details on
+  the website tloel.org [[https://tloel.org][The League of Extraordinary Learners]].
+
+** References
+
+- [[https://www.merriam-webster.com/dictionary/context][Merriam-Webster Dictionary: context]]
+- [[https://en.wikipedia.org/wiki/Dominator_culture][Wikipedia: Dominator Culture]]
+- [[https://en.wikipedia.org/wiki/Unschooling][Wikipedia: Unschooing]]
+- [[https://en.wikipedia.org/wiki/Montessori_education][Wikipedia: Montessori Education]]
+- [[https://en.wikipedia.org/wiki/Mastery_learning][Wikipedia: Mastery Learning]]
