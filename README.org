@@ -4,9 +4,10 @@ Please see
 - the [[https://gregdavidson.github.io/loel][Original LOEL Website]] for the big picture
 - the rest of /this document/ for what's current!
 
+We want to ask
 - *What fascinates you?*
 - *What would you want to learn more about?*
-- *LOEL is for you!*
+LOEL is designed to satisfy and to feed these desires!
 
 ** LOEL Resource Collections
 
