@@ -4,28 +4,61 @@ Please see
 - the [[https://gregdavidson.github.io/loel][Original LOEL Website]] for the big picture
 - the rest of /this document/ for what's current!
 
-*What would you like to learn?*
+- *What fascinates you?*
+- *What would you want to learn more about?*
+- *LOEL is for you!*
 
-** Some LOEL Curricula Available Now
+** LOEL Resource Collections
 
-- [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]]
-      - The Magic of Creating Computer Software
-      - Alive rather than dry and boring
-      - Modules *for Beginners and Experts!*
+LOEL provides a home on the Web where Learners share their favorite
+resources about their favorite subjects in Collections.
 
-- [[https://github.com/GregDavidson/C-By-Example#readme][Learning the C Programming Language by Example]]
+Learner Participation starts by
+- Utilizing resources in a LOEL Collection
+- Commenting on these resources
+- Recommending additional resources
+- Optionally: Directly collaborating with other Learners
 
-** LOEL Resource Directories and Early Stage Curricula
+*** Some Resource Collections Online Now
 
-- [[https://github.com/GregDavidson/Rationality#readme][Rationality]]
-      - *Developing our ability to think!*
-- [[https://github.com/GregDavidson/on-computing#readme][On Computing]]
-      - *What is /Computing/, really?*
+[[https://github.com/GregDavidson/Rationality#readme][Rationality]]: *Developing our ability to think!*
 
-- [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]]
-      - Discovering What Matters To Us
-      - What Supports Us In Having A Great Life
-      - How we can Expand our Growth and Development
+[[https://github.com/GregDavidson/on-computing#readme][On Computing]] *What is /Computing/, really?*
+- The big picture is simple and beautiful!
+- The details are awesome!
+
+[[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]]: An Inquiry Into
+- *What Really Matters To You?*
+- *Who Are You, Fundamentally?*
+  - The ancient dictum of *Know Thyself*
+- Are you static or always growing and developing?
+- How can you *Have A Great Life* - by your own standards?
+
+*What New Collections Would You Like To Add?*
+
+** LOEL Curricula
+
+As Resource Collections grow
+- Learners recommend good ways to use them
+- To get to goal X, maybe use these resources in this order
+
+Experienced Learners develop *Pathways into Curricula*
+- Well-designed pathways for accomplishing specific learning goals!
+
+*** Some LOEL Curricula Available Now
+
+[[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]]
+- Unleash the power of Software to create Anything!
+- Have computing come alive with super-powerful tools & techniques
+- Consists of multiple Modules and Alternative Paths
+  - Resources for Learners at any level or of any interest!
+
+[[https://github.com/GregDavidson/C-By-Example#readme][Learn the C Programming Language Super-Fast by Example]]
+- In a few hours you can learn the C Language that the original
+  programmers fell in love with.  The language they used to create
+  most modern operating systems and so much more!
+- It does NOT teach any of the complex features tacked on later for
+  special situations.  You can pick those up later if you need them!
 
 ** Our Ongoing Transition!
 
