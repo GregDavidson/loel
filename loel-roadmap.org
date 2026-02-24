@@ -38,7 +38,7 @@ the strategic growth of this initiative!
       - Experts are a resource for Peer Facilitators
 - LOEL grows exponentially!
 
-*** Phase 1 -- 2022 and 2023
+*** Phase 1 -- 2026
 
 - Let most primary materials be text files.
 - Let most primary documents be OrgMode text files.
@@ -51,7 +51,7 @@ the strategic growth of this initiative!
       - Transform OrgMode files to Web Pages, Google Docs, etc.
       - The scripts we need already exist and can be incrementally improved
 
-*** Phase 2 -- 2023 and 2024
+*** Phase 2 -- 2027
 
 - Raise starting funds
 - Create a Not-For-Profit Educational Foundation
@@ -67,7 +67,7 @@ the strategic growth of this initiative!
             - Advanced content management in advanced databases
 - Experimentally offer some Curricula using our Database Infrastructure
 
-*** Phase 3 -- 2024 and beyond
+*** Phase 3 -- 2028 and beyond
 
 - Create and deploy some of the LOEL services
 - Let LOEL participants
