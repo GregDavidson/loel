@@ -22,20 +22,20 @@ Learner Participation starts by
 
 *** Some Resource Collections Online Now
 
-[[https://github.com/GregDavidson/Rationality#readme][Rationality]]: *Developing our ability to think!*
-
-[[https://github.com/GregDavidson/on-computing#readme][On Computing]] *What is /Computing/, really?*
+[[https://github.com/GregDavidson/Rationality#readme][On Computing]]: *What is Computing, really?*
 - The big picture is simple and beautiful!
 - The details are awesome!
 
-[[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]]: An Inquiry Into
+[[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Rationality]]: *Developing our ability to think!*
+
+[[https://github.com/GregDavidson/on-computing#readme][Deep Rationality]]: An inquiry into
 - *What Really Matters To You?*
 - *Who Are You, Fundamentally?*
   - The ancient dictum of *Know Thyself*
 - Are you static or always growing and developing?
 - How can you *Have A Great Life* - by your own standards?
 
-*What New Collections Would You Like To Add?*
+*What Collections Would You Like To Add?*
 
 ** LOEL Curricula
 
@@ -73,4 +73,4 @@ You can read more in these documents
 - [[https://github.com/GregDavidson/loel/blob/main/Meetings/2022-07-15-loel-intro-meeting.org][Reintroducing LOEL: Presentation Notes]]
 - [[https://github.com/GregDavidson/loel/blob/main/loel-roadmap.org][New LOEL Roadmap]]
 - *[[file:Devel/README.org][Participating as a LOEL Developer]]*
-      - How to *Create and Improve LOEL Materials*
+  - How to *Create and Improve LOEL Materials*
