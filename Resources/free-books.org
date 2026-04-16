@@ -1,0 +1,41 @@
+* Freely Sharable E-Books and online Library Books
+
+Increasingly, books and other educational media used in classrooms are only licensed to a student for the duration of a particular class.  
+
+Here's a story set in the near future about a world in which books are
+not freely sharable: [[https://www.gutenberg.org/files/1981/1981-h/1981-h.htm][The Right to Read]].
+
+LOEL prefers to work with Copyright-Free or [[https://en.wikipedia.org/wiki/Copyleft][Copylefted]] materials so
+that these materials can be
+- kept up to date with new information
+- restructured into active learning materials
+  - e.g. Notebook-Structured Active Documents
+  - Ted Nelson's "Dream Machine" interfaces.
+- and otherwise improved to be more effective learning tools
+
+
+** Copyright-Free and Copylefted E-BOoks Sources
+
+
+- https://www.gutenberg.org/ :: Project Gutenberg is a a library of
+  over 75,000 free eBooks which are no longer under copyright in the USA.
+
+- https://gutenberg.ca :: Project Gutenberg Canada.
+
+- https://gutenberg.net.au/ :: Project Gutenberg Australia.
+
+- https://archive.org/ :: Internet Archive is a vast non-profit
+  library of millions of free texts, movies, software, music,
+  websites, and more.
+- Much of this collection is Copyright-Free or Copylefted, some is only available as Library Books which can be "checked-out" for a limited time.
+  
+- https://standardebooks.org/ :: Copyright-Free ebooks lovingly formatted to be a delight to read.
+
+** On-Line Free Digital Library E-Books
+
+- https://openlibrary.org/ :: a vast number of books, mostly still under Copyright Restrictions, freely available with a digital library card!
+
+- https://archive.org/ :: Internet Archive is a vast non-profit
+  library of millions of free texts, movies, software, music,
+  websites, and more.
+- Much of this collection is Copyright-Free or Copylefted, some is only available as Library Books which can be "checked-out" for a limited time.

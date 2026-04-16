@@ -1,0 +1,80 @@
+* LOEL General Resources
+
+LOEL prefers to work with Copyright-Free or [[https://en.wikipedia.org/wiki/Copyleft][Copylefted]] materials so
+that these materials can be
+- kept up to date with new information
+- restructured into active learning materials
+  - e.g. Notebook-Structured Active Documents
+  - Ted Nelson's "Dream Machine" interfaces.
+- and otherwise improved to be more effective learning tools
+
+** Contents of this Directory
+
+- [[File:free-books.org][Free Books]]
+- [[File:active-media.org][Active Media]]
+- [[file:awesome-lists.org][Awesome Lists]]
+- [[file:general-resources.org][General Resources]]
+- [[file:learning-techniques-and-tools.org][Learning Techniques and Tools]]
+- [[file:loel-alikes.org][Loel Alikes]]
+- [[file:web-links.org][Web Links]]
+
+** Ideal LOEL Materials
+
+*** Active Notebook Documents
+
+These are Digital Documents structured as notebooks which unify
+- Explanatory Text
+- Diagrams
+- Database Tables in in text-form
+- Scripts for Generating and updating Diagrams
+- etc.
+
+Such Notebooks are valuable learning tools for many subject domains
+- Physical Sciences :: physics, chemistry, etc.
+- Mathematical Sciences :: linguistics, mathematics, software development, etc.
+- Crafts and Engineering :: visual arts, 3D-design, etc.
+
+- Note well :: most documentation on such notebooks erroneously describes them only as tools for software development.  Certainly their developers use them for such, but they have a vastly larger scope.
+
+- [[https://en.wikipedia.org/wiki/Notebook_interface][Computation Notebooks]] (Wikipedia)
+
+[[https://orgmode.org/worg/org-contrib/babel/index.html][Org-Babel]] :: [[https://orgmode.org/][Org-Mode]] Active Notebook Documents
+
+*** Dream Machines by Ted Nelson
+
+In his classic book [[https://archive.org/details/computer-lib-dream-machines][Dream Machines]] the visionary genious Ted Nelson
+describes many creative ways in which computers can be used to create
+revolutionary learning environments.
+
+The Active Notebooks described above are a small part of what Ted Nelson described much earlier.
+
+*** Org-Mode and Emacs
+
+Most of the content on the Web is written in [[https://en.wikipedia.org/wiki/Markup_language][Markup Languages]],
+text-files with special text formatting syntax (still just text) which
+allows them to be treated specially by computer software.
+
+Currently the easiest powerful markup language is Org-Mode.
+
+The most complete support for Org-Mode is in the [[https://github.com/GregDavidson/computing-magic/tree/main/Software-Tools/Emacs/#readme][Emacs Interactive Text Editor and Platform]].
+
+Emacs was invented at the MIT Artificial Intelligence Laboratory as a system which could be used in many ways
+- It's a text-editor for interactive use by humans
+- It's an automated tool for general text processing
+- It's a universal interface for other powerful programs, e.g.
+  - Mail and News Readers
+  - Local and Remote [[https://en.wikipedia.org/wiki/Shell_(computing)][System-control Shells]]
+  - Database Systems
+  - and vastly more!
+
+Perhaps the best way to learn Emacs is
+- Learning Emacs a bit at a time!
+- First learn it to do simple text editing
+- Then to edit Org-Mode files
+  - Learning Org-Mode a bit at a time!
+- Explore methods of Customizing Emacs to your Taste
+- Then browse what else you can do with Emacs and Org-Mode
+  - and explore what seems most interesting to you!
+
+Here's our guide to
+- [[https://github.com/GregDavidson/computing-magic/tree/main/Software-Tools/Emacs/#readme][Becoming An Emacs Wizard!]]
