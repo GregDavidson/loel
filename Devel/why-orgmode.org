@@ -1,0 +1,116 @@
+* Why Use OrgMode Markup
+
+** TL;dr
+
+Writing in OrgMode
+- Gives you Maximum Flexibility
+- with Minimum Effort
+
+If you're familiar with [[https://en.wikipedia.org/wiki/Markdown][Markdown]]
+- OrgMode is Markdown on steroids!
+
+[[https://github.com/GregDavidson/loel/#readme][LOEL]] uses OrgMode as its primary document format.
+
+** Details
+
+*** OrgMode Advantages
+
+As of 2026, [[https://orgmode.org/][Org Mode]] is the best [[https://en.wikipedia.org/wiki/Markup_language][Document Markup Language]] which
+- is [[https://en.wikipedia.org/wiki/Text_file][Plain Text]]
+  - readable by humans without any fancy software
+  - editable with any simple [[https://en.wikipedia.org/wiki/Text_editor][Text Editor]]
+- is Concise and Pleasant To Read
+- supports many, almost magical *extremely powerful features*
+  - beyond any other markup language!
+  - by virtue of the ease with which its markup can be processed by
+    "intelligent" software tools
+- has all features optional, thus supporting
+  - Unstructured text
+  - Structured text
+  - Any mixture of the two!
+- can be exported into many common document formats, including
+  - [[https://en.wikipedia.org/wiki/OpenDocument][ODF]] :: Open Document Format
+    - the native format of LibreOffice, OpenOffice, etc.
+    - understood by Google Docs, Microsoft World
+  - [[https://en.wikipedia.org/wiki/PDF][PDF]] :: Portable Document Format
+    - Designed to display documents as they would be printed
+    - Terrible for reading on-screen!
+      - Sizes, fonts, et al are fixed by design.
+  - HTML :: Designed for the content of Web Pages
+    - Great for reading on-screen and other devices
+  - Microsoft-Word, Google-Docs
+    - Popular proprietary formats 
+  - LaTex :: used for Academic, scholarly documents
+    - Especially in Science and Mathematics
+  - and many more!
+
+*** OrgMode-Aware Tools
+
+There are many special-purpose Software-Tools which support OrgMode,
+and what most people will use to work with OrgMode, most of the time,
+will be Text Editors.
+
+While *any text editor can edit OrgMode documents*, several editors
+have additional support for OrgMode which can ease editing and access
+some of the "almost magical, extremely powerful features" mentioned
+above!
+
+As of 2026 the editor with *the best support for OrgMode is Emacs*.
+Emacs has a longer learning curve than most Text Editors and it also
+offers extraordinary rewards for those who get past the basics.
+Here's the [[https://github.com/GregDavidson/computing-magic/tree/main/Software-Tools/Emacs/#readme][Mini-Module on Emacs and OrgMode]] from [[https://github.com/GregDavidson/loel#readme][The League of
+Extraordinary Learners]] [[https://github.com/GregDavidson/computing-magic/#readme][Computing Magic]] Curriculum.
+
+Some alternatives to Emacs for working with OrgMode include
+- [[https://org.scripter.co/][Scripter]] :: an on-line tool for writing OrgMode
+- [[https://github.com/vscode-org-mode/vscode-org-mode/#readme][Org Mode for VS Code]] :: VS Code has recently become a very popular
+  text editor for Software Developers for decades.  It is quicker to
+  learn than Emacs.
+- [[https://github.com/jceb/vim-orgmode][Text Outlining and Task Management for Vim]] :: Vim has been a popular
+  text editor for Software Developers for decades.  Many programmers
+  prefer it to Emacs because it is simpler.
+- [[https://opensource.com/article/19/1/productivity-tool-org-mode][Get started with Org mode without Emacs]] :: Discusses a variety of
+  options!
+- The online editors at [[https://github.com/][GitHub]], [[https://about.gitlab.com/][GitLab]], et al. provide some support
+  for OrgMode, sufficient to use it instead of their native Markdown
+  format.
+  
+** FAQ
+
+*** Does OrgMode require [[https://www.gnu.org/software/emacs/][Gnu Emacs]]
+
+Not for simple editing
+- Use any Text Editor to work with Org Mode
+
+Not for simple OrgMode Power Features
+- Several editors plugins to support some advanced OrgMode features
+- See [[* OrgMode-Aware Tools][the OrgMode-Aware Tools]] section above for alternatives!
+
+Yes for *all OrgMode Power Features*
+- Consider learning Emacs and OrgMode together!
+- Try our guide to [[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/Emacs/emacs-readme.org][Learning Emacs and OrgMode]]!
+
+
+*** How Can I Learn OrgMode
+
+Try our guide to [[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/Emacs/emacs-readme.org][Learning Emacs and OrgMode]]
+
+Otherwise, you'll find lots of tutorials at
+- [[https://orgmode.org/worg][Worg: the Org-Mode Community Site]]
+
+*** Why Don't You Use ...?
+
+Note: OrgMode documents can be automatically converted into these
+other formats!
+
+- [[https://en.wikipedia.org/wiki/Markdown][Markdown]] :: inconsistent dialects, less powerful
+  - The CommonMark "standard" is not always followed in practice.
+  - Lacks the kind of powerful features that OrgMode has
+- [[https://en.wikipedia.org/wiki/XML][XML]] :: super general, more complete syntax yet less powerful
+  - Verbose
+  - Hard to Read, Hard to Edit
+  - Lacks the kind of powerful features that OrgMode has
+
+** TODO ROADMAP For This Document
+
+- Move to LOEL
