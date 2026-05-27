@@ -13,36 +13,41 @@ Greg, what do you want to accomplish with this first video?
 
 *** Greg
 
-I want to share the context behind the League of Extraordinary Learners.
+I've been working on a new educational system which puts Learners First. and
+I've been running into Paradigms in our society which limit what's possible.
+
+In this video I'd like to reveal those Paradigms and related Contexts so that we
+have the awareness to create outside of traditional limits.  
 
 ** Context and Paradigm
 
 *** Lynn
 
-What do you mean by context?
+What do you mean by Paradigm and by context?
 
 *** Greg
 
-Ha! That's the first thing we need to talk about! I remember that we argued a
-  bit about it in one of our earlier conversations. What did we find when we
-  looked in the dictionary?
+Earlier we were talking about them and we got some confusions about Paradigms
+and Contexts, so we looked them up.  Lynn, would you read the first two definitions
+of what we found for Context in the Mirriam-Webster Dictionary?
 
 *** Lynn
 
-Merriam-Webster gave two definitions:
+Sure:
 1. The parts of a discourse that surround a word or passage and can throw light
    on its meaning.
 2. the interrelated conditions in which something exists or occurs: environment,
-   setting.
+   setting, the historical context of a war, and so forth.
 
 *** Greg
 
-Okay! The first definition is about explicit context, where you can point to a
-  part of a text which provides context for another part.
+You get this notice that a Context is something additional, that is surrounding
+something, giving it meaning.
 
-I'm more interested in the second definition, where the context is implicit,
-  where we don't consciously notice it yet it influences our understanding of
-  things.
+A context could be explicit, where you could point to it.
+
+Or it might be in the background, unspoken, not something which we are
+consciously aware of, yet still influencing the meaning of things.
 
 Does the dictionary say anything else?
 
@@ -58,13 +63,31 @@ Context now most commonly refers to the environment or setting in which
 
 *** Greg
 
-Yeah: Properly considered - or maybe sometimes improperly considered!
+There we go: Properly considered, or sometimes improperly considered or not
+considered at all!
 
-I want to talk about the contexts which have informed our understanding of
-  relationships.
+Ideally contexts would be explicit and consciously noticed. But they are often
+implicit and not consciously noticed.  In that case the meanings which they
+determine simply occurs as "the truth" or just "they way things are".
 
-I will also be using the term /Paradigm/ to refer to the large
-  implicit contexts which exist at the level of societies.
+Lynn, would you read what the American Heritage dictionary says about Paradigm:
+
+*** Lynn
+
+#+begin_quote
+A set of assumptions, concepts, values and practices that constitute a way of
+  viewing reality for the community that shares them.
+#+end_quote
+
+*** Greg
+
+There we go. Paradigms are the Bigger, Broader Contexts at the level of our
+community or society. We generally don't consciously notice them, even as they
+determine our assumptions, understanding, values and what appears to be reality.
+
+Before we can think freely or act freely, we have to get clear about any
+existing Contexts which are influencing us. Any contexts which we're not aware
+of will tend to do our thinking for us!
 
 ** Changing Contexts Change Content and Relationships!
 
@@ -73,7 +96,7 @@ I will also be using the term /Paradigm/ to refer to the large
 Consider what everyone knew for thousands of years:
 - If you want your children to turn out well you need to
       - punish them when they don't do what you tell them to do
-      - and when they do what you told them not to do.
+      - and when they do what you told them /not to do/.
 - Teachers frequently doled out punishment to discipline their
   students.
 - Employers used punishment to keep their employees in line.
@@ -89,9 +112,11 @@ It was rarely said explicitly, but the context of punishment-is-good
 - Wherever there was someone with "power over" another.
 
 Successful character development involved "discipline" in the form of
-  punishment and the internalization of the fear of punishment was supposed to
-  build "self-discipline" and good habits. Respect for authority was about being
-  properly afraid of punishment from those above us.
+  punishment.
+- Self-Discipline and good habits were supposed to emerge from the
+  internalization of the fear of punishment.
+- Respect for authority meant being properly afraid of punishment from those
+  with power over us.
 
 *** Lynn
 
