@@ -18,6 +18,42 @@ that these materials can be
 - [[file:loel-alikes.org][Loel Alikes]]
 - [[file:web-links.org][Web Links]]
 
+** Open Culture Links
+
+Wikipedia Links
+- [[https://en.wikipedia.org/wiki/Right_to_science_and_culture][Right to science and culture]]
+  - Part of the [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][Universal Declaration of Human Rights]]
+- [[https://en.wikipedia.org/wiki/Openness][Openness]] :: transparent and collaborative
+- [[https://en.wikipedia.org/wiki/Open_knowledge][Open knowledge]]
+  - [[https://en.wikipedia.org/wiki/Access_to_Knowledge_movement][Access to Knowledge movement]]
+- [[https://en.wikipedia.org/wiki/Free-culture_movement][Free-culture movement]]
+- [[https://en.wikipedia.org/wiki/Open_source][Open Source]]
+- [[https://en.wikipedia.org/wiki/Free_and_open-source_software][Free and open-source software]]
+  - [[https://en.wikipedia.org/wiki/Gratis_versus_libre][Disambiguating "free": gratis vs. libre]]
+  - [[https://en.wikipedia.org/wiki/Free_software][Free software]]
+    - [[https://en.wikipedia.org/wiki/Free_software_movement][Free software movement]]
+  - [[https://en.wikipedia.org/wiki/Open-source_software][Open-source software]]
+- [[https://en.wikipedia.org/wiki/Free_content][Free content]]
+  - [[https://en.wikipedia.org/wiki/Copyleft][Copyleft]]
+  - [[https://en.wikipedia.org/wiki/Patentleft][Patentleft]]
+- [[https://en.wikipedia.org/wiki/Open-design_movement][Open-design movement]]
+- [[https://en.wikipedia.org/wiki/Open_standard][Open standard]]
+- [[https://en.wikipedia.org/wiki/Open_educational_resources][Open educational resources]]
+  - [[https://en.wikipedia.org/wiki/Open_textbook][Open textbook]]
+  - [[https://en.wikipedia.org/wiki/Open-source_curriculum][Open-source curriculum]]
+- [[https://en.wikipedia.org/wiki/Open-source_architecture][Open-source architecture]]
+- [[https://en.wikipedia.org/wiki/Open_collaboration][Open collaboration]]
+- [[https://en.wikipedia.org/wiki/Open-source_hardware][Open-source hardware]]
+  - [[https://en.wikipedia.org/wiki/Open-source_robotics][Open-source robotics]]
+  - [[https://en.wikipedia.org/wiki/OpenCores][OpenCores]]
+  - [[https://en.wikipedia.org/wiki/Open_manufacturing][Open manufacturing]]
+  - [[https://en.wikipedia.org/wiki/Open-source_product_development][Open-source product development]]
+- [[https://en.wikipedia.org/wiki/Open-source_appropriate_technology][Open-source appropriate technology]]
+- [[https://en.wikipedia.org/wiki/Open_Source_Seed_Initiative][Open Source Seed Initiative]]
+- [[https://en.wikipedia.org/wiki/Open_science][Open science / Open research]]
+  - [[https://en.wikipedia.org/wiki/Open_access][Open access]]
+- [[https://en.wikipedia.org/wiki/Open-source_film][Open-source film]]
+  
 ** Ideal LOEL Materials
 
 *** Active Notebook Documents
