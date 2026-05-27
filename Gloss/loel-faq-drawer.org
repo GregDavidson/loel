@@ -1,0 +1,21 @@
+* FAQ Drawers In LOEL Materials
+
+- FAQ :: Frequently Asked Questions
+
+LOEL Materials are centered around the needs of /Learners/.
+
+When a Learner has a question about something in a /LOEL Document/ (Web Page,
+OrgMode Document, etc.) they will look for a /FAQ Drawer/. A FAQ Drawer should
+open when clicked on.
+
+Opening a FAQ Drawer, Learners might find
+- a relevant question is already in that FAQ Drawer!
+- a useful answer to their question!
+While the FAQ Drawer is open, Learners can
+- Propose a new Question
+- Propose a new Answer to any Question in the Drawer
+- Rate or comment on existing Questions or Answers
+
+The /Peer Facilitators/ and /Experts/ will use Learner submissions and feedback
+to improve the usefulness of the content of the FAQ Drawer and the content which
+it's attached to.
