@@ -1,0 +1,19 @@
+* Resources for Org-Capture of Org-Mode
+
+- [[https://howardism.org/Technical/Emacs/capturing-intro.html][Org Capturing Introduction]]
+
+
+- [[https://orgmode.org/manual/Capture-and-Attachments.html][Capture and Attachments (orgmode manual)]]
+
+- [[https://deepwiki.com/sprig/org-capture-extension/1-overview][Org Capture Extension]]
+
+
+** Org-Capture and Firefox
+
+- [[https://addons.mozilla.org/en-US/firefox/addon/org-capture][Org Capture for Firefox (kosta)]]
+
+** Org-Capture and MacOS
+
+- [[https://macowners.club/posts/org-capture-from-everywhere-macos][Org capture from everywhere in macOS (Aimé Bertrand)]]
+
+- [[https://irreal.org/blog/?p=10628][Org Capture from Anywhere Within macOS (Irreal)]]
