@@ -1,0 +1,17 @@
+* Awesome Lists
+
+- [[https://github.com/HussainAther/awesome-philosophy][Awesome Philosophy]]
+- [[https://github.com/weeeBox/awesome-psychology][Awesome Psychology]]
+  - More than just Psychology!
+- [[https://en.wikipedia.org/wiki/Evolutionary_psychology][Evolutionary Psychology (WIkipedia) - Lots of Links!]]
+- [[https://awesome.ecosyste.ms/][Awesome Lists Of Open Source Software]]
+- [[https://awesome.ecosyste.ms/lists/trimstray%2Fthe-book-of-secret-knowledge][The Book Of Secret Knowlege]]
+  - A collection of inspiring lists, manuals, cheatsheets, blogs,
+    hacks, one-liners, cli/web tools and more.
+- [[https://abi-aryan.github.io/awesome-cogsci/][Cognitive Science Awesome List]]
+- [[https://github.com/abi-aryan/awesome-cogsci][Awesome Cognitive Science - Abi-Aryan]]
+- [[https://project-awesome.org/YuzheSHI/awesome-agi-cocosci][Awesome Artificial General Intelligence and Computational Cognitive
+  Sciences (Project Awesome)]]
+- [[https://github.com/sakimarquis/awesome-computational-neuroscience/#readme][Awesome Computational Neuroscience]]
+- [[https://en.wikipedia.org/wiki/Category:Cognitive_science_lists][Wikipedia Cognitive Science Lists]]
+  

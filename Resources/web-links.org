@@ -1,0 +1,21 @@
+* LOEL Resources Web Links
+
+** Illustrated Guides
+
+- [[https://github.com/searchableguy/awesome-illustrated-guides#readme][Awesome Illustrated Guides or Children's Books on Technical Topics]]
+
+- [[https://www.youtube.com/@domainofscience/videos][Domain of Science]] :: Maps of all human knowledge!
+
+** Free Digital Media
+
+- [[https://www.openculture.com][Open Culture]] - a repository of great free online learning materials!
+- [[https://project-awesome.org][Curated list of awesome lists]]
+      - [[https://github.com/sindresorhus/awesome#readme][List of Awesome Lists (Github)]]
+- [[https://github.com/jnv/lists#readme][More Lists (GitHub)]]
+*** STEM
+
+- [[https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html][Structure and Interpretation of Computer Programs]]
+
+- [[https://tgvaughan.github.io/sicm][Structure and Interpretation of Classical Mechanics]]
+      - [[https://github.com/tgvaughan/sicm#readme][Github Source]]
+      - [[https://groups.csail.mit.edu/mac/users/gjs/6.5160/errata.pdf][errata]]

@@ -1,0 +1,6 @@
+* General Resources
+
+- [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia]]
+  - Note section on other Wikimedia projects!
+  
+- [[https://handwiki.org/wiki/Start][HandWiki]] :: a wiki encyclopedia for collaborative editing of articles on computing, science, technology and general knowledge. Registered

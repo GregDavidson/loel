@@ -1,0 +1,11 @@
+* Learning Techniques and Tools
+
+** Spaced Repetition
+
+Open Source Spaced-Repetiion Tools
+- https://en.wikipedia.org/wiki/Mnemosyne_(software)
+- [[https://en.wikipedia.org/wiki/Mnemosyne_(software)][Mnemosyne (Wikipedia)]]
+- [[http://opencards.info][OpenCards]] :: ppt-based, maybe needs a computer rather than a phone.
+  - LibreOffice compatible.
+    
+- [[https://en.wikipedia.org/wiki/SuperMemo#Description_of_SM-2_algorithm][SM2 Algorithm]]
