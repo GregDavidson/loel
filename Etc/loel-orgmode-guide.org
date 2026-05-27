@@ -1,0 +1,97 @@
+* LOEL Guideline for OrgMode
+
+For context, please read
+- [[file:loel-document-ambitious.org][LOEL Document Requirements and Ambition]]
+
+** OrgMode is our Interim Primary Format
+
+OrgMode supports our Essential Requirements
+
+OrgMode Advantages
+It's a text format
+- Easy to display or edit
+- Supporting rich meta-data
+- Can export to other important formats
+      - Web Pages, Word Processor Documents, etc.
+- Interfaces easily with other tools
+      - Version Management Tools, e.g. =git=
+
+OrgMode Disadvantages
+- OrgMode syntax is somewhat complex and picky
+- Doesn't /directly/ support
+      - Transclusion
+      - Non-text media inclusions
+      - Multiple Simultaneous Users
+
+OrgMode limitations can be overcome with external tools
+- =git= for versioning
+- =github= for allowing multiple simultaneous users
+- =emacs= for managing OrgMode syntax
+
+** OrgMode Resources
+
+- [[https://orgmode.org][Official OrgMode Website]]
+- [[https://github.com/GregDavidson/computing-magic/tree/main/Software-Tools/Emacs][Emacs and OrgMode at the LOEL Computing Magic Curriculum]]
+- [[https://github.com/GregDavidson/computing-magic/tree/main/Software-Tools/Git][Git and GitHub at the LOEL Computing Magic Curriculum]]
+
+** OrgMode Style Guidelines for LOEL
+
+*** Use TAGs and Centralize TAG names
+
+Use OrgMode TAGs to make clear what topics a particular part of your document
+relate to. This is especially useful in Glossaries.
+
+For ease of understanding
+- create a file named =tag-names.org=
+- in the =Etc= directory
+- at the top of each =LOEL Curriculum Git Repository=
+
+*** Working with GitHub Limitations
+
+Not everyone is ready to use Emacs for everything yet!
+
+GitHub allows direct reading and editing of OrgMode documents if you adapt to
+its limitations.
+
+Internal Links
+- GitHub doesn't understand Internal Links
+- So link to the whole document
+- And inform the User what to Search For
+
+Indentation
+- Indentation needs to be at least 4 spaces
+      - I haven't yet figured out the best Emacs settings to automate this,
+        do you know?
+
+Possible LOEL Project:
+- Improve GitHub's support for OrgMode
+- Write the needed code
+      - This must be done in Ruby
+      - way consistent with their extensions
+- Convince GitHub to adopt your code!
+      - maybe get in communication with their team first!
+- Supporting Internal Links is a priority
+      - especially for Transclusion!
+
+*** Without Proper Transclusion, Do Instead
+
+An important philosophy in all digital work is
+- Don't Repeat Yourself
+When the same information exists in more than one place
+- Updates of that information become difficult
+Ideally we would share (Transclude) anything needed in multiple documents
+- Definitions
+- Quotes
+- Examples
+- Etc.
+
+Without the Wicci System, we must share content via /Copy and Paste/.
+- Designate a single source document for the shared content
+- Copies of the content must be accompanied with
+      - a link to the source document
+            - alas, internal links don't work with GitHub!
+      - a TAG indicating it's shared content
+            - what tag should we use???
+- Only manually change the source document
+- Propagate the changes using a tool
+      - what tools should we use???

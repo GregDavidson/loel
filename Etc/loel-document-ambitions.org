@@ -1,0 +1,46 @@
+* LOEL Document Requirements and Ambition
+
+** LOEL Document Format Requirements
+
+The LOEL Project is committed to allowing all /LOEL Participants/ to co-create
+and co-evolve all of our materials.
+
+Our document formats must be
+- Non-Proprietary, Open Formats
+- Sophisticated yet accessible
+      - Supporting Rich Meta-Data
+            - Links, TAGs, Markup, etc.
+      - Easily understood, easily worked with
+      - Easily translatable to other formats
+            - Web Pages
+            - Word Processor Formats
+            - Databases
+            - etc.
+- Non-destructive
+      - Edits create new versions
+      - Older versions are still available
+
+** Our Interim System is OrgMode + Git + GitHub
+
+- [[file:loel-orgmode-guide.org][LOEL OrgMode Guide]]
+
+** The [[https://gregdavidson.github.io/wicci-core-S0_lib][Wicci System]] is Our Goal
+
+We plan to eventually use a the [[https://gregdavidson.github.io/wicci-core-S0_lib][Wicci System]] which is
+- accessible with any standard web browser
+      - including for editing
+- supporting all of Englebart's Augment System vision
+      - based on a database
+      - document structure is stable and protected
+      - with unlimited simultaneous users
+            - editing, viewing, interacting all at once
+      - preserving all history
+- supporting all of Ted Nelson's vision
+      - transclusion
+            - documents share content flexibly
+      - fantics
+            - interactive graphic micro-simulations
+
+The [[https://gregdavidson.github.io/wicci-core-S0_lib][Wicci System]] is currently in development
+- Not yet ready for use
+- Would you like to help us develop it?
