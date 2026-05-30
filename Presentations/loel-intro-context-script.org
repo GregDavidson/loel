@@ -1,187 +1,150 @@
-* LOEL Introductory Video: Context
+* Introductory Video: A Context for LOEL
 
 An interview of Greg Davidson by Lynn Dobbs.
 
 ** The intention of this video
 
-*** Lynn
-
-Welcome, Dear Viewer: I'm looking forward to sharing with you the gist
-  of some rich conversations which Greg and I have been having.
-
-Greg, what do you want to accomplish with this first video?
-
-*** Greg
-
-I've been working on a new educational system which puts Learners
-First. and I've been running into Paradigms in our society which limit
-what's possible.
-
-In this video I'd like to reveal those Paradigms and related Contexts
-so that we have the awareness to create outside of traditional limits.
+- Lynn :: (without Greg) My name is Lynn.  I'm looking forward to
+  sharing some rich conversations which my friend Greg and I have been
+  having.
+- Lynn :: (with Greg) Let me introduce Greg to you.  Greg has a deep
+  understanding of many things including human nature, science, and in
+  creating a future worth living into.
+- Lynn :: Greg, what do you want to accomplish with this video?
+  
+- Greg :: I want to share the context behind a new initiative, the
+  League of Extraordinary Learners.
 
 ** Context and Paradigm
 
-*** Lynn
-
-What do you mean by Paradigm and by context?
-
-*** Greg
-
-Earlier we were talking about them and we got some confusions about
-Paradigms and Contexts, so we looked them up.  Lynn, would you read
-the first two definitions of what we found for Context in the
-Mirriam-Webster Dictionary?
-
-*** Lynn
-
-Sure:
-1. The parts of a discourse that surround a word or passage and can throw light
-   on its meaning.
-2. the interrelated conditions in which something exists or occurs: environment,
-   setting, the historical context of a war, and so forth.
-
-*** Greg
-
-You get this notice that a Context is something additional, that is
-surrounding something, giving it meaning.
-
-A context could be explicit, where you could point to it.
-
-Or it might be in the background, unspoken, not something which we are
-consciously aware of, yet still influencing the meaning of things.
-
-Does the dictionary say anything else?
-
-*** Lynn
-
-Yes, it goes on to say:
-#+begin_quote
-Context now most commonly refers to the environment or setting in which
-  something (whether words or events) exists. When we say that something is
-  contextualized, we mean that it is placed in an appropriate setting, one in
-  which it may be properly considered.
-#+end_quote
-
-*** Greg
-
-There we go: Properly considered, or sometimes improperly considered
-or not considered at all!
-
-Ideally contexts would be explicit and consciously noticed. But they
-are often implicit and not consciously noticed.  In that case the
-meanings which they determine simply occurs as "the truth" or just
-"they way things are".
-
-Lynn, would you read what the American Heritage dictionary says about
-Paradigm:
-
-*** Lynn
-
-#+begin_quote
-A set of assumptions, concepts, values and practices that constitute a way of
-  viewing reality for the community that shares them.
-#+end_quote
-
-*** Greg
-
-There we go. Paradigms are the Bigger, Broader Contexts at the level
-of our community or society. We generally don't consciously notice
-them, even as they determine our assumptions, understanding, values
-and what appears to be reality.
-
-Before we can think freely or act freely, we have to get clear about
-any existing Contexts which are influencing us. Any contexts which
-we're not aware of will tend to do our thinking for us!
+- Lynn :: What do you mean by context?
+  
+- Greg :: Ha! That's the first thing we need to talk about! I remember that we
+  argued a bit about it in one of our earlier conversations. What did we find
+  when we looked in the dictionary?
+  
+- Lynn :: Merriam-Webster gave two definitions:
+      1. The parts of a discourse that surround a word or passage and can throw
+         light on its meaning.
+      2. the interrelated conditions in which something exists or occurs:
+         environment, setting.
+	 
+- Greg :: Okay! The first definition is about explicit context, where you can
+  point to a part of a text which provides context for another part.
+- Greg :: I'm more interested in the second definition, where the context is
+  implicit, where we don't consciously notice it yet it influences our
+  understanding of things.
+- Greg :: Does the dictionary say anything else?
+  
+- Lynn :: Yes, it goes on to say:
+      - "Context now most commonly refers to the environment or setting in which
+        something (whether words or events) exists. When we say that something
+        is contextualized, we mean that it is placed in an appropriate setting,
+        *one in which it may be* properly considered."
+	
+- Greg :: Yeah: Properly considered - or maybe improperly considered
+  or not considered at all without our being aware of that context
+  influencing us!
+- Greg :: I want to talk about the contexts which have informed our
+  understanding of human relationships and then I'll focus on
+  relationships in Education. I will also be using the term /Paradigm/
+  to refer to the large implicit contexts which exist at the level of
+  societies and /Model/ when we're looking at the structure of these
+  contexts
 
 ** Changing Contexts Change Content and Relationships!
 
-*** Greg
-
-Consider what everyone knew for thousands of years:
-- If you want your children to turn out well you need to
-      - punish them when they don't do what you tell them to do
-      - and when they do what you told them /not to do/.
-- Teachers frequently doled out punishment to discipline their
-  students.
-- Employers used punishment to keep their employees in line.
-- And so on.
-
-It was rarely said explicitly, but the context of punishment-is-good
-  was part of the context for
-- "Child rearing"
-- "Teaching"
-- "Management"
-- "Spousal relations"
-- "Animal training".
-- Wherever there was someone with "power over" another.
-
-Successful character development involved "discipline" in the form of
-  punishment.
-- Self-Discipline and good habits were supposed to emerge from the
-  internalization of the fear of punishment.
-- Respect for authority meant being properly afraid of punishment from those
-  with power over us.
-
-*** Lynn
-
-That reminds me of the phrase "Fear of God".
-
-*** Greg
-
-Yup! Fear was supposed to be good for people's development. Then
-  research studies started to show that negative reinforcement is generally
-  counterproductive. Reformers combined the results of this research with moral
-  arguments to argue against the use of punishment. The old "paradigm" was
-  weakened and a new paradigm began to emerge - and is still emerging.
-
-*** Lynn
-
-What is this new paradigm, what are the new contexts?
-
-*** Greg
-
-Part of the emerging paradigm is the possibility of partnership.
-- Partnership is now the ideal in spousal relationships.
-- In employer/employee relationships we now hear a lot about team and
-  partnership - and where this becomes real, productivity increases.
-- Reformed parent/child and teacher/student relationships now have little
-  or no physical punishments
-      - but they are not good examples of partnership!
-
-*** Lynn
-
-I'm hear you saying that the new context for spousal relationships is
+- Greg :: Consider what everyone knew for thousands of years:
+      - If you want your children to turn out well you need to
+            - punish them when they /don't do/ what you tell them to
+            - and punish themwhen they do /what you told them not to/.
+      - Teachers traditionally used punishment frequently to discipline their
+        students to make them learn properly.
+      - Employers also traditionally used intimidation and a variety
+        of punishments to keep their employees in line.
+- Greg :: Although It was rarely said explicitly, the context of
+  punishment-is-good-for-you, a classic part of the Dominator
+  Paradigm, showed up strongly in
+      - "Child rearing"
+      - "Teaching"
+      - "Management"
+      - "Spousal relations"
+      - "Animal training".
+      - Wherever there was someone with "power over" another.
+- Greg :: Successful character development was supposed to follow the
+  internalization of the fear of punishment: this would supposedly
+  build "self-discipline" and good habits. "Respect for authority" was
+  about being properly terrified of punishment from those above us.
+  
+- Lynn :: That reminds me of the phrase "Fear of God" that I was
+  taught, without a context, in Lutheran School as a child.
+  
+- Greg :: Yup! Fear was supposed to be good for people's
+  development. But when social science researchers tried to measure
+  this "benefit", their studies instead showed that any amount of
+  negative reinforcement is generally counterproductive. Reformers
+  used these results along with moral arguments to argue against the
+  use of punishment. This has gradually been weakening the Dominator
+  Paradigm and a new paradigm began to emerge - and is still emerging.
+  
+- Lynn :: What is this new paradigm, what are the new contexts?
+  
+- Greg :: Part of the emerging paradigm is the possibility of partnership.
+      - Partnership is now the ideal in spousal relationships.
+      - In employer/employee relationships we now hear a lot about
+        team and partnership - and where this is more than empty
+        rhetoric, productivity increases.
+      - Reformed parent/child and teacher/student relationships now have little
+        or no physical punishments
+            - but they are not good examples of partnership!
+	      
+- Lynn :: I'm hearing you saying that the new context for spousal relationships is
   partnership and that this context works best for employer/employee
   relationships as well - though this is maybe a work in progress. But I think
   I'm hearing you say that the context in our society for parent/child and
   teacher/student relationships is /not/ partnership? So what is it?
+  
+- Greg :: In modern urban societies where we have ended child labor we
+  tend to infantilize our children. They consume resources rather than
+  helping produce them. We care about them but we treat them like pets
+  while waiting for them to magically turn into human beings and leave us.
+- Greg :: Most institutional schools are strongly top-down.  The
+  administrators tell the teachers how to go about educating the
+  students.  The teachers provide lectures, assignments and tests.
+  The teachers grade the student's assignments and tests which become
+  part of a final grade in the student's permanent record as proof of
+  the worth of that student.  These grades as the basis for future
+  educational and employment opportunities.  It's the traditional
+  top-down Dominator Paradigm, just without the physical punishment.
+  Psychological punishment such as humiliation and the constant fear
+  of judgment and failure are the norm. The results are learned
+  helplessness and generally disappointing educational outcomes.
+  
+- Lynn :: Wow, that sounds pretty grim.  Is anything changing?
 
-*** Greg
+- Greg :: Many modern schools are attempting to reform teaching
+  methods, but they struggle with the flaw of their fundamental
+  paradigm.  It's hard to change what you're doing when you aren't
+  changing your context - where you're /coming from/.  Some parents
+  opt out of school entirely, in favor of home schooling and other
+  forms of unschooling.  There are also a few schools which do /not/
+  operate inside of the Dominator Model, for example Montessori
+  Schools.  Montessori Schools in the US are primarily available to a
+  wealthy elite, but they are more generally available in some other
+  countries.  The biggest new trend is to move educational activities
+  and materials online.  While most of these materials, for example
+  lectures are still coming from a top-down Dominator context, they
+  can often be used in a more Learner-centric Partnership context.
+  One of these online initiatives is /The League of Extraordinary
+  Learners/ which will will be the topic of another video.  In the
+  meantime, you can visit /The League of Extraordinary Learners/
+  website: T-L-O-E-L DOT org.
 
-In modern urban societies where we have ended child labor we tend to
-  infantilize our children. They have no meaningful role in the family. We care
-  about them but we treat them like pets while waiting for them to magically
-  turn into human beings and leave us.
-
-In most institutional schools the context is that the administrators
-  tell the teachers what to do and the teachers tell the students what to do.
-  It's the traditional Dominator Paradigm, just without the physical punishment.
-  Psychological punishment such as humiliation and the constant fear of judgment
-  and failure are the norm. The results are learned helplessness and generally
-  disappointing educational outcomes.
-
-*** Lynn
-
-Wow, that sounds pretty grim.  Is anything changing?
-
-*** Greg
-
-There are a number of parents and schools trying to turn this around,
-  including home schoolers, unschoolers, Montessori schools, mastery learning
-  and /The League of Extraordinary Learners/! That will be the topic of another
-  video. All of this material is availble in text form with lots more details on
-  the website tloel.org [[https://tloel.org][The League of Extraordinary Learners]].
+- Lynn :: I really like what you say, Greg.  I look forward to working
+  with you on further videos.  (without greg) Stay tuned!  More videos
+  to come.  Please consider what we talked about in this one and
+  figure out if you are operating from a Dominator Model or a
+  Partnership Model and which one do you want to live in to? 
 
 ** References
 
