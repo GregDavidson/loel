@@ -1,4 +1,7 @@
 * Introductory Video: A Context for The LOEL
+:PROPERTIES:
+:ID:       71d6aa43-e96a-48ed-9976-65d5589ad2b8
+:END:
 
 An interview of Greg Davidson by Lynn Dobbs about
 - the context behind
@@ -80,14 +83,19 @@ study its characteristics, e.g.
   truth about something - like we ever know that! - it just has to
   help us understand something.
 
+- Lynn :: Reminds me a great quote, "All models are false, and some are useful."
+
+- Greg :: Ha! I used to hate that quote - and now I love it!
+
 ** Changing Contexts Change Content and Relationships!
 
 - Greg :: I'm going to be introducing two key /Paradigms/ which I
   learned from /Riane Eisler/
-  - the Dominator Paradigm :: exercising power /over/ another person
-    or persons
-  - the Partnership Paradigm :: sharing power /with/ one or more
-    others
+  - the Dominator Paradigm :: where the powerful exercise their /power
+    over/ other people in in /win-lose/ interactions.
+  - the Partnership Paradigm :: where people work tegether, combining
+    their /power together/ for the gain of all in /win-win/
+    interactions.
 
 - Greg :: Consider what everyone knew for thousands of years:
       - If you want your children to turn out well you need to
@@ -285,12 +293,12 @@ study its characteristics, e.g.
 
 ** References
 
-- [[https://www.merriam-webster.com/dictionary/context][Merriam-Webster Dictionary: context]]
 - [[https://en.wikipedia.org/wiki/Dominator_culture][Wikipedia: Dominator Culture]]
-- [[https://en.wikipedia.org/wiki/Unschooling][Wikipedia: Unschooing]]
+- [[https://en.wikipedia.org/wiki/Prussian_education_system][Prussian education system]]
 - [[https://en.wikipedia.org/wiki/Montessori_education][Wikipedia: Montessori Education]]
 - [[https://en.wikipedia.org/wiki/Mastery_learning][Wikipedia: Mastery Learning]]
-- [[https://en.wikipedia.org/wiki/Prussian_education_system][Prussian education system]]
+- [[https://en.wikipedia.org/wiki/Unschooling][Wikipedia: Unschooing]]
+
 ** Currently Deleted Scenes
 
 Greg brought back having Lynn look up Paradigm and Model!
