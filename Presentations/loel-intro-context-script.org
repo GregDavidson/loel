@@ -1,4 +1,7 @@
 * Introductory Video: A Context for The LOEL
+:PROPERTIES:
+:ID:       71d6aa43-e96a-48ed-9976-65d5589ad2b8
+:END:
 
 An interview of Greg Davidson by Lynn Dobbs about
 - the context behind
@@ -9,11 +12,14 @@ An interview of Greg Davidson by Lynn Dobbs about
 - Lynn [without Greg] :: My name is Lynn.  I'm looking forward to
   sharing some rich conversations which my friend Greg and I have been
   having.
-- GREG ::
+
+- GREG :: And we're actually in the same physical space, which is a
+  great privilege!
   
 - Lynn [with Greg] ::  Let me introduce Greg to you.  Greg has a deep
   understanding of many things including human nature, science, and
   creating a future worth living into.
+
 - Lynn :: Greg, what do you want to accomplish with this video?
   
 - Greg :: I want to share the context behind a new initiative
@@ -31,7 +37,7 @@ An interview of Greg Davidson by Lynn Dobbs about
       - Definition 1 :: The parts of a discourse that surround a word
         or passage and can throw light on its meaning.
       - Definition 2 :: The interrelated conditions in which something
-        exists or occurs: environment, setting.
+        exists or occurs: the environment or setting.
 	 
 - Greg :: Okay! The first definition is about Explicit Context, where you can
   point to a part of a text which provides context for another part.
@@ -58,10 +64,9 @@ An interview of Greg Davidson by Lynn Dobbs about
   says about /Paradigm?/
 
 - Lynn :: Sure:
-  #+begin_quote
-A set of assumptions, concepts, values and practices that constitute a way of
-  viewing reality for the community that shares them.
-#+end_quote
+  - Paradigm :: A set of assumptions, concepts, values and practices
+    that constitute a way of viewing reality for the community that
+    shares them.
 
 -Greg :: There we go. Paradigms are the Bigger, Broader Contexts at
 the level of our Community or Society.  They are a key part of what we
@@ -70,27 +75,30 @@ call /Culture/.
   about /Model/ as a description of a system or phenomenon?
 
 - Lynn :: Okay, that's the 3rd definition:
-#+begin_quote
-A schematic description or representation of something, especially a
-system or phenomenon, that accounts for its properties and is used to
-study its characteristics, e.g.
-  - a model of an atom
-  - an economic model
-#+end_quote
+  - Model :: A schematic description or representation of something,
+    especially a system or phenomenon, that accounts for its
+    properties and is used to study its characteristics, for example
+    - a model of an atom
+    - an economic model
 
 - Greg :: Thanks!  Note that a /Model/ doesn't have to be the complete
   truth about something - like we ever know that! - it just has to
   help us understand something.
 
-  - LYNN :: Reminds me a great quote, "All models are false, some are useful." 
+- Lynn :: Reminds me of a great quote, "All models are false, and some are useful."
+
+- Greg :: Ha! I used to hate that quote - and now I love it!
+  - Now I have the right context for it!
+
 ** Changing Contexts Change Content and Relationships!
 
 - Greg :: I'm going to be introducing two key /Paradigms/ which I
   learned from /Riane Eisler/
-  - the Dominator Paradigm :: exercising power /over/ another person
-    or persons
-  - the Partnership Paradigm :: sharing power /with/ one or more
-    others
+  - the Dominator Paradigm :: where the powerful exercise their /power
+    over/ other people in in /win-lose/ interactions.
+  - the Partnership Paradigm :: where people work tegether, combining
+    their /power together/ for the gain of all in /win-win/
+    interactions.
 
 - Greg :: Consider what everyone knew for thousands of years:
       - If you want your children to turn out well you need to
@@ -108,14 +116,14 @@ study its characteristics, e.g.
       - "Management"
       - "Spousal relations"
       - "Animal training".
-      - Wherever there was someone with "power over" another.
+      - Wherever there was someone with /power over/ another.
 - Greg :: Successful character development was supposed to follow the
   internalization of the fear of punishment: supposedly building
-  "self-discipline" and good habits. "Respect for authority" was
+  /self-discipline/ and good habits. /Respect for authority/ was
   supposed to follow being properly terrified of punishment from those
   with power over us.
   
-- Lynn :: That reminds me of the phrase "Fear of God" that I was
+- Lynn :: That reminds me of the phrase /Fear of God/ that I was
   taught, without a context, in Lutheran School as a child.
   
 - Greg :: Yup! Fear was supposed to be good for people's
@@ -166,47 +174,54 @@ study its characteristics, e.g.
   5. And other "innovative practices" - [heavy sarcasm]!
      
 - Greg :: This is a /Top-Down/ system, part of /Dominator Culture/.
-  It's based on a hierarchy: administrators tell the teachers how to
-  go about educating the students - despite having no experience
-  teaching.  The teachers deliver approved lectures, assignments and
-  tests to the students.  The teachers then grade the student's
-  assignments and tests which become part of a final grade in the
-  student's permanent record as proof of the worth of that student.
-  These grades as the basis for future educational and employment
-  opportunities.  The only thing that's changed in the last 100 years
-  is that teachers and administrators no longer use physical
-  punishment as part of the indoctrination and control.  Instead, they
-  use psychological punishment such as humiliation in front of their
-  peers and the constant fear of judgment and failure.  The results
-  are learned helplessness and overall disappointing educational
-  outcomes.
+  It's based on a hierarchy:
+  -  administrators tell the teachers how to go about educating the students
+     - despite having no experience teaching.
+  -  The teachers deliver approved lectures, assignments and
+     tests to the students.
+  -  The teachers then grade the student's assignments and tests which
+    become part of a final grade in the student's permanent record as
+    proof of the worth of that student.
+  - These grades as the basis for future educational and employment
+    opportunities.
+- Greg ::  The only thing that's changed in the last 100 years is that:
+  - Teachers and administrators no longer use physical punishment as
+    part of the indoctrination and control.
+  - Instead, they use psychological punishment such as humiliation in
+    front of their peers and the constant fear of judgment and
+    failure.
+  - The results are learned helplessness and overall disappointing
+    educational outcomes.
   
 - Lynn :: Wow, that sounds pretty grim.  Is anything changing?
 
 - Greg :: Many modern schools are attempting to reform teaching
   methods, but they struggle with the flaw of their fundamental
-  paradigm.  It's hard to change what you're doing when you aren't
-  changing your context - where you're /coming from/.  Some parents
-  opt their children out of school entirely, in favor of home
-  schooling and other forms of unschooling.  But there are a few
-  alternative schools which do /not/ operate inside of the Dominator
-  Model, for example Montessori Schools.
+  paradigm.
+  -  It's hard to change what you're doing when you aren't changing
+    your context - where you're /coming from/.
+  - Some parents opt their children out of school entirely, in favor
+    of home schooling and other forms of /unschooling/.
+  - But there are a few alternative schools which do /not/ operate
+    inside of the Dominator Model
+  -  for example Montessori Schools.
 
 - Lynn :: I love Montessori Schools, but tell us why you think they're
   important.
 
-- Greg :: Maria Montessori is another of our heros.  She believed that
-  children were naturally motivated to learn, without any need to try
-  to compell them.  She also believed that "children are better at
-  learning than teachers are at teaching".  Instead of developing /a
-  teaching system/, she developed /a learning system/, consisting of
-  classrooms full of interactive learning materials designed to
-  provide natural feedback to a child working with them.  A Montessori
-  classroom has a trained facilitator in the classroom (she called
-  them "Directresses") rather than a teacher.  A key distinction is
-  that a facilitator is a resource for the child, not an intermediary
-  like a teacher.  A facilitator sits to the side, rather than
-  standing in front.
+- Greg :: Maria Montessori is a hero of humanity!
+  -  She believed that children were naturally motivated to learn,
+    without any need to compell them.
+  -  She also believed that "children are better at learning than
+    teachers are at teaching".
+  -  Instead of developing /a teaching system/, she developed /a
+    learning system/
+    - a classroom full of interactive learning materials designed to
+      provide natural feedback to a child working with them.
+    - with a guide, a trained facilitator, rather than a teacher.
+  - A key distinction is that a facilitator is a resource for the
+    child, not an intermediary like a teacher.
+    - A facilitator sits to the side, rather than standing in front.
 
 - Lynn :: How available is Montessori Education today?
 
@@ -226,58 +241,70 @@ study its characteristics, e.g.
 - Lynn :: Do you have a plan for fixing this?
 
 - Greg :: Yes, but first there's one more system I'd like to mention,
-  /Mastery Learning/.  I encountered this at the University of
-  California in the late 1970s and early 1980s - I later learned that
-  it was being tried out by innovative educators worldwide at that
-  time.  In Mastery Education the material to be learned is divided up
-  into logical modules accompanied by self-paced interactive exercises
-  and self-assessment tests.  The exercises can be done alone or with
-  partners.  The exercises and tests are designed only to assist the
-  learners in mastering each module before moving on - their results
-  do not go on any permanent record.  What we observed is that instead
-  of hating tests, the students in the Mastery Learning courses loved
-  them: they could hardly wait to take the next test!  And when we
-  measured their accomplishments at the end of the term against
-  students taking the older conventional version of the course: 80% of
-  the Mastery students scored at the level of a high "A" whereas only
-  about 15% of the students coming out of the conventional version of
-  those courses got any kind of an "A".
-
-- Greg :: We also learned two more things: Students who completed the
-  new courses the previous year were better facilitators for the new
-  students than so-called "experts" in the subject.  And those "peer
-  facilitators" were also better at improving the learning materials!
-  Do you see /Partnership Culture/ involved here?
+  /Mastery Learning/.
+  - I encountered this at the University of California at San Diego in
+    the late 1970s and early 1980s
+    - I later learned that it was being tried out by innovative
+      educators worldwide at that time, but I'll speak from my
+      experience at UC San Diego.
+  - In Mastery Education the material to be learned is divided up into
+    logical modules accompanied by self-paced projects and
+    self-assessment tests.
+    - The projects ccould be done alone or with partners but each
+      learner had to show individual mastery for their project to pass.
+    - The tests were comprehensive and extremely challenging and learners were required to score 100% to pass!
+  - Despite the unusually challenging projects and tests, the learners loved both!
+    - The projects and tests did not go on any permanent record.
+    - They were only there to assist the student in mastering the material of the module.
+    - If they failed a test, they could take a different, equally
+      comprehensive version after another day of studying.
+  - We ran the Mastery Course alongside the traditional "Lecture & Recitation" Course for a year,
+    - About 15% of the students in the traditional course got an "A".
+    - 80% of the Mastery students got an "A"!
+    - And detailed examination showed that the Mastery Students with
+    - The traditional courses were discontinued!      
+- Greg :: The Mastery Courses had an additional resource:
+  - Students who completed the course were invited to become /Peer
+    Facilitators/ to assist the students in the course the next year.
+  - We found that these /Peer Facilitators/ were much better at assisting students who were
+    have trouble with the material than our professors!    
+  - The /Peer Facilitators/ also contributed major improvements to the
+    learning materials, including submitting the questions for the
+    tests!
+  - Do you see /Partnership Culture/ involved here?
 
 - Lynn :: Defintely!  So is your plan to create new schools combining
   the Montessori and Mastery systems?  That sounds great but also
   pretty ambitious!
 
 - Greg :: Well, physical classrooms have a lot of overhead, and
-  there's no way that any physical school: Prussian, Montesssori,
-  Mastery or anything else can adequately cover all of the subjects
-  which Learners want to Learn.  The biggest new trend is to move
-  educational activities and materials online.  While most of these
-  materials, especially lectures, still follow a top-down model, they
-  can often be placed in a more Learner-centric context by paring them
-  with interactive materials and a network of resources, including
-  fellow students and Peer Facilitators.  We don't want to replicate a
-  classroom experience but to meet the Learners where they are with
-  subjects, materials and resources they choose.  And after using
-  these on-line resources to learn something, they will be offered the
-  opportunity to be a facilitator for a few learners coming up behind.
-  We have built-in mechanisms for students and peer facilitators to
-  provide feedback on all of our materials, and peer facilitators will
-  also have an opportunity to revise existing materials.
+  there's no way that they can cover all of the subjects
+  which Learners want to Learn.
+  - Education is increasingly moving online.
+    - Most online educational materials follow a top-down model,
+    - However, they can often be adapted into Learner-centric context
+      by accompanying them with
+      - Self-Paced interactive materials
+      - Learning Partners
+      - Peer Facilitators
+      - etc.
+  - Learners who complete any of our curricula will be offered the
+    opportunity to be Peer Facilitators for the next set of learners!
+  - We have built-in extensive mechanisms for learners and peer
+    facilitators to provide feedback on all of our materials
+  - Learners, and especially Peer Facilitators will be invited to help
+    find, create and revise all of our materials - as well as to
+    create new curricula!
 
 - Lynn :: I like the idea of that, but I'm not so sure that someone
   who just learned something is a substitute for an actual expert!
 
 - Greg :: Oh, we'll have experts, but their job is to /facilitate/ the
-  development process rather than to control it top-down.  We intend
-  to provide some more in-depth videos about The LOEL and how it all
-  works in the near future.  In the meantime, you can visit /The
-  League of Extraordinary Learners/ website: T-L-O-E-L DOT org.
+  development process rather than to control it top-down.
+  -  /The League of Extraordinary Learners/ is new and in rapid
+    development.
+  - We invite you to to participate!
+  - Please visit our website at: T-L-O-E-L DOT org.
 
 - Lynn :: I really like what you say, Greg.  I look forward to working
   with you on further videos.
@@ -288,12 +315,12 @@ study its characteristics, e.g.
 
 ** References
 
-- [[https://www.merriam-webster.com/dictionary/context][Merriam-Webster Dictionary: context]]
 - [[https://en.wikipedia.org/wiki/Dominator_culture][Wikipedia: Dominator Culture]]
-- [[https://en.wikipedia.org/wiki/Unschooling][Wikipedia: Unschooing]]
+- [[https://en.wikipedia.org/wiki/Prussian_education_system][Prussian education system]]
 - [[https://en.wikipedia.org/wiki/Montessori_education][Wikipedia: Montessori Education]]
 - [[https://en.wikipedia.org/wiki/Mastery_learning][Wikipedia: Mastery Learning]]
-- [[https://en.wikipedia.org/wiki/Prussian_education_system][Prussian education system]]
+- [[https://en.wikipedia.org/wiki/Unschooling][Wikipedia: Unschooing]]
+
 ** Currently Deleted Scenes
 
 Greg brought back having Lynn look up Paradigm and Model!
