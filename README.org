@@ -6,7 +6,9 @@ Please see
 
 We want to ask
 - *What fascinates you?*
-- *What would you want to learn more about?*
+- *What would you like to learn more about?*
+- *What resources might aid you in your learning?*
+- *Do you have learning resources that you'd like to share?*
 LOEL is designed to satisfy and to feed these desires!
 
 ** LOEL Resource Collections
@@ -18,7 +20,7 @@ Learner Participation starts by
 - Utilizing resources in a LOEL Collection
 - Commenting on these resources
 - Recommending additional resources
-- Optionally: Directly collaborating with other Learners
+- Optionally: Collaborating with other Learners
 
 *** Some Resource Collections Online Now
 
