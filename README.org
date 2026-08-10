@@ -28,7 +28,7 @@ Learner Participation starts by
 - The big picture is simple and beautiful!
 - The details are awesome!
 
-[[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Rationality]]: *Developing our ability to think!*
+[[https://github.com/GregDavidson/Rationality/#readme][Rationality]] ::*Developing our ability to think!*
 
 [[https://github.com/GregDavidson/on-computing#readme][Deep Rationality]]: An inquiry into
 - *What Really Matters To You?*
