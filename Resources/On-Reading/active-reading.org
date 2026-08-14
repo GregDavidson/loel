@@ -1,0 +1,108 @@
+* Active Reading vs. Linear Media vs. Interactive Media!
+
+** Automatic Active Reading
+
+Good readers read actively
+- Speeding up over easy material.
+- Slowing down and re-reading over tougher material.
+- Stopping to think about emerging ideas.
+- *All automatically!*
+
+This level of reading competence is normal for [[file:native-readers.org][Native Readers]] but like
+fluency in other language skills, it can be learned.
+
+** Linear Media
+
+Audiobooks, audiovisual presentations (YouTube, etc.) are Linear Media:
+- The timeline is fixed.
+- The person listening (or watching and listening) must keep up!
+- Staying attentive over boring sections.
+- Struggling to fully process any rich sections.
+- Avoiding engaging with creative thoughts stimulated by the material
+  - Because you'll miss the next section!
+  
+Linear Media teach passivity!
+
+Passivity Greatly Lowers
+- Comprehension
+- Retention
+
+*** But Wait: Speed Controls!
+
+Many audio and audiovisual players provide controls for
+- Adjusting presentation speed.
+- Pausing to think or take notes.
+- Repeating the last bit.
+
+Yes, but are these controls easy?
+- With reading, the eyes do all of this effortlessly!
+- How easy is it to repeat just the bit you wanted to repeat?
+- Can you easily follow the presentation when its speed is doubled?
+  - Good readers can read easy material 2-3 times faster than the
+    spoken word with an *increase of comprehension*!
+
+Unless these controls are extremely well designed
+- Possibly using eye tracking?
+they will teach passivity!
+
+** How Active is Active?
+
+Consider the excellent YouTube video lectures on Science, Mathematics
+and other technical subjects.
+- An engaging speaker!
+- Excellent accompanying graphics!
+After watching
+- What do you truly understand?
+- Can you engage meaningfully with the material?
+  - Design, Calculate, Estimate, Plan?
+  - Anything active or creative?
+- How much will you retain?
+
+All of these questions can also be asked about reading material!
+- Many written materials leave readers feeling like they understand
+  things which they really don't understand well at all!
+
+** Even More Active Media
+
+*** Active Documents
+
+An Active Document is a document which combines
+- Explanations at multiple levels
+- Diagrams, animations and other media
+where the "Reader" can
+- Adjust the level of explanation
+  - e.g. using un/folding of content
+- Manipulate diagrams and animations
+  - e.g. Formulas with Graphics where
+    - changing the diagram changes the formula to match
+    - changing the formula changes the diagram to match
+
+*** Ted Nelson's /Dream Machines/
+
+In 1974 Ted Nelson published [[https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines][Computer Lib/Dream Machines]], two books
+bound together.  Much of /Computer Lib/ is now obsolete (although
+quite interesting).  /Dream Machines/ is still ahead of its time with
+brilliant ideas of Computers can support human creativity, learning
+and more.  Nelson's ideas have inspired some of the best of today's
+computer interfaces, yet there's much more we can exploit in this one
+volume.
+
+Nelson's ideas of hypermedia (invented by Englebart, taken much
+further by Nelson, implemented only very crudely by the modern Web)
+and Fantics and more should be read and studied throurougly by anyone
+interested in what computers can do for us!
+
+*** [[https://en.wikipedia.org/wiki/Notebook_interface][The Notebook Interface]]
+
+A simple kind of active document is the Notebook Interface
+- [[https://jupyter.org/][Jypyter]] :: each web document can have one "kernel" (computational
+  engine) supporting powerful interactive features.
+  - [[https://docs.jupyter.org/en/latest/][Project Jupyter Documentation]]
+- [[https://www.sagemath.org/][SageMath]] :: integrates several extremely-powerful open-source
+  mathematics tools with notebook-style and other interactive
+  interfaces.
+  - [[https://cocalc.ai/features/sage][CoCalc - SageMath Online]]
+- [[https://orgmode.org/worg/org-contrib/babel/][Babel]] :: possibly the most powerful, general and flexible active
+  notebook system, it's based on [[https://github.com/GregDavidson/computing-magic/blob/main/Software-Tools/Emacs/emacs-readme.org][Emacs OrgMode]] - a system famous for
+  its power but also for requiring some time to learn.  Hint: Apply it
+  to things you really care about and learn it gradually!

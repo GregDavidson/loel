@@ -1,0 +1,41 @@
+* LOEL On-Reading
+
+- [[file:native-readers.org][Become A Native Reader!]]
+- Prefer [[file:active-reading.org][Active Reading and Interactive Documents]]!
+  
+** Studies
+
+Most of these studies have serious methodological issues.  They should
+not be taken as definitive.
+
+[[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349778][Manga reading on paper vs. digital devices: Prospective effects on core and supportive integration processes in the brain]]
+
+[[https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation][RSVP: Rapid Serial Visual Presentation]]
+
+** Meta
+
+*** Purpose of this Document
+
+Collect material related to the importance of Reading as a fundamental
+skill.
+
+*** Link Elsewhere?
+
+**** Peter Gray
+
+- bio at Psychology Today: [[https://www.psychologytoday.com/us/contributors/peter-gray-phd][Peter Gray]] :: research professor at Boston College, author, focus primarily on children's natural ways of learning and the life-long value of play
+
+- Org: [[https://www.self-directed.org/][The Alliance for Self-Directed Education]]
+
+- Org: [[https://letgrow.org/][Let Grow]] :: Leading the Movement for Childhood Independence
+
+- blog: [[https://www.psychologytoday.com/us/blog/freedom-to-learn][Freedom to Learn]] :: The roles of play and curiosity as foundations for learning.
+
+- Book: [[https://www.amazon.com/dp/0465084990?tag=psychologytod-20&linkCode=ogi&th=1&psc=1][Free to LEARN]] :: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life
+
+- Article: [[https://www.psychologytoday.com/us/blog/freedom-to-learn/202303/what-has-caused-the-long-decline-in-kids-mental-health][What Has Caused the Long Decline in Kids’ Mental Health?]] :: New review of evidence points to increased supervision, decreased independence.
+
+- [[https://www.psychologytoday.com/us/blog/freedom-to-learn/202306/nothing-worth-learning-can-be-taught][Nothing Worth Learning Can Be Taught]] :: Teaching can provide clues for worthwhile learning but doesn’t produce it.
+
+- [[https://www.psychologytoday.com/us/blog/freedom-to-learn/202310/causes-of-kids-gradual-loss-of-freedom-from-1950-to-1990][Causes of Kids' Gradual Loss of Freedom from 1950 to 1990]] :: Adults gradually encroached upon and nearly destroyed the world of childhood.
+
