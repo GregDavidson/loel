@@ -85,8 +85,8 @@ You can read more in these documents
 
 This document is normally available at all the following urls:
 - Codeberg :: 
-- GitLab :: 
-- GitHub ::
+- GitLab :: https://gitlab.com/GregDavidson/loel/-/blob/main/README.org
+- GitHub :: https://github.com/GregDavidson/loel/#readme
   - GitHub is currently failing to correctly process OrgMode documents.
   - as of 2026-10-01
 
